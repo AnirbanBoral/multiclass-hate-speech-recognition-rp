@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# Keep .gitignore
+!.gitignore
+
+# Keep folders
+!main/
+!working/
+
+# Keep only this notebook
+main/*
+!main/memosen-swift-mbert-intermediate-fusion.ipynb
+
+# Keep everything in working
+!working/**
