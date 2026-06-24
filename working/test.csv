@@ -1,0 +1,875 @@
+Image_path,image_name,Captions,Label_Sentiment
+../dataset/Dataset\Memes\chosha (31).jpg,chosha (31).jpg,"Hi সরি আমার বয়ফ্রেন্ড আছে  আমি Hi বলছি, বাঁড়া চুষে দিতে বলেনি তোমাকে ",negative
+../dataset/Dataset\Memes\nurani-memes (219).jpg,nurani-memes (219).jpg,*Actual introverts*   Extroverts pretending to be introverts in social media  ,negative
+../dataset/Dataset\Memes\nurani-memes (47).jpg,nurani-memes (47).jpg,Types of Headache   Migraine   Hypertension Stress   A+ পাই নাই ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (18).jpg,bamboo-vaiya (18).jpg,"এই আপুকে একটা খারাপ জীন আছর করছে, সবাই তার জন্য দোয়া করো ।   1 Like = 1 দোয়া ",negative
+../dataset/Dataset\Memes\ovodro_img (539).jpg,ovodro_img (539).jpg,আমার এবার তিনজন ছেলেকে বিয়ে করা হবে    এরম বারে বারে বিয়ে না করে আমাকে বলতে পারিস তো একসাথে কয়েকটা ছেলে পাঠিয়ে দিতাম ,negative
+../dataset/Dataset\Memes\nurani-memes (103).jpg,nurani-memes (103).jpg,"-দোস্ত কিচ্ছু পারিনা, HSC তে যে কি হবে !   - হ্যাঁ দোস্ত , আমারে একি অবস্থা ।",positive
+../dataset/Dataset\Memes\ovodro_img (358).jpg,ovodro_img (358).jpg,"যখন তোমার সব বন্ধুগুলো তোমার সামনে প্লান করে 14 th Feb পার্ক, ভিক্টোরিয়া আর লিটনের ফ্লাটে যাবে কিন্তু তুমি সিঙ্গেল ",negative
+../dataset/Dataset\Memes\bamboo-vaiya (287).jpg,bamboo-vaiya (287).jpg,Kids are now a days :    When I was a Kid : ,negative
+../dataset/Dataset\Memes\KAM (65).png,KAM (65).png,"এই ছেলে তোমরা কই ভাই বোন? আমরা ২ ভাই,আমি আর আমার বড় ভাই কি করে তোমার বড় ভাই? জার্মানি করে!জব এর কথা জিজ্ঞেস করসি, ফুটবল টিম না!",positive
+../dataset/Dataset\Memes\Bangla Thug Life (275).jpg,Bangla Thug Life (275).jpg,No Caption,negative
+../dataset/Dataset\Memes\ovodro_img (660).jpg,ovodro_img (660).jpg,শাশুড়ির সামনে শাড়ির আঁচল    দেওরের সামনে শাড়ির আঁচল ,negative
+../dataset/Dataset\Memes\tangaila (284).jpg,tangaila (284).jpg,মুরুব্বির সাথে কথার সময় তার কোন ভুল ধরলে মুরুব্বি -   তুমি আর একটা কথা বললে আমি মাইন্ড করবো ,neutral
+../dataset/Dataset\Memes\ovodro_img (609).jpg,ovodro_img (609).jpg,যারা চিনতে পারছো না এদের তাদের স্বর্গ লাভ পাক্কা ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (379).jpg,bamboo-vaiya (379).jpg,বাশের পাতা কচকচে লাউয়ের পাতা নরম তোমার মুখে কিস দিতে লাগে আমার সরম ,negative
+../dataset/Dataset\Memes\ovodro_img (353).jpg,ovodro_img (353).jpg,মেয়েরা যখন পিকনিক করে   সেলফি তুলতে ভালোই পারে    কাজের বেলা বাঁচাও বাবা ,neutral
+../dataset/Dataset\Memes\ovodro_img (507).jpg,ovodro_img (507).jpg,একজন লোক তার বৌকে মারছিল তারপর টাক মাথাওয়ালা মাল্টিট্যালেন্টড লোকটি মানবতার পরিচয় দিয়ে বৌটিকে রক্ষা করেন  আর বৌটিকে এক রাতের জন্য সাহারা দেবেন ,negative
+../dataset/Dataset\Memes\ovodro_img (122).jpg,ovodro_img (122).jpg,"আচ্ছা আপনার এত সুন্দর নাগিন ড্যান্স করার রহস্য কি ?    আমি যেই ইস্কুলে ড্যান্স শিখি, সেখানে খুব যত্ন নিয়ে শেখায়   ।    নাগিন ড্যান্স ইস্কুল   স্থাপনঃ ১৯৬৯    এখানে দক্ষ শিক্ষক-শিক্ষিকার সহযোগে চুর চুর চানাচুর মিউজিকের সাথে প্রফেশনাল নাগিন ড্যান্স শেখানো হয় ।",negative
+../dataset/Dataset\Memes\bangla-gag (66).jpg,bangla-gag (66).jpg,যুক্তরাজ্যের সাধারণ নির্বাচনে আলোচিত হ্যাম্পস্টেড অ্যান্ড কিলবার্ন আসনে শেখ রেহানার মেয়ে টিউলিপ রেজওয়ানা সিদ্দিক জয়ী হয়েছেন ।    সাবাস !! THATS MY     নাতনি ! ,positive
+../dataset/Dataset\Memes\bamboo-vaiya (341).jpg,bamboo-vaiya (341).jpg,Fuck Boys after 0.000069 secs getting in a relationship   আল্লার নামে শুরু কইরা দেই খাওয়া ,negative
+../dataset/Dataset\Memes\KAM (121).jpg,KAM (121).jpg,"শরীরটা ভালো না... কেমন জানি লাগতেছে! তাই মাথা ঘুরায়...বমি বমি ভাব, তেঁতুল খাইতে মন চায়... তাইনা!",positive
+../dataset/Dataset\Memes\bangla-gag (149).jpg,bangla-gag (149).jpg,শালার ঈদের বাজার করতে কেন যে আসছিলাম নিউ মার্কেটে !!     - জন স্নো ,negative
+../dataset/Dataset\Memes\tangaila (11).jpg,tangaila (11).jpg,Her : he's probably thinking of that bitch again !    Him :  এই শীতে কোহলি করলো বিয়ে কিন্তু শাকিব খান ডিভোর্স চায় । শালা বলদ !  ,negative
+../dataset/Dataset\Memes\Halal Memes (310).jpg,Halal Memes (310).jpg,67 বছর বয়সে বিয়ে করছি কারণ   ফোনে যত% চার্জ থাকবে তত বছর বয়সে বিয়ে হবে ,negative
+../dataset/Dataset\Memes\tangaila (312).jpg,tangaila (312).jpg,বেবিস্ট্যান্ড    দুষ্ট পাড়া    কান্দাপাড়া  ,neutral
+../dataset/Dataset\Memes\direct-offense (14).jpg,direct-offense (14).jpg,I Love You রাত পেরিয়ে হবে ভোর এমন জোর আছে তোর chance দিয়ে দেখো বাড়া চিৎকার শুনবে সারা পাড়া ,negative
+../dataset/Dataset\Memes\ovodro_img (4).jpg,ovodro_img (4).jpg,প্রীতি মুখটা আরেকটু নিচে নে     নাহ আইফেল টাওয়ারে মুখ দিতে পারব না,negative
+../dataset/Dataset\Memes\bangla-memes (97).jpg,bangla-memes (97).jpg,ছু মন্তর ছু কালি কুত্তার গু ,positive
+../dataset/Dataset\Memes\Bangla Thug Life (70).jpg,Bangla Thug Life (70).jpg,"* যখন হুজুর আপনাকে অকারণে তার কোলে বসতে বলে ;  আপনি :  Something's wrong, I can feel it ",negative
+../dataset/Dataset\Memes\bangla-gag (72).jpg,bangla-gag (72).jpg,HOW NORMAL PEOPLE PRONOUNCE COX'S BAZAR    COX'S BAZAR       HOW KHAS NOAKHALI PEOPLE PRONOUNCE COX'S BAZAR  COCK SHOW BAZAR !,negative
+../dataset/Dataset\Memes\ovodro_img (594).jpg,ovodro_img (594).jpg,মামা ভোট দেওয়ার পরে আঙ্গুল দেখিয়ে fb এ ফটো পোষ্ট করিনি এবার কী হবে আমার ?     এ দোষের জন্য মৃত্যু অনিবার্য ।    বেঁচে থাকার অধিকার নেই তোর ,negative
+../dataset/Dataset\Memes\nurani-memes (62).jpg,nurani-memes (62).jpg,"When u celebrate New year's Eve on 1st January night so that Police won't Harass !    আব্বা একটা জিনিস খেয়াল করলাম , একটু চালাক না হলে জীবনে টেকা খুব কঠিন ",positive
+../dataset/Dataset\Memes\Bangla Thug Life (257).jpg,Bangla Thug Life (257).jpg,প্রতিবেশীঃ আপনার স্বামী সেদিন দেখলাম অন্য মেয়ের সাথে রিক্সায়   দেশী ভাবিঃ আমার জামাইয়ের অনেক কারেন্ট ঘরে বউ চোদে বাহিরে মাগী,negative
+../dataset/Dataset\Memes\KAM (177).jpg,KAM (177).jpg,গার্লফ্রেন্ডঃ চুপ করো...তোমার কথা শুনে আমার মাথা হরম হয়ে যাচ্ছে বয়ফ্রেন্ডঃ তাই তহ বলি গোবর পুরা গন্ধ কোথা থেকে আসতেছে,positive
+../dataset/Dataset\Memes\ovodro_img (595).jpg,ovodro_img (595).jpg,তোর তো দেখছি 36 কে চৌত্রিশ বলা একদম উচিৎ হয় নি ! ,negative
+../dataset/Dataset\Memes\chosha (2).jpg,chosha (2).jpg,আমার বন্ধু    আর আমি ,negative
+../dataset/Dataset\Memes\ovodro_img (631).jpg,ovodro_img (631).jpg,মাধ্যমিকের Science এর সোদন    উচ্চমাধ্যমিকের Science এর সোদন   ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (49).jpg,bamboo-vaiya (49).jpg,"পৃথিবীতে ফেসবুক, আইটি কে আনসে ? জননেত্রী শেখ হাসিনা    ভেরি নাইস    আর আমি তো ফার্মেসি চালাই  ",negative
+../dataset/Dataset\Memes\KAM (253).png,KAM (253).png,"পরীক্ষার হলে টিচার গুলা এমন ভাবে গার্ড দেয় যেন ওনারা কোন দিন স্টুডেন্ট ছিল না, জন্মগত ভাবেই টিচার হয়ে এসেছে",positive
+../dataset/Dataset\Memes\tangaila (197).jpg,tangaila (197).jpg,ভাই কি ডেন্টাল ডিমার্টমেন্টে পড়েন ?    হুম কেন ?    আমার দাতের ফাঁকে আটকে থাকা মাংস বের করে দিবেন ?   মার শালারে...,negative
+../dataset/Dataset\Memes\tangaila (140).jpg,tangaila (140).jpg,সৃষ্টি     ফজিলাতুন্নেছা   মতিন   কুমুদিনী   আমি*    হাসান ,negative
+../dataset/Dataset\Memes\nurani-memes (99).jpg,nurani-memes (99).jpg,Srilankan Fans rn !  হায়রে হায়রে   Srilanka,neutral
+../dataset/Dataset\Memes\KAM (82).png,KAM (82).png,বিদেশে আছে RACISM কারন সেখানে অনেক RACIST পাবলিক থাকে আর বাংলাদেশে আছে বিরোধী দলীয় SM কারন এখানে অনেক সরকার দলীয় লোক থাকে ,positive
+../dataset/Dataset\Memes\ovodro_img (54).jpg,ovodro_img (54).jpg,তোর নাম কী ?   যস    দেখ কান্ড যার শরীরে নাই কোন রস তার নাম আবার যস ,negative
+../dataset/Dataset\Memes\tangaila (291).jpg,tangaila (291).jpg,"আব্বা ৫০০ টাকা দাও , থার্টি ফাস্ট নাইট উৎযাপন করবোঃ-   আমি   লে আব্বা ",negative
+../dataset/Dataset\Memes\ovodro_img (667).jpg,ovodro_img (667).jpg,"তা দিদি রাজ্যে ডাক্তারদের উপর তো খুব অত্যাচার চলছে !    কিছু ভাবলেন ?    হ্যাঁ, ভেবেছি তো !     বলুন দেখি নতুন কী ভাবলেন, শুনি    সিভিক পুলিস এর পর সিভিক টিচার আর এখন হবে সিভিক ডাক্তার ",negative
+../dataset/Dataset\Memes\ovodro_img (679).jpg,ovodro_img (679).jpg,কী ব্যাপার দিদি এতো দুঃখী দুঃখী লাগছে কেন তোমাকে  ?    আসলে আজ ভারত পাকিস্তান খেলা হচ্ছে আর পাকিস্তান মনে হয় হেরে যাবে তাই মন খারাপ ,negative
+../dataset/Dataset\Memes\Halal Memes (228).jpg,Halal Memes (228).jpg,"গ্রাম থেকে শহরে ঘুরতে আসা চাচা ধানমন্ডি, বসুন্ধরা এলাকায় ওড়না ছাড়া মেয়েদের ঘুরাঘুরি করতে দেখার পর     কেয়ামতের আলামত শুরু হয়ে গেসে ",negative
+../dataset/Dataset\Memes\direct-offense (32).jpg,direct-offense (32).jpg,"ও হ্যান্ডেল মারে তা নিয়ে প্রবলেম নেই । প্রবলেমটা হচ্ছে, ও হ্যান্ডেল মারার পর বাথরুমে জল না দিয়ে চলে এসেছিলো ",negative
+../dataset/Dataset\Memes\bangla-memes (113).jpg,bangla-memes (113).jpg,Jinnah : Only urdu and urdu will be the state language of Pakistan.     Bengali nibbas :     Stares Motherfuckerly,negative
+../dataset/Dataset\Memes\bamboo-vaiya (65).jpg,bamboo-vaiya (65).jpg,First two seconds of studying    Then after another 2 seconds    Again after another 3 seconds    And after total 10 seconds,positive
+../dataset/Dataset\Memes\Halal Memes (208).jpg,Halal Memes (208).jpg,মিম দেখলে আমি যেভাবে রিযাক্ট করি       আমার চেহারা যেমন থাকে     ,neutral
+../dataset/Dataset\Memes\Halal Memes (299).jpg,Halal Memes (299).jpg,আমার বাবা আমার বয়সে যেভাবে যেতেন       তার একটি বিরল ছবি ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (283).jpg,Bangla Thug Life (283).jpg,রাত বা্রোটা বেজে যাওয়া বিদ্যমান Me to my টুনটুনি : তোর এত শখ আয় কইততে ? ,negative
+../dataset/Dataset\Memes\KAM (483).jpg,KAM (483).jpg,ইনি প্রমাণ করেছেন যে টাকা হলেই নায়ক হওয়া সম্ভব এবং ইনি প্রমাণ করেছেন যে একজন মেয়ে হলেও নায়ক হওয়া সম্ভব  ,negative
+../dataset/Dataset\Memes\KAM (251).jpg,KAM (251).jpg,ব্রাজিল আর আর্জেন্টিনার প্লেয়ার এর মধ্যে সম্পর্ক  কিন্তু তাদের ফ্যানদের মাঝে সম্পর্ক,positive
+../dataset/Dataset\Memes\direct-offense (80).jpg,direct-offense (80).jpg,স্যারঃ রোল ১১  পিছনের বেঞ্চে বসা আমিঃ প্রেগনেন্ট স্যার   *Me  * Teacher  *Whole Class,positive
+../dataset/Dataset\Memes\KAM (211).png,KAM (211).png,এই পৃথিবীতে সবার একটাই সমস্যা সবাই খালি TREAT চায় !!,positive
+../dataset/Dataset\Memes\tangaila (228).jpg,tangaila (228).jpg,কুমুদিনী কলেজের ছাত্রী    বিধবা নারী    ফার্মের মুরগী ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (226).jpg,Bangla Thug Life (226).jpg,ব্রেকআপের থেকে কষ্টের কিছু নেই    কখনো প্যান্টের চেনে নুনু আটকেছে ?  হ্যাঁ... একবার !!  ,negative
+../dataset/Dataset\Memes\ovodro_img (384).jpg,ovodro_img (384).jpg,দিদির সাথে যারা যারা ধর্ণায় বসবে তাদের এইভাবে ডিম্ভাত খাওয়ানো হবে     এই আশাতেই আজ মিছিলে জমা হয়েছিল হাজার হাজার চোর !!,negative
+../dataset/Dataset\Memes\Halal Memes (292).jpg,Halal Memes (292).jpg,মামার সাথে ক্রাইম পেট্রল দেখছিলাম!   আজকের পর্বঃ- মামাতো বোনের সাথে সম্পর্ক মেনে না নেয়ায় মামাকে খুন !      মামা        আমি ,negative
+../dataset/Dataset\Memes\direct-offense (28).jpg,direct-offense (28).jpg,যখন আপনি মেহেদী লাগান  যখন মেহেদী আপনাকে লাগায় ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (410).jpg,bamboo-vaiya (410).jpg,তুই সাকিবের সাথে আর দেখা করিস না কেন ?    ওর নুনু ছোট ,negative
+../dataset/Dataset\Memes\ovodro_img (451).jpg,ovodro_img (451).jpg,বিরাট 2019 world cup  এ তোরা আমাদের হারাতে পারবি না !  কেনো M.C ?   আমরা জঙ্গি সাপ্লাই করি তাই আমাদের world cup থেকে বাতিল করা হয়েছে ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (124).jpg,bamboo-vaiya (124).jpg,টিভিতে যখন কনডমের এড দেয়    *My Dad    *Me,negative
+../dataset/Dataset\Memes\KAM (43).png,KAM (43).png,"হ্যালো জান, তুমি কই?? হ্যালো জান, আমাকে এখন ডিস্টার্ব কইরো নাহ আমার উপর বেগম খালেদা জিয়ার নিরাপত্তার দায়িত্ব পরসে, পরে কথা বলব, বাই",positive
+../dataset/Dataset\Memes\KAM (184).jpg,KAM (184).jpg,হিন্দি ছবিতে অভিনয় করতে আপনার কাছে কোন কাজটি সবচেয়ে কঠিন মনে হয়? জামাকাপড় পড়ে অভিনয় করা,negative
+../dataset/Dataset\Memes\tangaila (27).jpg,tangaila (27).jpg,ক্লাস সেভেনের পিচ্চিঃ মামা একটা গোল্ডলিফ দেন তো    দোকানের আশেপাশের মানুষজনঃ ,negative
+../dataset/Dataset\Memes\ovodro_img (127).jpg,ovodro_img (127).jpg,2018  সাল টা সত্যিই অবাক করল ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (83).jpg,bamboo-vaiya (83).jpg,বন্ধুকে ট্রিমার ধার দেয়ার পর যখন মনে পড়ে তার দাড়ি নেই ,negative
+../dataset/Dataset\Memes\ovodro_img (560).jpg,ovodro_img (560).jpg,GF - তুমি আমার দেহ পেলেও মন পাবে না   BF- দেহ দে মন লাগবে না  GF- ,negative
+../dataset/Dataset\Memes\nurani-memes (224).jpg,nurani-memes (224).jpg,Me : I will not fall for her again   Her : * uploads a shari pora pic*   Me : ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (83).jpg,Bangla Thug Life (83).jpg,বই  মোবাইল    আমি   ,negative
+../dataset/Dataset\Memes\chosha (79).jpg,chosha (79).jpg,বয়ফ্রেন্ডকে নিয়ে সিনেমা হলে ঢোকার সময়   বেরোনোর পর ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (136).jpg,Bangla Thug Life (136).jpg,How bangla choti writers describe their dick ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (277).jpg,bamboo-vaiya (277).jpg,Meye de doctor bananor shopno dekh Ma     Boyfriend ke chumma Diye thik kore dewa Meye ,negative
+../dataset/Dataset\Memes\tangaila (341).jpg,tangaila (341).jpg,বিশ্বাস করেন স্যার   গার্লসের ঘাটপাড়ে যারে বিড়ি খাইতে দেখছেন সেটা আমি ছিলাম না ,negative
+../dataset/Dataset\Memes\KAM (246).png,KAM (246).png,"বর্তমানে আমাদের জাতীয় কাজ, পড়া বাদ দিয়ে ফোন নিয়ে পড়ে থাকা!! আর আম্মু দের জাতীয় বকা, ""মোবাইলের ভেতর ঢুইকা যা!!""",positive
+../dataset/Dataset\Memes\nurani-memes (215).jpg,nurani-memes (215).jpg,Name : Water  Shakib Al Hasan    Job:   Saving Lives    Saving BCB's Ass,negative
+../dataset/Dataset\Memes\ovodro_img (574).jpg,ovodro_img (574).jpg,SUNNY  দেওয়াল ,negative
+../dataset/Dataset\Memes\Halal Memes (300).jpg,Halal Memes (300).jpg,শেখ হাসি-না       শেখ দুখী-না ,negative
+../dataset/Dataset\Memes\KAM (356).jpg,KAM (356).jpg,"পাশের বাড়ির ছেলেটা প্রতিদিন তার GF কে kiss করে যাই, তুমি করো না কেন? কিভাবে করবো আমিতো ওকে চিনিই না",positive
+../dataset/Dataset\Memes\bangla-gag (9).png,bangla-gag (9).png,SHUN:AM TUMI NAKI A+ PAISO?     MISHTI KOI?,negative
+../dataset/Dataset\Memes\KAM (255).png,KAM (255).png,আমাদের সবার এমন একজন বন্ধু থাকে যেবার মাসে তের বার ছ্যাঁক খায় আর সে প্রতিটা মেয়েকে সিরিয়াস ভালোবাসতো,positive
+../dataset/Dataset\Memes\KAM (5).png,KAM (5).png,বাংলাদেশ নিয়ে উল্টাপাল্টা কমেন্ট্রি করতে করতে আমি এটা ভুলে যাই যে আমার দেশ পাকিস্তানে তো আন্তর্জাতিক ম্যাচ নিষিদ্ধ,positive
+../dataset/Dataset\Memes\ovodro_img (205).jpg,ovodro_img (205).jpg,বিভিন্ন ধরনের পাটের ছবি   ,negative
+../dataset/Dataset\Memes\ovodro_img (559).jpg,ovodro_img (559).jpg,বাঙাালি কী রক শুনতে শিখেছে ?   সত্যিই তুমি পারলে বাঙালিকে রক শোনানোর অভ্যাস করাতে... সত্যিই তুমি পারলে     আসলে সত্যি বলতে কিছু নেই   সবই বেঁচে থাকার গান ,neutral
+../dataset/Dataset\Memes\KAM (173).jpg,KAM (173).jpg,বিবাহিত পুরুষ ঘুম থেকে উঠে বিছানায় বৌকে খোজে! ঘুম থেকে উঠে বিছানায় নিজের মোবাইল খুজে!  অবিবাহিত পুরুষ ,positive
+../dataset/Dataset\Memes\Halal Memes (118).jpg,Halal Memes (118).jpg,অনার্সের কোন ললনার সাথে রিলেশনে যাওয়ার কয়েক দিন পর    আমার বিবাহের আলাপ চলতাছে ,neutral
+../dataset/Dataset\Memes\KAM (216).png,KAM (216).png,ইন্ডিয়া নাকি আগে থেকেই লাফালাফি করতেছে যে তারা আমাদের কোয়াটার ফাইনালে হারায়ে দিবে! ফইন্নির ঘরের ফইন্নি.. আগে খেলা হইতে দে তারপর দেখিস কে কারে হারায় ,negative
+../dataset/Dataset\Memes\KAM (126).jpg,KAM (126).jpg,"তুমায় দেখলে মনে হয় কি? ;) ফইন্নির বেডি, তোরে কুইট্টলাইতে মুন চায়",negative
+../dataset/Dataset\Memes\tangaila (51).jpg,tangaila (51).jpg,যখন পাশ দিয়ে HOT মেয়ে যায়   Me & My Friends -     I'm HUMBLE but SAVAGE     ,negative
+../dataset/Dataset\Memes\KAM (31).png,KAM (31).png,প্রশ্ন কর্তা-কি হয়েছিল ২১শে ফেব্রুয়ারিতে? এতো ডিটেইলস বলতে পারবো না! দেশ স্বাধীন হয়েছিল ২১শে ফেব্রুয়ারিতে! ২১শে ফেব্রুয়ারিতো অমর...যুদ্ধ হয়েছিল JUST!,positive
+../dataset/Dataset\Memes\Bangla Thug Life (146).jpg,Bangla Thug Life (146).jpg,স্কুল শিক্ষক  এবং প্রতিবেশীরা যদি সর্গ-নরক ঠিক করতেনঃ  যাদের চুল বড়    যাদের চুল ছোট ,negative
+../dataset/Dataset\Memes\ovodro_img (329).jpg,ovodro_img (329).jpg,যখন শিক্ষক মা বাবার সামনে বলে ব্রেন তো ওর খুব ভালো শুধু বই পড়ে না ! ,positive
+../dataset/Dataset\Memes\ovodro_img (262).jpg,ovodro_img (262).jpg,কিছু লোকের কাছে Lata Mangeshkar এর গান খুব পছন্দের    আবার কিছু লোকের কাছে Alka Yagnic খুব পছন্দের     কিন্তু আমরা সবাই জানি Neha Kakkar  একজন বড় মাপের ন্যাকাদুচি ,negative
+../dataset/Dataset\Memes\KAM (447).jpg,KAM (447).jpg,"ডাক্তার আসিবার পূর্বে রোগী মারা গেল"" এই যুগ শেষ... এখন ভোট গ্রহণ শুরুর আগেই ভোট প্রদান শেষ এর যুগ চালু হইছে!",positive
+../dataset/Dataset\Memes\KAM (169).jpg,KAM (169).jpg,আমি ব্রাজিল সাপোর্ট করি কারণ ওরা ৫ বার ওয়ার্ল্ড কাপ নিসে আমি আর্জেনটিনা সাপোর্ট করি কারণ মেসির বাবুটা অনেক CUTE,positive
+../dataset/Dataset\Memes\bamboo-vaiya (23).jpg,bamboo-vaiya (23).jpg,"আমি তোমাকে ছাড়া বাঁচবো নাহ     হ্যাঁ, চুদে দেওয়ার আগে সবাই এই কথাই বলে  ",negative
+../dataset/Dataset\Memes\Bangla Thug Life (236).jpg,Bangla Thug Life (236).jpg,জান তোমার মনটা খুব নরম      হাত সরা মাদারচোদ  অইটা মন না ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (67).jpg,Bangla Thug Life (67).jpg,*যখন আপনি আপনার গ্রাম্য শিক্ষকের কাছে প্রাইভেট পড়তে গিয়ে উনার কুনজরের শিকার হোন ; তখন আপনিঃ  পড়তে এসে ফেসে গেছি ,negative
+../dataset/Dataset\Memes\tangaila (311).jpg,tangaila (311).jpg,আপনার বাসা কি টাংগাইল   জী ভাই    আশ্চর্য আপনি জানলেন কীভাবে ? ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (202).jpg,Bangla Thug Life (202).jpg,বউমা এবার কিন্তু আমি নাতি নাতনি চাই  কথাটা আপনার ছেলেকে বলুন  কেন?  গাছের গোড়ায় পানি না ঢেলে আগায় দিলে বাচ্চা কেমনে হবে  ,negative
+../dataset/Dataset\Memes\ovodro_img (394).jpg,ovodro_img (394).jpg,সাধারণ মানুষ    অসাধারণ মানুষ    ভক্তগণ --,negative
+../dataset/Dataset\Memes\tangaila (136).jpg,tangaila (136).jpg,-মেহমান আসছে... যা দোকান থেকে কিছু নিয়ে আয়    কিছুঃ ,positive
+../dataset/Dataset\Memes\Halal Memes (315).jpg,Halal Memes (315).jpg,নানু বেঁচে থাকা অবস্থায় নাউ বাড়িতে কাটানো দিনগুলোর কথা মনে পড়ার পর আমিঃ     কি মজাই না হইতো !,positive
+../dataset/Dataset\Memes\nurani-memes (49).jpg,nurani-memes (49).jpg,When It's been while a You Trying But হাগা won't come out !     এত করে ডাকলাম তারে তবু দেখা পাইলাম না ,negative
+../dataset/Dataset\Memes\Halal Memes (82).jpg,Halal Memes (82).jpg,কোয়ারেন্টাইনে থাকা অবস্থায় যখন প্রথমবার নিজে নিজে দাড়ি ট্রিমিং করি-   Kabhi kabhi lagta hai apun hi  নাপিত hai,neutral
+../dataset/Dataset\Memes\bangla-memes (182).jpg,bangla-memes (182).jpg,মুক্তির পারমিশনটা দিয়ে দিন       ৫ বছর হলে পারমিশনটা এমনেই পেয়ে যাবেন   ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (51).jpg,bamboo-vaiya (51).jpg,তুমি কি সালমান মুক্তাদীর ?    না কেন ? কারন তোকে দেখলেই থাবরাইতে ইচ্ছে করে   ,negative
+../dataset/Dataset\Memes\ovodro_img (97).jpg,ovodro_img (97).jpg,বিম বাজাচ্ছি নাচবে কারা ?   শুরু করে দিয়েছি শুধু বাজিয়ে যাও,negative
+../dataset/Dataset\Memes\ovodro_img (625).jpg,ovodro_img (625).jpg,আমার দুস্টু বউ    আমার দুস্টু বরটা   আমার দুস্টু সোনা     Hydrogen  Am I a joke to you ?   ,neutral
+../dataset/Dataset\Memes\KAM (596).jpg,KAM (596).jpg,ভাইয়া ভুলে ১০০ টাকা আপনার মোবাইলে চলে গেছে একটু ফেরত দেন ভুল থেকে যদি ভাল কিছু হয় তাহলে ভুলই ভাল,positive
+../dataset/Dataset\Memes\KAM (278).jpg,KAM (278).jpg,WE ARE GERMAN এখন আমরাই বিশ্বসেরা যতই সেরা হও না কেন! সেমি ফাইনালে ঘানার সাথেও হারবা,negative
+../dataset/Dataset\Memes\KAM (407).jpg,KAM (407).jpg,অবরোধের সাথে ৩দিন হরতাল ও দিসি যাতে প্রশ্ন পাইতে কোনো সমস্যা না হয় কি নানির দেয়া হরতাল পেয়ে তোমরা খুশিতো??,negative
+../dataset/Dataset\Memes\KAM (357).jpg,KAM (357).jpg,আপনি যতই বড় হয়ে যান না কেন মায়ের চোখে সবসময় ছোটই থাকবেন!,positive
+../dataset/Dataset\Memes\KAM (48).png,KAM (48).png,হল্যান্ডের প্রথম গোল কে  দিছে? PERSIE  তুই পারছোছ নাকি পারোছ নাই তা জানতে চাই নাই প্রথম গোল কে দিছে তা বল!,positive
+../dataset/Dataset\Memes\nurani-memes (74).jpg,nurani-memes (74).jpg,Left - ভাই দেন না একটা ব্যাটিং করি ।  Right-  ভাই আপনে তো হাই ক্লাস প্লেয়ার বল টা হারায়েন না ।  Left-  ভাই  !   Right-  ভাই ! ,positive
+../dataset/Dataset\Memes\Halal Memes (209).jpg,Halal Memes (209).jpg,"সারাদিনে ৪০০-৫০০ টা মিম্পস এর ভিতরে হাহা রিয়েক্ট দেওয়ার পর      লে আমিঃ      Oh, What a busy day !",neutral
+../dataset/Dataset\Memes\Bangla Thug Life (147).jpg,Bangla Thug Life (147).jpg,স্বামী বিদেশে চলে যাবার পর দেবর যখন কোনো কাজের না   স্ত্রীর প্রথম কাজ বাড়িতে বেগুন চাষ করা ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (93).jpg,Bangla Thug Life (93).jpg,I Love You    As a brother ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (542).jpg,bamboo-vaiya (542).jpg,তেতুলতলায় যাওয়ার পর যখন নিব্বিকে ভুতে ধরে     LE NIBBI:,negative
+../dataset/Dataset\Memes\ovodro_img (346).jpg,ovodro_img (346).jpg,আগুনের পরশমণি ছোঁয়াও প্রানে   বাহ ভালো গাইছিস    এ জীবন পূর্ণ করো   দারুণ  দারুণ    আমার এই দেহ খানি তুলে ধরা ,negative
+../dataset/Dataset\Memes\KAM (629).jpg,KAM (629).jpg,"বন্ধু, চল ঈদের শপিং এ যাই এত তারাতারি ক্যান? মেয়েরা যেভাবে প্যান্ট শার্ট কিনতেছে পরে তো থ্রিপিছ ছাড়া কিছুই পামুনা",positive
+../dataset/Dataset\Memes\ovodro_img (20).jpg,ovodro_img (20).jpg,যেসব মেয়েরা বলে মেয়েরা স্বাধীন না  তাদের ঠিক কেমন স্বাধীনতা দরকার ? ,negative
+../dataset/Dataset\Memes\ovodro_img (756).jpg,ovodro_img (756).jpg,বড় লোক    খুব বড়লোক    তারপর আসে তারা যারা এখনি পূজোর SHOPPING শুরু করে দিয়েছে  ,negative
+../dataset/Dataset\Memes\Halal Memes (321).jpg,Halal Memes (321).jpg,সিংহ আমাকে তাড়া করছে কারণ... আমার অংক ভুলের জন্যে সে হরিণকে ধরতে পারে নি !,positive
+../dataset/Dataset\Memes\ovodro_img (665).jpg,ovodro_img (665).jpg,রঞ্জনা আমি আর আসবো না ।     রঞ্জনা আমি আর আসবো না । ,neutral
+../dataset/Dataset\Memes\Halal Memes (197).jpg,Halal Memes (197).jpg,বার্ষিক পরীক্ষায় কম নাম্বার পেয়েও মা-বাবাকে বুঝিয়ে শুনিয়ে বেঁচে যাওয়া আমি       পাশের বাসার আন্টি     ,negative
+../dataset/Dataset\Memes\KAM (784).jpg,KAM (784).jpg,"আচ্ছা,বলতো গ্রামার কাকে বলে? যারা গ্রামে থাকে তাদেরকে গ্রামার বলে,বাংলাদেশের গ্রামে যারা থাকে তাদেরকে বাংলা গ্রামার এবং বিদেশের গ্রামে যারা থাকে তাদেরকে ইংলিশ গ্রামার বলে।",positive
+../dataset/Dataset\Memes\bamboo-vaiya (132).jpg,bamboo-vaiya (132).jpg,It's fucking me everyday   Deleted Ex     *আমি *      * পড়াশুনা *   ,negative
+../dataset/Dataset\Memes\KAM (103).png,KAM (103).png,চ্যাম্পিয়ন এর পর লীগ কেন? কালকে হরতাল!,positive
+../dataset/Dataset\Memes\bangla-memes (203).jpg,bangla-memes (203).jpg,Shoytan after the end of Ramadan :   আমি চলে এসেছি    ,positive
+../dataset/Dataset\Memes\ovodro_img (804).jpg,ovodro_img (804).jpg, ক্লাসে বারবার পাদার জন্য চিৎকার করা আমার টিচার    প্যান্টের মধ্যে হেগে বসা আমি । ,negative
+../dataset/Dataset\Memes\KAM (301).jpg,KAM (301).jpg,প্রধানমন্ত্রীকে বিয়ের দাওয়াত দিলেন মুশফিকুর রহিম!!! হ্যালো পাপন মুশফিক এর বিয়ে কি বন্ধ করা যায় না? কিছু পোড়ার গন্ধ পাচ্ছি...,negative
+../dataset/Dataset\Memes\ovodro_img (509).jpg,ovodro_img (509).jpg,রাজনীতি এবং খবরের চ্যানেল    দেখব না    খবরের বিষয় কেউ রেপ হলে   এসব দেখলে তো টাকা ইনকাম হবে না    ছাত্রছাত্রীরা অনশন থেকে মৃত্যুর সাথে লড়ছে    এটাই লাভ জনক   মিমি নুসরত ভোটের আগে ডায়েককন্ট্রোল করছে ,negative
+../dataset/Dataset\Memes\Halal Memes (174).jpg,Halal Memes (174).jpg,যখন স্যারের অনুপস্থিতিতে বন্ধুদের সামনে স্যারের চেয়ারে বসি ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (527).jpg,bamboo-vaiya (527).jpg, প্রাইভেট ক্লাসে ঠিকমতো না পড়িয়ে টাকা নেওয়া স্যার যখন স্কুলের পরিক্ষায় আগেই প্রশ্ন এনে দেখায়ঃ   আপনি চুর হইলেও মানুষ ভালো ,negative
+../dataset/Dataset\Memes\KAM (90).jpg,KAM (90).jpg,স্যার বি.আর.টি.সি বাসে এখন ফ্রি WIFI এর মানে বুঝলা দয়া কি স্যার? এর মানে বাংলাদেশ ডিজিটাল হচ্ছে,positive
+../dataset/Dataset\Memes\tangaila (175).jpg,tangaila (175).jpg,গত রাতে টাকা দিয়ে MB কিনে JUVENTUS এর খেলা দেখার পর ফ্যানদের অবস্থাঃ   Paise barbaad bhench*d ,negative
+../dataset/Dataset\Memes\bangla-troll (56).jpg,bangla-troll (56).jpg,দোস্ত আমার GF রে কি গিফট দেওয়া যায় ? ও দেখতে কেমন ? বহুত সুন্দর  আমার নাম্বারটা দিয়া দে,negative
+../dataset/Dataset\Memes\ovodro_img (740).jpg,ovodro_img (740).jpg,370 ধারা বাতিলে পুরোপুরি ভারতের হয়ে গেল      আব্বে ইয়ে কেয়া খেল লাগা রাক্ষ্যা মারডালোগে কেয়া ,negative
+../dataset/Dataset\Memes\bangla-memes (53).jpg,bangla-memes (53).jpg,আমি*    গরুর মাংস*    আম্মু* ,positive
+../dataset/Dataset\Memes\ovodro_img (776).jpg,ovodro_img (776).jpg,প্রভাবশালী বাবার ছেলে যখন কোন বড় অন্যায় করে মার খায় !     মেরা বেটা কেয়া গালাতি কিয়া বো ইমপরটান্ট নেহি হ্যায় ! ইয়ে ইম্পরটান্ট হ্যায় কী বো কিসকা বেটা হ্যায়  ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (48).jpg,Bangla Thug Life (48).jpg,*ছোট ভাই  *আব্বু   *আমি   *আম্মু   *কনডমের অ্যাড ,negative
+../dataset/Dataset\Memes\KAM (342).jpg,KAM (342).jpg,"facebook এ মেয়েদেরকে  Msg দেওয়ার চেয়ে কুকুরকে পাথর মারা ভাল, বুঝলি দোস্ত? কেনু দোস্ত? আরে কুকুর তো Reply হলেও দেয় আর মেয়েরা সারাদিন গুতাইলেও Reply দেয় না",positive
+../dataset/Dataset\Memes\KAM (610).jpg,KAM (610).jpg,ভাই আমরা কী বায়োমেট্রিক করবো না? আমাদের কথা বাদ দে! নাসির কী করবে! সেটাই ভাবতেছি!! ওর তো ৮০টা সিম!!!মাথায় খেলতেছেনা!! কেমনে কী!! (#),negative
+../dataset/Dataset\Memes\ovodro_img (208).jpg,ovodro_img (208).jpg,বিরাট বলো তো পাকিস্তানি ক্রিকেটার দের কোন জিনিস টায় সবচেয়ে বেশি হাসি পায়?  ওরা যখন ইংরেজীতে কথা বলার চেষ্টা করে । কিন্তু বলতে পারে না বা প্রশ্ন বুঝতে পারে না । ,negative
+../dataset/Dataset\Memes\ovodro_img (720).jpg,ovodro_img (720).jpg,ফুলদানি*      ফুলের মালিক ,negative
+../dataset/Dataset\Memes\tangaila (97).jpg,tangaila (97).jpg,কুমুদিনীর মেয়ে    মি    কুমুদিনীর মেয়ে*   মি* ,negative
+../dataset/Dataset\Memes\ovodro_img (586).jpg,ovodro_img (586).jpg,সুড়সুড়ি কে হিন্দিতে বলে    গুদগুদি  ,negative
+../dataset/Dataset\Memes\bangla-gag (24).jpg,bangla-gag (24).jpg,SELFIE LEVEL : PRIME MINISTER,positive
+../dataset/Dataset\Memes\ovodro_img (165).jpg,ovodro_img (165).jpg,মাত্র কয়েক ফোটা জলই পারবে এই নিষ্পাপ মেয়েটির পিপাসা মিটাতে !!,negative
+../dataset/Dataset\Memes\KAM (197).png,KAM (197).png,আমার সব সময় ৮ টা Wicket নিয়েই খেলি!  কারণ ওপেনের দুইটা নিয়ে... খেললেও যেটা না খেললেও সেটা,negative
+../dataset/Dataset\Memes\ovodro_img (627).jpg,ovodro_img (627).jpg,GF: আচ্ছা বাবু আজ আমি আমার MALE BEST FRIEND  এর সাথে ঘুরতে যাই     INSECURE BF : বেশি আল বাল বকলে না লাগিয়ে দেব কানের গোড়ায় এক থাবড়া ,negative
+../dataset/Dataset\Memes\KAM (729).jpg,KAM (729).jpg,এই বছরের সেরা কর্মচারী নিজের ডিম থাকুক না থাকুক মালিকের ডিম যেন নষ্ট না হয়,positive
+../dataset/Dataset\Memes\ovodro_img (785).jpg,ovodro_img (785).jpg,"কীরে এত কাঁদছিস কেন ?    পূজোর শপিং করতে গিয়েছিলাম   এটা তো সুখের বিষয় !   কান্না কেন করছিস...  ১০,০০০ টাকার জিনিষ কিনেছি    তাহলে তোর প্রবলেম কী ?    তুই কান্না কেন করছিস ?     জামা প্যান্ট কেনা হয়নি শুধু মেকাপের সব কিছু কিনতেই ১০,০০০ লেগেছে ",neutral
+../dataset/Dataset\Memes\KAM (232).jpg,KAM (232).jpg,"কোনদিন কোনো বন্ধুর সাথে ঝগড়া মারামারি করবি না, কেন বলতো ? কারণ বলা তো যায় না... পরীক্ষার হলে কার পেছনে সিট পড়বে!",positive
+../dataset/Dataset\Memes\nurani-memes (176).jpg,nurani-memes (176).jpg,যখন আপনি একটা সিগারেট ধরান আর ঠিক সেই সময় পরিচিত কেউ আসার কারনে ফেলে দিতে হয়  ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (408).jpg,bamboo-vaiya (408).jpg,Care react নিয়ে চিল্লাতে থাকা পোলাপান    ১০ বছর ধরে dislike react এর  আশায় বসে থাকা আমি ,neutral
+../dataset/Dataset\Memes\ovodro_img (678).jpg,ovodro_img (678).jpg,তারমানে তুমি বলতে চাইছো পাতা পাতা না খেললে রক আসে না    বলতে চাইছি নয় বলছি  ,negative
+../dataset/Dataset\Memes\KAM (752).jpg,KAM (752).jpg,প্রেমিকা পুরাতন হয়ে গেলে বোরিং লাগে আর বন্ধু নামক হারামী গুলা যত পুরাতন হয় তত ভালো লাগে,positive
+../dataset/Dataset\Memes\ovodro_img (708).jpg,ovodro_img (708).jpg,যেমন ম্যাডাম আমরা চাই    আর যেমন ম্যাডাম আমরা পাই ,negative
+../dataset/Dataset\Memes\KAM (109).jpg,KAM (109).jpg,বর্ষা তুমি ছিলা না তাই তোমার বোনের সাথে করছি শয়তান কি করেছিস তুই আমার বোনের সাথে?? চেতো কেন? আমি তো তোমার বোনের সাথে শপিং করছি,positive
+../dataset/Dataset\Memes\tangaila (342).jpg,tangaila (342).jpg,ভাসানী   ভাসানী    ভাসানী   ভাসানী    ভাসানী    মাওলানা ভাসানী  বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় ,neutral
+../dataset/Dataset\Memes\KAM (245).png,KAM (245).png,"বলোতো,বায়ুমণ্ডল কাকে বলে? মন্ডল বাড়ির উপর দিয়ে যে বায়ু প্রবাহিত হয় তাকেই বায়ুমণ্ডল বলে।",positive
+../dataset/Dataset\Memes\ovodro_img (297).jpg,ovodro_img (297).jpg,চার বার হাতের কাজ পরার পর ছেলেরা ,negative
+../dataset/Dataset\Memes\Halal Memes (287).jpg,Halal Memes (287).jpg,*Boys only have 4 moods*   Acting like gangsta    Party time with boys     Loving his girl        Pain,positive
+../dataset/Dataset\Memes\ovodro_img (750).jpg,ovodro_img (750).jpg,চার ইঞ্চি     আট ইঞ্চি  ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (119).jpg,Bangla Thug Life (119).jpg,স্ত্রীঃ আমাদের বিয়ের আজ পাঁচবছর হলো   স্বামীঃ তা নতুন করে নির্বাচন দিবা নাকি একই সরকার থাকবে  ,negative
+../dataset/Dataset\Memes\KAM (105).png,KAM (105).png,আজকের শিক্ষার্থী আগামির সন্ত্রাসী!,negative
+../dataset/Dataset\Memes\KAM (763).jpg,KAM (763).jpg,HELLO BABIES আমেরিকান স্টাইলে জীবন যাপন করবা আর সৌদি আরব স্টাইলে বিচার চাইবা এইডা কেমন হয় কও?,positive
+../dataset/Dataset\Memes\KAM (11).png,KAM (11).png,"অসম্ভব কে সম্ভব করা অনন্তের কাজ! ওয়ার্ল্ড কাপটা এনে দে তো! ফাইজলামির সীমা আছে, অউরা পার্ট নষ্ট করে দিলি!",positive
+../dataset/Dataset\Memes\bamboo-vaiya (511).jpg,bamboo-vaiya (511).jpg,Don't you remember me ?   তুই ইলেক্ট্রিকের মিস্ত্রি হোসুইন্না না ? ,neutral
+../dataset/Dataset\Memes\ovodro_img (37).jpg,ovodro_img (37).jpg,No it doesn't effect my baby   12 years later,negative
+../dataset/Dataset\Memes\KAM (486).jpg,KAM (486).jpg,"কত্তদিন পরে যে একটা হরতাম পাইলাম! খুব ভালগসে কিন্তু, কারণ আর্জেন্টিনার খেলা দেখে আরামসে একটা ঘুম দেয়া যাবে।",positive
+../dataset/Dataset\Memes\ovodro_img (685).jpg,ovodro_img (685).jpg,Hat trick  করার আগে**    ওরাও কিন্তু পাকিস্তানি ! ম্যাচ হারা যাবে না ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (105).jpg,bamboo-vaiya (105).jpg,বাংলাদেশ টেলিভিশন - বিটিভি     ভোটে দাড়ানোর গ্যাড়া সামলাতে না পেরে নির্বাচনের আগেই খাটে শুয়ে শুয়ে ভ্যালট বাক্সে ভোট ঢুকাচ্ছেন ন্যারো আলম । ,negative
+../dataset/Dataset\Memes\nurani-memes (73).jpg,nurani-memes (73).jpg,Me watching the girl I love getting in relationship with a fuckboi   কন্যা ভুল করিস না ও কন্যা ভুল করিস না  ,negative
+../dataset/Dataset\Memes\Halal Memes (69).jpg,Halal Memes (69).jpg,Halal Memes  আমি    হুজুর     আমার বন্ধু      বন্দি শয়তান  ,positive
+../dataset/Dataset\Memes\tangaila (204).jpg,tangaila (204).jpg,যখন চার দিকে বার্সা নিয়ে ট্রল হয় তখন লে বার্সা ফ্যানঃ-    Lyrics BORO EKA EKA LAGE AMAR    ,negative
+../dataset/Dataset\Memes\chosha (41).jpg,chosha (41).jpg,আপনার স্পেশাল কোনো ট্যালেন্ট আছে ?   আমি যেকোনো পর্নস্টারের উহ আহ শব্দ শুনেই উনার নাম বলে দিতে পারি    বেতন কতো নিবি ?  ,negative
+../dataset/Dataset\Memes\ovodro_img (483).jpg,ovodro_img (483).jpg,পাশের বাড়ীর মেয়েটাকে একদম ডিস্টার্ভ করবি না   কেন বাবা?  কারন ও তোর বোনের মতো ।  সত্যি করে বলোতো বাবা আর কোন কোন ঘরে আমার এরম বোন রয়েছে !   ওরে হারামজাদা ছেলে বাবার ক্যারেক্টার নিয়ে প্রশ্ন তুলিস ।  আজ ক্যালিয়ে তোর সিঙ্গা ভেঙে দেব ওয়াড়া ,negative
+../dataset/Dataset\Memes\ovodro_img (758).jpg,ovodro_img (758).jpg,আমি তোর GF নয় কিন্তু  i can be ur half gf     তাহলে এই নে আমার হিসুতে স্নান কর ,negative
+../dataset/Dataset\Memes\ovodro_img (423).jpg,ovodro_img (423).jpg,ইচ্ছেকৃত ভাবে চামচ টা হাত থেকে ফেলে দেবো   বৌমা চামচ টা তুলে দাও তো ! ,negative
+../dataset/Dataset\Memes\KAM (9).jpg,KAM (9).jpg,"আমি, আমার এক ছেলের নাম দেশ ও আরেক ছেলের নাম জাতি রাখছি কেন? কারণ আমি সবাইকে বলতে চাই দেখ 'আমি দেশ ও জাতির পিতা'",positive
+../dataset/Dataset\Memes\KAM (117).png,KAM (117).png,ক্লাসের সবচেয়ে ব্রিলিয়ান্ট স্টুডেন্টর পাশে পরীক্ষার হলে সিট পরছিল! কিন্তু শালা তার হাতের লেখা এত সুন্দর যে বুঝতেই পারি না!,positive
+../dataset/Dataset\Memes\Halal Memes (213).jpg,Halal Memes (213).jpg,জনগণ - এত গরম ! বৃষ্টি কই ?  *starts Raining  জনগণ - শুরু হইছে বালের বৃষ্টি       লে বৃষ্টি -  ,negative
+../dataset/Dataset\Memes\KAM (3).jpg,KAM (3).jpg,"জানু নতুন একটা ক্রিম পাইছি তুমি ৭ দিনেই ফর্সা হয়ে যাবা বাবু লাগবে না, আমি নতুন ফটো ইডিট এপ্স নামাইছি",positive
+../dataset/Dataset\Memes\Bangla Thug Life (120).jpg,Bangla Thug Life (120).jpg,সদ্য বিবাহিত যুগলদের রুম থেকে যখন শব্দ শুনা যায়    আইজকা ভূমিকম্প হচ্ছে ,negative
+../dataset/Dataset\Memes\KAM (153).jpg,KAM (153).jpg,এইটা অনন্ত জলিলের কাজ ছাড়া আর কেউ এর না impossible কে possible করাই অনন্তের কাজ,negative
+../dataset/Dataset\Memes\tangaila (286).jpg,tangaila (286).jpg,পুরো বছরে যত দুর্ঘটনা ঘটেছে সব গুলোর জন্য মানুষ ২০২০ কে দায় করার পর বছরের শেষে দেওয়ানবাগি মরায় যখন সবাই খুশি হয়-   ২০২০ টু সাধারণ মানুষঃ     ক্রেডিট দিলেন না স্যার ,negative
+../dataset/Dataset\Memes\ovodro_img (403).jpg,ovodro_img (403).jpg,"বউকে বললাম আজকে তো KISS DAY,  KISS AND TEA একসাথে দাও   বউ KHIS-TEA দিয়ে চলে গেলো ",negative
+../dataset/Dataset\Memes\ovodro_img (308).jpg,ovodro_img (308).jpg,বন্ধু্দের হারিয়েছি    পরিবার কে হারিয়েছি     পড়াশোনা শেষ করে বেকার থেকেছিস কখনো ?  ,neutral
+../dataset/Dataset\Memes\ovodro_img (245).jpg,ovodro_img (245).jpg,কোহলির ডাক নাম চিকু । যখন প্রথম দিল্লি রঞ্জি টিমে আসে প্রাক্তন দিল্লি কোচ অজিত চৌধুরী এই নামটি দিয়েছিলেন । ,positive
+../dataset/Dataset\Memes\KAM (788).jpg,KAM (788).jpg,"বাসার সবচেয়ে ছোট ছেলে যে,তার অর্ধেক জীবন চলে যায় দরজা খুলতে আর লাগাতে আর অর্ধেক জীবন চলে যায় পানি খাওয়াতে খাওয়াতে আর বাজার করতে করতে!",positive
+../dataset/Dataset\Memes\bangla-memes (150).jpg,bangla-memes (150).jpg,যখন পরীক্ষার রেসাল্ট ভালো হওয়ার পর মনে পড়ে যায় যে আসল রেসাল্ট দেওয়া হবে হাশরের ময়দানেঃ,positive
+../dataset/Dataset\Memes\ovodro_img (420).jpg,ovodro_img (420).jpg,আমি লোকদের হাঁসতে সাহায্য করি ! আর তুমি ?    আমি লোকের টা রাগাতে সাহায্য করি ,negative
+../dataset/Dataset\Memes\ovodro_img (465).jpg,ovodro_img (465).jpg,"বাবা ওই শুয়োর গুলো পাকিস্তান কে বাবা বলে কেন ?   হ্যাঁ, ওরা হচ্ছে সবচেয়ে অসভ্য সংস্কৃতির দেশ ।  ওদের বিপদের সময় সাহায্য করলেও ওরা তার মূল্য দিতে পারে না ।।  তাই ওদেরকে আমরা ভালোবেসে আমারা কাংলু বলে ডাকি যারা পাকিস্তানের অবৈধ সন্তান ",negative
+../dataset/Dataset\Memes\Bangla Thug Life (352).jpg,Bangla Thug Life (352).jpg,যখন আম্মু মাইর দেওয়ার পরে বলে কান্না করলে আবার মাইর খাবি     ৫ বছর বয়সী আমিঃ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (263).jpg,Bangla Thug Life (263).jpg,তুমি অনুমতি দিলে একটা জয়েন্ট ধরাই?     একটা কেন ! দুইটা ধরাও...,negative
+../dataset/Dataset\Memes\Bangla Thug Life (199).jpg,Bangla Thug Life (199).jpg,বিদেশ ফেরত স্বামী যখন পাঁচ বছর পর দেশে এসে স্ত্রীর সাথে প্রথম রাত্রিযাপনের পর  স্ত্রীঃ  পাছাডা ধ্বংস কইরা লাইছিরে ভাই ,negative
+../dataset/Dataset\Memes\ovodro_img (233).jpg,ovodro_img (233).jpg,কী হয়েছে ?  ব্রেক আপ করলি কেন ?    আমার মেয়েদের একদম সহ্য হয় না !    শান্তির ছেলে Gay......!!,negative
+../dataset/Dataset\Memes\Bangla Thug Life (154).jpg,Bangla Thug Life (154).jpg,আমার উপর রেগে কুত্তারবাচ্চা শুয়োরের বাচ্চা বলে গালি দেয়া আমার মা    দোষ করলাম আমি আম্মু নিজেরে গালি দেয় ক্যান বুঝতে না পারা আমি ,negative
+../dataset/Dataset\Memes\chosha (95).jpg,chosha (95).jpg,বাবুু তোমার দুদু কই...?  বোকাসোদা আগে দুদু উঠতে দে ,negative
+../dataset/Dataset\Memes\bangla-troll (46).jpg,bangla-troll (46).jpg,"মেয়েটি দেখতে কুৎসিত , এটার ইংলিশ কি হবে  DAT GIRL LOOKS LIKE ""SAHARA KHATUN""",negative
+../dataset/Dataset\Memes\bangla-gag (114).jpg,bangla-gag (114).jpg,MEANWHILE IN BANGLADESH    BBA    ENGINEERING     CIVIL WAR,negative
+../dataset/Dataset\Memes\tangaila (192).jpg,tangaila (192).jpg,আপনার জন্য দুইটা জিনিস রাখছি   কি   গরুর বিচি রাখছি দুইটা   মার শালারে...,negative
+../dataset/Dataset\Memes\Halal Memes (5).jpg,Halal Memes (5).jpg,"ELDER SIBLINGS: তুই এতিম, তোরে আমরা রাস্তায় পাইছি, তোর মার নাম সোকিনা...  8 years old me :",positive
+../dataset/Dataset\Memes\bangla-memes (168).jpg,bangla-memes (168).jpg,"Girls : He has to be 6 ft, attractive, blue eyes, rich and strong. Also girls : ",negative
+../dataset/Dataset\Memes\chosha (68).jpg,chosha (68).jpg,বেবি ! আমার কিন্তু খুশি চাই    তার জন্য তো কনডম খুলতে হবে ,negative
+../dataset/Dataset\Memes\KAM (463).jpg,KAM (463).jpg,এক বোতল রক্ত দিনতো! রক্তের গ্রুপ বলেন আবোল তাবোল রক্ত নিবেন নাকি! প্রেমিকাকে লাভ লেটার লেখবো গ্রুপ দিয়া কি হইবো! একটা হইলেই হইব!,positive
+../dataset/Dataset\Memes\tangaila (298).jpg,tangaila (298).jpg,হঠাত টাংগাইলের কোনো মেয়ের প্রফাইলে ডুকে যখন দেখি প্রফাইলে লক নাই   MIRACLE ! MIRACLE ,negative
+../dataset/Dataset\Memes\Halal Memes (66).jpg,Halal Memes (66).jpg,সেহেরী খাইতে উঠানর পর      আমার অবস্থা  ,positive
+../dataset/Dataset\Memes\ovodro_img (73).jpg,ovodro_img (73).jpg,যখন কোন বাচ্চার মা বাবা দুজনেই ট্রেনে উঠে যায় কিন্তু বাচ্চা টা উঠতে পারে না ,negative
+../dataset/Dataset\Memes\tangaila (9).jpg,tangaila (9).jpg,"BIOLOGY THEORY IS IMPORTANT BUT, BIOLOGY PRACTICAL IS LIFE   ME    MEDICAL এর ভাইয়া   BIOLOGY BOOK   ",negative
+../dataset/Dataset\Memes\bangla-gag (139).jpg,bangla-gag (139).jpg,BOYS DO EID SHOPPING AT BASHUNDHRA CITY       MEN DO EID SHOPPING AT JAMUNA FUTURE PARK     LEGENDS DO EID SHOPPING AT NEW MARKET ,positive
+../dataset/Dataset\Memes\bamboo-vaiya (7).jpg,bamboo-vaiya (7).jpg,একজন ভালো বয়ফ্রেন্ড সবসময়   গালফ্রেন্ডের মুখে হাসি ফুটিয়ে রাখার চেষ্টা করে   ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (313).jpg,bamboo-vaiya (313).jpg,NSU তে ভর্তি হওয়ার আগেঃ     NSU তে ভর্তি হওয়ার পরেঃ,negative
+../dataset/Dataset\Memes\KAM (188).png,KAM (188).png,অনন্ত জলিল গরম লাগার কারনে ফ্যান ছারসিলো! ...  ফলাফল,positive
+../dataset/Dataset\Memes\ovodro_img (374).jpg,ovodro_img (374).jpg,pubG player    tiktok user,negative
+../dataset/Dataset\Memes\KAM (69).png,KAM (69).png,LOOK AT PITBULL!!  ফইন্নির ঘরের ফইন্নি! মনে হয় গুলিস্তান থেকে জামাকাপড় কিনছে! ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (352).jpg,bamboo-vaiya (352).jpg,ভদ্র ছেলেদের ব্যবহার করে ব্রেক আপ করার পর play girl be like :   তোমার কি খুব লেগেছে বাপু ...... ,negative
+../dataset/Dataset\Memes\bangla-memes (158).jpg,bangla-memes (158).jpg,যখন ক্লাসের সবচেয়ে লম্বা ছেলেটাকে বোর্ড মুছতে ডাক দেওয়া হয়ঃ,positive
+../dataset/Dataset\Memes\Bangla Thug Life (373).jpg,Bangla Thug Life (373).jpg,ভার্সিটিতে নতুন জুনিয়র মেয়ে ভর্তি হওয়া বিদ্যমান   ক্যাম্পাসের সিনিয়র ভাইয়েরাঃ,negative
+../dataset/Dataset\Memes\KAM (282).jpg,KAM (282).jpg,বুস্ট প্রতিদিন ১২০ দিন ফহিন্নিরে ফহিন্নি কত ১২০ দিন আইলো আর গেলো কিন্তু তোরা খেলতে শিখলি না!,negative
+../dataset/Dataset\Memes\KAM (68).png,KAM (68).png,"পর্তুগালের সাথে কার খেলা দেখলে ঘুমিয়ে যেতে হবে?  উত্তর: সুইডেন কারণ স্কোরকার্ডে লেখা থাকবে ""শুয়ে পড়"" SWE-POR",positive
+../dataset/Dataset\Memes\bamboo-vaiya (426).jpg,bamboo-vaiya (426).jpg,ইলেক্ট্রিক র‍্যাকেট দিয়ে মশা মারার পর    থোড়,positive
+../dataset/Dataset\Memes\nurani-memes (81).jpg,nurani-memes (81).jpg,"Son :  Dad, Why my freinds name is ador ?  শিক্ষামন্ত্রীঃ Because his father can't stop adoring him  Son: Ooh, Thanks dad !   শিক্ষামন্ত্রী: It's okay,   প্রশ্নপত্র ফাস । ",negative
+../dataset/Dataset\Memes\KAM (694).jpg,KAM (694).jpg,দোস্ত আমার বিলাইটা ডা নিজের নাম কইতে পারে। হাচা নি? তোর বিলাইয়ের নাম কি? মিয়াও...,positive
+../dataset/Dataset\Memes\bangla-gag (49).jpg,bangla-gag (49).jpg,সারা বছর       ভুমিকম্পের পর ,negative
+../dataset/Dataset\Memes\ovodro_img (330).jpg,ovodro_img (330).jpg,যখন বাড়ির লোক খবর পায়    পিকনিকে যেয়ে মদ খেতে শুরু করেছি ! ,negative
+../dataset/Dataset\Memes\KAM (344).jpg,KAM (344).jpg,আই লাভ ইউ... কি বললি তুই... শয়তান! বয়রি! শুনতেই যখন পাছ নাই তাইলে চড় মারলি কেন!,positive
+../dataset/Dataset\Memes\KAM (222).png,KAM (222).png,বাংলাদেশে কিছু ফইন্নি আছে যারা ইন্ডিয়ান দের দেখতে পারে না মাগার ফইন্নি ঠিকই IPL দেখে,negative
+../dataset/Dataset\Memes\ovodro_img (312).jpg,ovodro_img (312).jpg,ভাড়া দেন তো বৌদি    দেখি বৌদি আপনার টা,negative
+../dataset/Dataset\Memes\bangla-memes (106).jpg,bangla-memes (106).jpg,দরদ      মা     মাসি     -বাবু তুমি খাইলেই আমার খাওয়া হবে ,positive
+../dataset/Dataset\Memes\KAM (353).jpg,KAM (353).jpg,পরীক্ষা!!!! শিক্ষক ব্রিলিয়ান্ট ছাত্র আমি,positive
+../dataset/Dataset\Memes\Bangla Thug Life (252).jpg,Bangla Thug Life (252).jpg,"kylie jenner এর পোস্ট এ ""টাকা দে"" কমেন্ট করার  পর    আমি একজন প্রকৃত দেশপ্রেমিক ",negative
+../dataset/Dataset\Memes\Bangla Thug Life (84).jpg,Bangla Thug Life (84).jpg,মা-বাবার  কথার মাঝখানে যখন নিজের মতামত প্রকাশ করতে যায়   মা-বাবাঃ  কথায় কথায় খালি মাস্টারি  ,negative
+../dataset/Dataset\Memes\bangla-memes (198).jpg,bangla-memes (198).jpg,What Brahmanbaria people are getting after attending janaza in lockdown :  আখেরাতের পাসপোর্ট    মাওলানা আবু আবরার     বেহেশতের ভিসা    মাওলানা আবু আবরার           ,negative
+../dataset/Dataset\Memes\direct-offense (19).jpg,direct-offense (19).jpg,When you hug your girlfriend for the first time,negative
+../dataset/Dataset\Memes\tangaila (50).jpg,tangaila (50).jpg," প্রেমে পড়েছি , প্রেমে পড়েছি    meme হয়েছি,  meme হয়েছি  ",negative
+../dataset/Dataset\Memes\Halal Memes (219).jpg,Halal Memes (219).jpg,ব্রেকাপের কষ্ট সবচেয়ে বেশি !  কোনো দিন ভুল করে উলটো দিক দিয়ে বিড়ি ধরাইছো ?,negative
+../dataset/Dataset\Memes\KAM (86).jpg,KAM (86).jpg,ভাই আপনার পড়াশুনা কতদূর?  তুই বুঝবি না আমি B.A pass এতদিনে এই শিখছো বলদা তাও আবার উল্টা! ,positive
+../dataset/Dataset\Memes\ovodro_img (646).jpg,ovodro_img (646).jpg,dev  তোমাকে বাবা ডেকেছে !    ক্যানো ?     নতুন বেল্ট কিনেছে ...  তোমার উপর প্রোয়গ করবে ,negative
+../dataset/Dataset\Memes\nurani-memes (50).jpg,nurani-memes (50).jpg,AWAMI * LEAGUE,negative
+../dataset/Dataset\Memes\Bangla Thug Life (237).jpg,Bangla Thug Life (237).jpg,"*ভেক্টর রাশি    *স্কেলার রাশি     মান ও দিক উভয়েই আছে    শুধু মান আছে , dick নেই",negative
+../dataset/Dataset\Memes\ovodro_img (89).jpg,ovodro_img (89).jpg,আমি মহানায়ক হতে চাই দেব দা ।  আমাকে কী করতে হবে ?    তুই পাগলু ২ সিনেমা টা রিমেক কর তবেই তুই মহানায়ক হয়ে যাবি ,negative
+../dataset/Dataset\Memes\KAM (699).jpg,KAM (699).jpg,*১৪ ফেব্রুয়ারি রঙ্গিন ভালোবাসা দিবস *২১ ফেব্রুয়ারি সাদাকালো ভালোবাসা দিবস,positive
+../dataset/Dataset\Memes\bamboo-vaiya (26).jpg,bamboo-vaiya (26).jpg,আম্মু বলসে বাইরের কিছু খাইতে না তাই তোমাকে ঘরের বউ বানাতে চাই  ,negative
+../dataset/Dataset\Memes\ovodro_img (136).jpg,ovodro_img (136).jpg,দুঃখ    ঘুম    রাগ    কান্না  same expression  কী ভাবছেন ?   হাসি টা কেন দেখলাম না ?   ওটা রেয়ার ।   ভুল করে দিয়েছে ! ,negative
+../dataset/Dataset\Memes\ovodro_img (524).jpg,ovodro_img (524).jpg,প্রথম বিশ্বযুদ্ধ  দ্বিতীয় বিশ্বযুদ্ধ    তারপর আসে CSk vs KKR  এর ফ্যানসদের মধ্যের যুদ্ধ ,neutral
+../dataset/Dataset\Memes\Bangla Thug Life (66).jpg,Bangla Thug Life (66).jpg,ডাটা প্যাক না কিনেই যখন আপনি ব্রাউজিং শুরু করেন   সিম কোম্পানিঃ  আপনিঃ ,positive
+../dataset/Dataset\Memes\Halal Memes (91).jpg,Halal Memes (91).jpg,বারবার Delete Invitation দেওয়ার পরেও যখন কেউ অনবরত গ্রুপে Invite দিতেই থাকে    আমিঃ  আপনাকে কিসের বারি মারলে আপনি শান্ত হবেন বলুন তো ,negative
+../dataset/Dataset\Memes\bangla-memes (22).jpg,bangla-memes (22).jpg,আব্বু-আম্মুঃ ভার্সিটি তে উঠলে পড়ালেখা কম    আমার বড় ভাইঃ     *smiles*    আব্বু-আম্মুঃ তোর মুখ দিয়া হাসি বাইর হইল কেন ? ,negative
+../dataset/Dataset\Memes\KAM (21).png,KAM (21).png,পোলাপান বাহিরে পটকা ফুটাইতেসে আর আমি ঘরে বইসা বইসা শব্দ শুনতাসি,positive
+../dataset/Dataset\Memes\tangaila (62).jpg,tangaila (62).jpg,ফেসবুক সেলেব্রিটি হওয়ার জন্যই আমার জন্ম  ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (342).jpg,bamboo-vaiya (342).jpg,স্কুল/ কলেজে থাকার সময়    ইডেন মহিলা কলেজে ভর্তি হবার পরে ,negative
+../dataset/Dataset\Memes\chosha (43).jpg,chosha (43).jpg,বাচ্চারা লিঙ্ক খুজে    লিজেন্ডরা লিংক বানায় ,negative
+../dataset/Dataset\Memes\ovodro_img (743).jpg,ovodro_img (743).jpg,বোম্বা দা আমার হরলিক্স টা খুজে পাচ্ছি না  !     আমাকে জিজ্ঞাসা করছিস কেন !   আ আ আ আমিইই চুরিইই করি নি ,negative
+../dataset/Dataset\Memes\Halal Memes (57).jpg,Halal Memes (57).jpg,"যখন মুরুব্বিদেরকে কোনো রাজনৈতিক বিষয়ে কথা বলে হারিয়ে দেই,  মুরুব্বীগণ - ",negative
+../dataset/Dataset\Memes\Halal Memes (214).jpg,Halal Memes (214).jpg,সারা দেশে ফ্রী ফেসবুক বন্ধ হয়ে যাওয়ার পর       লে স্টার জলসা     জবা কি পারবে ফ্রী ফেসবুক ফিরিয়ে আনতে  ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (94).jpg,Bangla Thug Life (94).jpg,"উপর, নিচ ভালো কইরা না দেখা পর্যন্ত আমি কারো সাথে প্রেম করিনা ",negative
+../dataset/Dataset\Memes\KAM (17).png,KAM (17).png,১২ঃ৩০ বাইজা গেসেগা কিন্তু শালার পোলাপান এর পটকা ফুডানি শেষ হয় না,positive
+../dataset/Dataset\Memes\KAM (107).jpg,KAM (107).jpg,এসো আমরা প্রেম করি ফাইজলামি পাইছেন? বেয়াদ্দপ মাইয়া! আমি দেশপ্রেম করতে বলতেছি,positive
+../dataset/Dataset\Memes\ovodro_img (779).jpg,ovodro_img (779).jpg, হরলিক্স ছিল না ঘেরে তে তাই চাটতে পারি নি আজ...   আমার ক্লান্ত মরদ ঘুমিয়ে আছে ইচ্ছে হলে আসতে পারিস মোর ঘর !  ,negative
+../dataset/Dataset\Memes\KAM (169).png,KAM (169).png,ছয়দিন ধরে অবরোধ করতেছেন আর কতো??এবার একটু থামেন!!আপনি তো ছয় বছর ধরে রাজত্ব করতেছেন এইবার আপনে একটু থামেন!!,negative
+../dataset/Dataset\Memes\Halal Memes (212).jpg,Halal Memes (212).jpg,Railway track melted 😂😂,negative
+../dataset/Dataset\Memes\Halal Memes (336).jpg,Halal Memes (336).jpg,In Bangladesh তুমি লুংগি পরছো মানে ক্ষ্যাত     600 টাকার লুংগি পরলে ছেলেরা ক্ষ্যাত !   আর  250 টাকার প্লাজু পরলে মেয়েরা মর্ডান ? ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (81).jpg,bamboo-vaiya (81).jpg,5-1    Khub kosto? Na? ,negative
+../dataset/Dataset\Memes\Halal Memes (314).jpg,Halal Memes (314).jpg,পারিবারিক কোনো বিষয়ে যখন আমি কোনো মতামত প্রকাশ করি      পরিবারের সবাইঃ Fuck your opinion ,negative
+../dataset/Dataset\Memes\ovodro_img (549).jpg,ovodro_img (549).jpg, বলিউড না টলিউড হিরোইন দের বিয়ে করতে চাও ?   টলিউড হিরোইন দের   ভুল ডিসিশন । কারন টলিউড হিরোইন রা এক একজন তিন তিন বার করে বিয়ে করে ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (148).jpg,Bangla Thug Life (148).jpg, নিব্বিঃ জান আমি তোমাকে কি দিলে তুমি অনেক খুশি হবা  Fuckboy: চটপটি   ফুসকা    নুডস ,negative
+../dataset/Dataset\Memes\bangla-memes (46).jpg,bangla-memes (46).jpg,"When you die and realize that you don't have to return your friend's  ""৫০০ টাকা"" anymore",positive
+../dataset/Dataset\Memes\ovodro_img (752).jpg,ovodro_img (752).jpg,"নোবেল বাংলাদেশ থেকে এসে ভারতে গান করার সুযোগ পেয়েছে !     একটু দেওয়াই যায় সুযোগ     ওর আবাল ফ্যানগুলো ওকে  ARIJIT, KUMAR SANU  এর  সাথে  করে COMPARE করে   একটু আবাল গিরী সহ্য করাই যায়      নোবেল মনে করে রবীন্দ্রনাথ ঠাকুরের লেখা জাতীয় সঙ্গীত নাকি বাংলাদেশের ঐতিহ্য তুলে ধরে না ।     এবার দুচির ভাইকে দুচে ছেড়ে দেব ওয়ারা  ",negative
+../dataset/Dataset\Memes\KAM (651).jpg,KAM (651).jpg,"আল্লাহ তোমারে দুইটা হাত দিয়েছেন, চাল থেকে পাথর বেছে নিতে পারোনা? আল্লাহ তোমায় ৩২টা দাঁত দিয়েছেন ২/৪টা পাথর চিবিয়ে খেতে পারোনা?",positive
+../dataset/Dataset\Memes\KAM (74).jpg,KAM (74).jpg,আরোহি পাচ বোতল মদ দেও আমার বাপ কি মালের ব্যবসা খুলছে? বাসে ত লেখা থাকে মালের দায়িত্ব আরোহির,positive
+../dataset/Dataset\Memes\nurani-memes (169).jpg,nurani-memes (169).jpg,"When you are having a great time with all of your cousins and suddenly one of them says "" চলো গানের কলি খেলি "" ",positive
+../dataset/Dataset\Memes\Halal Memes (49).jpg,Halal Memes (49).jpg,23 years old Unmarried me attending a family function     Relatives: তর কি জামাই লাগবো ? ,negative
+../dataset/Dataset\Memes\ovodro_img (318).jpg,ovodro_img (318).jpg,প্রথমে সিরিয়াল করতাম তখন আমাকে নিয়ে দু একটা মিম হত আর লোকজন হাসত     তারপর মাসি বলল স্টেজে পারফরমেন্স  করতে   এখন আমি নিজেই নিজের খিল্লি ওড়াই ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (139).jpg,bamboo-vaiya (139).jpg,when she pushes her dhaner sish inside your nouka,negative
+../dataset/Dataset\Memes\KAM (65).jpg,KAM (65).jpg,সারাদিন ঘুম ঘুম ভাব থাকে শুধু ঘুমানোর সময় চোখে ঘুম থাকে না!,positive
+../dataset/Dataset\Memes\ovodro_img (446).jpg,ovodro_img (446).jpg,ভারত থেকে একজন মুখ্যমন্ত্রির পূর্ন সমর্থন পেয়েছি ।  ধন্যবাদ জানানোর ব্যবস্থা করো !   নিজের বোনকে ধন্যবাদ  জানিয়ে ছোট করবেন না ।।,negative
+../dataset/Dataset\Memes\Bangla Thug Life (381).jpg,Bangla Thug Life (381).jpg,হর্ণি করে তোলার পর যখন স্বামী দুই মিনিটে মাঠ ছেড়ে চলে যায়   স্ত্রীঃ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (13).jpg,bamboo-vaiya (13).jpg,"কথা কি সত্যি    চো-, চো-  স্বামী স্ত্রীর মধ্যে এটা প্রায়ই হয় বলো তো কি হবে ?      চোদা চোদি    চোখা চোখি হবে তো   ",negative
+../dataset/Dataset\Memes\Halal Memes (319).jpg,Halal Memes (319).jpg,"যখন আমি কোনো কারণ দেখিয়ে ট্যুরে যেতে রাজি হইনা এবং বন্ধু বলে যে টাকা আমি দিবো তুই চল, তখন আমিঃ     উত্তম প্রস্তাব  ",neutral
+../dataset/Dataset\Memes\Halal Memes (36).jpg,Halal Memes (36).jpg,তোমাকে ছাড়া বাঁচবোনা' বলা এক্স        ব্রেকাপের ৬ মাস পরেও ওকে বেঁচে থাকতে দেখা  আমি ,negative
+../dataset/Dataset\Memes\ovodro_img (186).jpg,ovodro_img (186).jpg,শুভ নাড়ু দিবস  And  বাজি দিবসের শুভেচ্ছা  ,negative
+../dataset/Dataset\Memes\tangaila (253).jpg,tangaila (253).jpg,"যখন বিন্দুবাসিনীর কোন মেয়ে বলে সে সিংগেল    লে আমিঃ  ""Proman Dao.""   ",negative
+../dataset/Dataset\Memes\Halal Memes (89).jpg,Halal Memes (89).jpg,সারারাত জেগে থেকে সেহরির সময় বাবা-মাকে জাগানোর পর    আমিঃ শ্রেষ্ঠ সন্তান ,positive
+../dataset/Dataset\Memes\Bangla Thug Life (7).jpg,Bangla Thug Life (7).jpg,"বাবা, শহর কি ? আমরা জানি না বাবা, আমারা উত্তরা থাকি ! ",negative
+../dataset/Dataset\Memes\Bangla Thug Life (68).jpg,Bangla Thug Life (68).jpg,*Gang-bang vidieos exists ; women pornstar : বিধি তুমি বলে দাও আমি কার ,negative
+../dataset/Dataset\Memes\KAM (7).jpg,KAM (7).jpg,"দেখ ভাই, আমি আমার মাকে সবসময়ই ভালবাসি!! তাই আমার স্ট্যাটাস দেওয়ার দরকার নাই!!",negative
+../dataset/Dataset\Memes\KAM (734).jpg,KAM (734).jpg,That moment যখন একলা খেলা দেখি যখন আব্বা/আম্মা আসে,positive
+../dataset/Dataset\Memes\tangaila (74).jpg,tangaila (74).jpg,চলে গেছো তাতে কি   চকবাজার ট্রাজেডি   বিমান ছিনতাইয়ের চেষ্টা   বসুন্ধরায় বাসচাপায় বিশ্ববিদ্যালয় শিক্ষার্থী নিহত    নতুন একটা পেয়েছি   বনানীতে ভয়াবহ আগুন ,neutral
+../dataset/Dataset\Memes\direct-offense (4).jpg,direct-offense (4).jpg,ও মাঠে খেলুক বা যেখানেই খেলুক না কেনো But খেলুক  তাহলে আজ না-হয় বাসাতেই হয়ে যাক? ,negative
+../dataset/Dataset\Memes\KAM (150).jpg,KAM (150).jpg,ব্রেকিং নিউজঃ শাকিবের নাচ দেখে একজন হার্ট এটাক্য বিকাল ৩টায় তাকে ধরে নিয়ে যায় পুলিশ,negative
+../dataset/Dataset\Memes\KAM (627).jpg,KAM (627).jpg,যখন তুমি সিঙ্গেল তখন আশেপাশে দেখবে সব সুখি বিবাহিত কাপল যখন তুমি বিবাহিত তখন চারপাশে দেখবে শুধু সুখি সিঙ্গেল,positive
+../dataset/Dataset\Memes\bamboo-vaiya (380).jpg,bamboo-vaiya (380).jpg,"Everyone is regretting about 'এবার রমজানে এটা খেতে পারবোনা, ঐটা কিনতে পারবোনা'  Meanwhile  গরীব-দুঃখী মানুষরাঃ    - First time ? ",negative
+../dataset/Dataset\Memes\KAM (214).jpg,KAM (214).jpg,"বল জান জান.. বল জান.. আরে বাসার নিচে চইলা আসছি,জান জান বাসায় জান!",positive
+../dataset/Dataset\Memes\Bangla Thug Life (189).jpg,Bangla Thug Life (189).jpg,বাহিরে প্রচন্ড বৃষ্টি হচ্ছে কিচ্ছু কি অনুভব করতে পারছো ?  আজকে আমার খবর আছে কিন্তু পলিথিন ছাড়া মাংস ফ্রিজে রাখতে দিবোনা  ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (308).jpg,bamboo-vaiya (308).jpg,যখন তুমি জানতে পারো তোমার ছেলে BTS ফ্যান    আমার পোলার মেশিন কই ?  ,negative
+../dataset/Dataset\Memes\ovodro_img (310).jpg,ovodro_img (310).jpg,এরকম শীতেও যারা স্নান করেছে তাদের সাহসিকতাশ্রী পুরুস্কার দেওয়া হবে  ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (54).jpg,Bangla Thug Life (54).jpg,যখন তোমার প্রচন্ড মাথা ব্যাথা করায় চা পান না করে সরাসরি মাথা ব্যাথার ট্যাবলেট খেয়ে নাও   Fuck tradition,negative
+../dataset/Dataset\Memes\KAM (291).jpg,KAM (291).jpg,"মেয়েরা জাতীয় সঙ্গীত পারেনা, প্রমাণ চান? পারলে বলো তো মেয়েরা, জাতীয় সঙ্গীতের দ্বিতীয় লাইন কি?? কি চুপ কইরা আছো কেন?",positive
+../dataset/Dataset\Memes\bamboo-vaiya (187).jpg,bamboo-vaiya (187).jpg,দোকানের সামনে ধুলাবালিঃ *exists*  দোকানদার nibbas:  ,positive
+../dataset/Dataset\Memes\bamboo-vaiya (391).jpg,bamboo-vaiya (391).jpg,ভিক্ষুকের মত ভোট চেয়ে ফটো কনটেস্ট জিতার পর কামলারা-   LIFE IS A GAME OF COMPETITION ,negative
+../dataset/Dataset\Memes\ovodro_img (464).jpg,ovodro_img (464).jpg,"আজ মন চেয়েছে । ওই দুটো দেও একবার খেতে !    না, দেব না।    ক্যানো ? মাল এর সাথে রসগোল্লা যায় না ",negative
+../dataset/Dataset\Memes\KAM (160).png,KAM (160).png,আমার বন্ধু নিরাপত্তা হীনতায় ভুগতেসিল ওর বাসার সামনে দুইটা বালুর ট্রাক দাড়া করাইয়া দিয়া আসছি,positive
+../dataset/Dataset\Memes\bamboo-vaiya (196).jpg,bamboo-vaiya (196).jpg,She: Ki Pochondo Tomar ?   He: Tomar Hashi   She :-,negative
+../dataset/Dataset\Memes\KAM (232).png,KAM (232).png,হেই চিক তোমার নাম কি??  KATY PERRY আরে আজব কেটে পরবা ক্যান ?? আমি কি খারাপ কিছু বলছি নাকি??  ,positive
+../dataset/Dataset\Memes\bamboo-vaiya (529).jpg,bamboo-vaiya (529).jpg,Bengali parents have two sides -খবরদার প্রেম তো দুরের কথা কোনো মেয়ে/ ছেলের সাথে কথা বলবি না বাসা থেকে বের করে দিবো   -তোর কি নিজের কোনো পছন্দ নাই ? এই বয়সে এসেও তোর জন্য পাত্র/ পাত্রী খুজতে হয় কেন ? ,negative
+../dataset/Dataset\Memes\KAM (641).jpg,KAM (641).jpg,"চায়নার মানুষ ক্রিকেট খেলে না কেন জানিস? ওদের সবার চেহারা এক! কোনটা যে আউট হইছে আর কোনটা মাত্র উঠছে, বুঝবি কেমনে? (#)",negative
+../dataset/Dataset\Memes\bamboo-vaiya (148).jpg,bamboo-vaiya (148).jpg, WHEN U ARE A ইয়াবা ADDICT AND NOW U ARE IN  মাদক নিরাময় কেন্দ্র   বাবা কত দিন দেখিনা তোমায়    ,negative
+../dataset/Dataset\Memes\KAM (318).jpg,KAM (318).jpg,দোস্ত তোর জিএফ টা সুন্দর হুম হটও আসে ওর সাথে তোর BREAKUP হয়নাই এখনো? কি কইলি??? কিছুনারে দোস্ত!!,positive
+../dataset/Dataset\Memes\KAM (528).jpg,KAM (528).jpg,"আম্মা, চুল কাটতে যাই যা! কিন্তু বাসায় আইতে সব চুল ফিরত আনিস ক্যারে? হতচ্ছাড়া! বাসন মাজবো বলে MAIRALA! AMARE MAIRALA!  ",negative
+../dataset/Dataset\Memes\KAM (773).jpg,KAM (773).jpg,"কিরে তোর হাতে ওটা কি নকল এনেছিছ কেন?  কসম ম্যাডাম এটা নকল না, অরিজিনাল বই এর পাতা....",positive
+../dataset/Dataset\Memes\bamboo-vaiya (88).jpg,bamboo-vaiya (88).jpg,"First night after marriage *  ""babe i am cumming""  ""Dont stop""  ""keep going""   ""আল্লাহ রে""  ""মরে গেলাম""  ""আস্তে দে""  ",negative
+../dataset/Dataset\Memes\KAM (121).png,KAM (121).png,জমিদার সাহেব আমি গরীব হতে পারি কিন্তু আমারও আইফোন আছে! চায়না হইছে তো কি হইছে?,positive
+../dataset/Dataset\Memes\ovodro_img (161).jpg,ovodro_img (161).jpg,Radhika apte   Radhika khat pe    Radhika ki gand main   ঘুচ গায়া NETFLIX ne,negative
+../dataset/Dataset\Memes\KAM (438).jpg,KAM (438).jpg,ইন্ডিয়া তে শাবান বেচতে পারেনা আসবে বাংলাদেশে! বেচবেই বা কেমনে? তাদের টয়লেটেই তো নাই!,positive
+../dataset/Dataset\Memes\ovodro_img (105).jpg,ovodro_img (105).jpg,"যখন কেউ বলে কিরে মোবাইল টিপে সময় নষ্ট করিস কেন ?    আমিঃ-  আরে বাল, তুমি জানো না এ মোবাইল কী জিনিস । লাইফ পার্টনার ছাড়া থাকা যায় কিন্তু মোবাইল ছাড়া নয়  ",neutral
+../dataset/Dataset\Memes\Bangla Thug Life (156).jpg,Bangla Thug Life (156).jpg,এই বান্টি তোর সাবান স্লো নাকি রে ? বালপাকনামি কম সোদাও । করোনা ভাইরাস ধরলে বুঝবা ।,negative
+../dataset/Dataset\Memes\bangla-memes (82).jpg,bangla-memes (82).jpg,Bangladeshi news media*     success of a desi niBBa    success of a বাংলাদেশী বংশদ্ভুত   niBBA ,negative
+../dataset/Dataset\Memes\KAM (311).jpg,KAM (311).jpg,সুপার মুন এর দুর্ভোগ! ভোলা টেকনাফ   কলাপাড়া মোড়েলগঞ্জ,neutral
+../dataset/Dataset\Memes\Bangla Thug Life (331).jpg,Bangla Thug Life (331).jpg,বাবাঃ যা চালের বস্তাটা ঘরে নিয়ে যা   মাঃ আমার ছেলে এতো ভারী বস্তা  কিভাবে তুলবে   Meanwhile  ছেলেঃ,negative
+../dataset/Dataset\Memes\direct-offense (6).jpg,direct-offense (6).jpg,চিকন মেয়েরা তাদেরকে যেমন মনে করে   আসলে তারা দেখতে যেমন ,negative
+../dataset/Dataset\Memes\bangla-gag (104).jpg,bangla-gag (104).jpg,আমাদের প্রত্যেকের এমন বন্ধু আছে   যাদের দরকারের সময় পাওয়া যায় না কিন্তু দাওয়াতে সবার আগে পাওয়া যায়   ,negative
+../dataset/Dataset\Memes\KAM (338).jpg,KAM (338).jpg,পার্কে ইটিশ পিটিশ অনেক করছো সবাইকে সচেতন করো! এসব বন্ধ করো!!!,positive
+../dataset/Dataset\Memes\nurani-memes (168).jpg,nurani-memes (168).jpg,"Me   My unconditional Love     *My Crush  এই ,এইটা এইখান থিকা নিয়া যাও ।",positive
+../dataset/Dataset\Memes\Bangla Thug Life (185).jpg,Bangla Thug Life (185).jpg,*১৪ বছর বয়সী আমি যখন*  পরীক্ষায় ফেইল কইরা বাসায় রেজাল্ট কার্ড নিয়া যাইতাম   আমার বাবাঃ  আহো ভাতিজা আহো ,negative
+../dataset/Dataset\Memes\tangaila (270).jpg,tangaila (270).jpg,কুমুদিনীর কোন মেয়ের নুডস ভাইরাল হওয়ার পর যখন অন্য মেয়েদের বফরা নুডস চায়   লে কুমুদিনীয়ান কালনাগিন -    Are you comedy me   ,negative
+../dataset/Dataset\Memes\ovodro_img (46).jpg,ovodro_img (46).jpg,আমরা যাদের একসাথে দেখতে চাই     কিন্তু যাদের একসাথে দেখতে পাই ,negative
+../dataset/Dataset\Memes\bangla-gag (32).jpg,bangla-gag (32).jpg,"ভাবি, আপনার মেয়ের রেজাল্ট কি ?     BRACE YOURSELVES CANDIDATES SSC RESULTS ARE COMING OUT",negative
+../dataset/Dataset\Memes\bangla-gag (3).png,bangla-gag (3).png,এক যে ছিল GAYLE     বাংলাদেশে এসে তার থকল না কোনো BELL ,positive
+../dataset/Dataset\Memes\Bangla Thug Life (72).jpg,Bangla Thug Life (72).jpg,When you're having sex and suddenly remember a meme you saw on my page ,negative
+../dataset/Dataset\Memes\KAM (654).jpg,KAM (654).jpg,ভাই মোবাইলে ফ্রি টিভি দেখবো কিভাবে? মোবাইলের ক্যামেরা টা অন করে টিভির সামনে ধর!!,positive
+../dataset/Dataset\Memes\KAM (94).png,KAM (94).png,ঘন ঘন শ্বশুর বাড়িতে গেলে যেমন শ্বশুর বাড়ির লোকজনের কাছে জামাই এর কদর কমে যায় তেমনি ঘন ঘন হরতাল দিলে জনগণের কাছে হরতাল এর কদর কমে যায়,positive
+../dataset/Dataset\Memes\ovodro_img (33).jpg,ovodro_img (33).jpg,ইস্ত্রি জামা সোজা করে    স্ত্রী  বর সোজা করে ,negative
+../dataset/Dataset\Memes\KAM (451).jpg,KAM (451).jpg,"জানু, কালকে আমরা শপিং এ যাবো বাইরে খাবো, সিনেমা দেখবো, আর ঘুরবো৳ তাইলে পরশু থেকে আমরা একসাথে মাজারে গিয়ে ভিক্ষা করবো!",positive
+../dataset/Dataset\Memes\bangla-gag (4).jpg,bangla-gag (4).jpg,"ওপাড়ের দাদারাঃ  ""দাদা চা কি খেয়ে এসেছেন নাকি যেয়ে খাবেন ?""     এপাড়ের মামারাঃ  ""বাসায় আসছেন এক কাপ চা খেয়েই যাবেন !!""",negative
+../dataset/Dataset\Memes\KAM (129).png,KAM (129).png,থানার পাশে দুরবিত্তরা একজনরে গুলি কইরা যায়গা আর পুলিশ কিচ্ছু করতে পারে না! তাইলে তো এখন নিজের নিরাপত্তার জন্য নিজের সাথে বালু আর ইটের ট্রাক নিয়া ঘুরতে হইব!,negative
+../dataset/Dataset\Memes\chosha (7).jpg,chosha (7).jpg,"কি হলো জামা কাপড় পড়ে নিলে যে    এতক্ষন চুষলাম তোমারটা খাড়ায় না, এখন কি ওটা নিয়ে কানে শুড়শুড়ি দিবো ? ",negative
+../dataset/Dataset\Memes\chosha (96).jpg,chosha (96).jpg,"আমাকে মনে পরলে তুমি কি করো ?     হাত মারি , মাল বের করি তারপর ঘুমাই ",negative
+../dataset/Dataset\Memes\KAM (289).jpg,KAM (289).jpg,"বয়ফ্রেন্ডঃ তুমি আর পাঁচটা মেয়ের চেয়ে আলাদা গার্লফ্রেন্ডঃ অনেক ধন্যবাদ, কিন্তু তুমি কিভাবে বুঝলে? বয়ফ্রেন্ডঃ তোমার হালকা গোঁফ আছে",positive
+../dataset/Dataset\Memes\ovodro_img (193).jpg,ovodro_img (193).jpg,পেটি    srijit,negative
+../dataset/Dataset\Memes\tangaila (346).jpg,tangaila (346).jpg,উদ্যানের পিছনে প্রস্রাবের জায়গায় যাওয়া বিদ্যমান -   ভাই... গন্ধে থাহোন যাইতাসে না ! ,negative
+../dataset/Dataset\Memes\KAM (267).jpg,KAM (267).jpg,জান ওয়ার্ল্ডকাপ তোমার পছন্দের দল কোনটা?  নেদারল্যান্ড আর অপছন্দের দল? হল্যান্ড এতগুলা পচা,positive
+../dataset/Dataset\Memes\Bangla Thug Life (411).jpg,Bangla Thug Life (411).jpg,"মোটরবাইকে চেপে জয় শ্রী রামের শ্লোগান দেওয়া বাঙালি সংস্কৃতি নয়, - সায়নী ঘোষ      বাঙালির সংস্কৃতি",negative
+../dataset/Dataset\Memes\tangaila (24).jpg,tangaila (24).jpg, সব মেয়েই  JOSS    বেদের মেয়ে JOSS NA ,negative
+../dataset/Dataset\Memes\ovodro_img (466).jpg,ovodro_img (466).jpg,শিবের মাথায় জল ঢেলে ভেবেছিলাম কোন হ্যান্ডসাম ছেলের সাথে বিয়ে হবে !    এক টাকওয়ালা দাদুর সাথে বিয়ে হয়ে গেল ,negative
+../dataset/Dataset\Memes\Halal Memes (332).jpg,Halal Memes (332).jpg,গ্রামের চাচাতো ভাই যখন তাদের Oppo অথবা Vivo ফোন আমাকে দেখিয়ে বলে 8 Gb Ram তখন      আমিঃ,negative
+../dataset/Dataset\Memes\KAM (749).jpg,KAM (749).jpg,পাশের বাড়ির মর্জিনাও গোল্ডেন পাইছে আর তুই?  মা তুমি জানো না ছেলেদের স্বর্ণ হারাম? ,positive
+../dataset/Dataset\Memes\bangla-memes (24).jpg,bangla-memes (24).jpg,No Caption,positive
+../dataset/Dataset\Memes\bangla-memes (15).jpg,bangla-memes (15).jpg,আজকে রাতে সবাই যাকে লাগাচ্ছেঃ     -কে,negative
+../dataset/Dataset\Memes\ovodro_img (155).jpg,ovodro_img (155).jpg,"তেমার যেটা নেই, সেটা পাওয়ার জন্য লড়াই কর ।   একদিন ঠিক সেটা পাবে    ধন্যবাদ, আজ আপনার জন্য আমি  successful",negative
+../dataset/Dataset\Memes\Halal Memes (253).jpg,Halal Memes (253).jpg,ফেবুতে পিক আপলোড দেওয়া বিদ্যমানঃ    রিলেটিভ সম্প্রদায়ঃ ,positive
+../dataset/Dataset\Memes\KAM (228).png,KAM (228).png,"CID তে কোনো বিল্ডিং এ খুন হলে,দারোয়ান থেকে জিজ্ঞেস করলে,সে সব সময় দুটা উত্তর দিবে... সে ঘুমাইতেছিল অথবা সে চা খাইতে গেসিল",positive
+../dataset/Dataset\Memes\bamboo-vaiya (192).jpg,bamboo-vaiya (192).jpg,ঘরের হালিম    বাহিরের হালিম ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (216).jpg,bamboo-vaiya (216).jpg,"পাশের বাসা্র আন্টি যখন ৪৮ বছর বয়সে গর্ভবতী হয়ে যায় কিন্তু আঙ্কেল তো ৫ বছর আগের মারা গেছে   আমি-  আ আ , আজকে আমি খুব খুশি !!",negative
+../dataset/Dataset\Memes\KAM (504).jpg,KAM (504).jpg,মামা মোবাইলে খেলা দেখমু কিভাবে? মোবাইলের ক্যামেরা on করে টিভির সামনে ধরে রাখ,positive
+../dataset/Dataset\Memes\KAM (217).png,KAM (217).png,ইন্ডিয়া বেশি চিন্তা করিও না! তোমাদের সাথে ম্যাচও আমার রান BINARY CODE ই থাকবে,negative
+../dataset/Dataset\Memes\bamboo-vaiya (138).jpg,bamboo-vaiya (138).jpg,"Single Friends Be Like :    একটা গালফ্রেন্ড দেও না, চেটে চেটে খাবো ...",negative
+../dataset/Dataset\Memes\ovodro_img (350).jpg,ovodro_img (350).jpg,"যখন   কেউ আমাকে বলে "" তোর এক্স কে আজকে একজনের সাথে দেখলাম""   আমিঃ  তাতে আমার বাল ছেড়া গেলো ",negative
+../dataset/Dataset\Memes\ovodro_img (662).jpg,ovodro_img (662).jpg,পারবো না হতে আমি রোমিও ,neutral
+../dataset/Dataset\Memes\Halal Memes (167).jpg,Halal Memes (167).jpg,Girls looking at boys:      Boys looking at Girls: ,negative
+../dataset/Dataset\Memes\KAM (771).jpg,KAM (771).jpg,ইঞ্জিনিয়ারিং এ চান্স পাওয়ার পর!  সিলেবাস দেখার পর ৪ বছর পর,positive
+../dataset/Dataset\Memes\KAM (603).jpg,KAM (603).jpg,মাচ রান্না করনি কেনো? মাছটাকেই মারতে পারলাম না! কিভাবে মারার চেষ্টা করেছিলে? কেন! পানিতে ডুবিয়ে!,positive
+../dataset/Dataset\Memes\Halal Memes (120).jpg,Halal Memes (120).jpg,"*এত বড় বন্ধেও বইপত্র না খোলা বিদ্যমান* আমার ভবিষ্যতঃ     Bravo Six, going dark. ",negative
+../dataset/Dataset\Memes\bangla-memes (86).jpg,bangla-memes (86).jpg,When a guy says 'love you dost' to his male bestfriend:,negative
+../dataset/Dataset\Memes\KAM (443).jpg,KAM (443).jpg,তোমার কাছে গিফট কিনার টাকা নাই!! বাহিরে ঘুরাইতে নিয়ে যাওয়ার টাকা নাই!! আছে কি তোমার কাছে?? আমি তো আগেই বলছি তুমি ছাড়া আমার কিছু নাই,negative
+../dataset/Dataset\Memes\Halal Memes (156).jpg,Halal Memes (156).jpg,"বাবার দূর সম্পর্কের আত্মীয়ের সাথে প্রথমবার আমার দেখা হওয়ার পর*    আত্মীয়*      বাবা  Now, say your name  ",neutral
+../dataset/Dataset\Memes\ovodro_img (519).jpg,ovodro_img (519).jpg,সবজি খাচ্ছিস খাঁ আমার ভক্তগন মাংস মুখে নেয় না ,negative
+../dataset/Dataset\Memes\tangaila (327).jpg,tangaila (327).jpg,"তুই ব্লাশ করস না, তোর মুখে গন্ধ     কিস ডে কিস দিবি না কপিলা ? ",negative
+../dataset/Dataset\Memes\Bangla Thug Life (296).jpg,Bangla Thug Life (296).jpg,"গরু কুরবানী দেয়া পশু হত্যার সামিল    তাহলে গরুর দুধ টেনে বের করাও যৌন হয়রানি, খাস কেন মুরুক্ষুচোদ ?",negative
+../dataset/Dataset\Memes\bangla-memes (79).jpg,bangla-memes (79).jpg,মুসলমানির পর ডাক্তার যখন তোমার মা-বাবাকে তোমার খেয়াল রাখতে বলে-     তুমিঃ   আপনার আর দরদ দেখাতে হবে না... বেইমান এর বেঈমান ,negative
+../dataset/Dataset\Memes\ovodro_img (156).jpg,ovodro_img (156).jpg,সেই মুহুর্ত যখন ক্রাশ message করে কিন্তু  message seen করার পর দেখে  'HI MY SWEET SIS',negative
+../dataset/Dataset\Memes\KAM (644).jpg,KAM (644).jpg,বুকের দুধ না খাওয়ালে সন্তান জঙ্গি হতে পারে-স্বাস্থ্যমন্ত্রী নাসিম ওরে কেউ এক পিস রুটি আর কলা দে। (#),negative
+../dataset/Dataset\Memes\KAM (405).jpg,KAM (405).jpg,"তো আজকে ফাদার'স ডে, মিউসিক ডে, এডমিনের বার্থ ডে এবং ইন্ডিয়া রে ভইরা দে",positive
+../dataset/Dataset\Memes\KAM (53).png,KAM (53).png,তোমার শার্ট এ লিপস্টিক এর দাগ কিভাবে লাগলো?এইডা তো আমারও প্রশ্ন আমি ঐ সময় শার্ট প্যান্ট কিছুই পড়া ছিলাম না,positive
+../dataset/Dataset\Memes\Halal Memes (222).jpg,Halal Memes (222).jpg,পরিক্ষার হলে পাশের সিট যখন খালি থাকে তখন -   Expectation     Reality  ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (205).jpg,Bangla Thug Life (205).jpg,রমজানের আগে শেষবার হাতমারা বিদ্যমান  নুনুঃ আল্লাগো... আইজ না জানি কি হয় ,negative
+../dataset/Dataset\Memes\bangla-memes (33).jpg,bangla-memes (33).jpg,জিন্নাহঃ উর্দু এবং উর্দুই হবে পাকিস্তানের একমাত্র রাষ্ট্রভাষা         Dhaka University Nibbas : ,positive
+../dataset/Dataset\Memes\ovodro_img (378).jpg,ovodro_img (378).jpg,No Caption ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (179).jpg,Bangla Thug Life (179).jpg,রাতে দুষ্টু ছবি দেখা বিদ্যমান আমার টুনটুনিকে আমিঃ তোমার এই লাড়ালাড়ির স্বভাবটা আর গেলোনা ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (80).jpg,bamboo-vaiya (80).jpg,"ভাই আপনি এত ভালো  RELATIONSHIP ADVICE দেন তারপরও আপনি কেন     SINGLE ?   ""I Guide Others To A Treasure I Cannot Possess""",neutral
+../dataset/Dataset\Memes\ovodro_img (499).jpg,ovodro_img (499).jpg,এই কোম্পানি তে চাকরী করার জন্য তোমার কী গুন রয়েছে ?    স্যার আমি হোলির দিনে এত মদ খাই যে নিজের বাবার নাম আর বাড়ির ঠিকানা ভুলে যাই !    তুমিই তো প্রকৃত বাঙালি তোমার চাকরী পাক্কা    স্যালারি কত নেবে ভাই?? ,negative
+../dataset/Dataset\Memes\nurani-memes (4).jpg,nurani-memes (4).jpg,"আরে বেটা কি বালের Game of Thrones দেখস, ঈদ এর নাটকগুলো দেখ সেই মজা পাবি   হ্যালো, পাবনা মানসিক হাসপাতাল ? ",negative
+../dataset/Dataset\Memes\bamboo-vaiya (355).jpg,bamboo-vaiya (355).jpg,For jamai    For porpurush ,negative
+../dataset/Dataset\Memes\ovodro_img (765).jpg,ovodro_img (765).jpg,অন্য মেয়েরা ঘুম থেকে ওঠার পর...   আমি ঘুম থেকে ওঠার পর...,neutral
+../dataset/Dataset\Memes\bamboo-vaiya (146).jpg,bamboo-vaiya (146).jpg,"২০১৯ সাল থেকে সৃজনশীল প্রশ্ন ২টি কমিয়ে ৫টি করা হবে    আরে ভাই, এইটা prank ছিলো ঐ যে দেখেন camera  ",negative
+../dataset/Dataset\Memes\KAM (376).jpg,KAM (376).jpg,BEFORE TOURNAMENT মাশরাফি আর চিকাম্বুরার হাতে দেখলাম এক ট্রফি AFTER TOURNAMENT প্রধানমন্ত্রী দিলেন আর এক ট্রফি! মনে হই আগের ট্রফিতে বঙ্গবন্ধুর নাম লেখা ছিল না,negative
+../dataset/Dataset\Memes\KAM (507).jpg,KAM (507).jpg,দোস্ত ড্রাগ লাগব জলদি দে কি! তুই DRUG নিস তাই বলি তুই এত মেজাজ দেখাস জেন আজ থেকে তোর হাতখরচ বন্ধ!  COC GAME মা DRAG বলসি DRUG নাহ ড্রাগন এর  SHORT FORM ড্রাগ,positive
+../dataset/Dataset\Memes\Bangla Thug Life (107).jpg,Bangla Thug Life (107).jpg,আম্মু যখন আমাকে মারে  ৫ বছর বয়সী আমিঃ  দাদা আমাকে  মারছে ,positive
+../dataset/Dataset\Memes\KAM (719).jpg,KAM (719).jpg,কমার্সের স্টুডেন্ট দের সবাই যা ভাবে আর তারা যা হয়!,positive
+../dataset/Dataset\Memes\KAM (261).jpg,KAM (261).jpg,পড়াশুনা না করেই ভালো পরীক্ষা দিছি! পরীক্ষা ভালো হলে...পরীক্ষা খারাপ হলে পড়লে ঠিকই ভালো করতে পারতাম!,positive
+../dataset/Dataset\Memes\nurani-memes (166).jpg,nurani-memes (166).jpg,* Any kind of results exists *   Relative niggas :  খুব জানতে ইচ্ছে করে ,positive
+../dataset/Dataset\Memes\bamboo-vaiya (322).jpg,bamboo-vaiya (322).jpg,রাত ১২ টার পর যখন টিভি দেখতে বসি Le TV ads:   সবার টা খাড়ায় আমার টা খাড়ায় না ,negative
+../dataset/Dataset\Memes\bangla-troll (12).jpg,bangla-troll (12).jpg,সবাই বেহেস্তে যাইতে চায় কিন্তু কেউ মরতে চায়না,positive
+../dataset/Dataset\Memes\ovodro_img (351).jpg,ovodro_img (351).jpg,পার্থক্য বুঝুন   এটায় ধোন খাঁড়া হয়    আর এটায় লোম ,negative
+../dataset/Dataset\Memes\KAM (445).jpg,KAM (445).jpg,পড়ালেখা তুমি কার মাথায় ঘুরো? তার মাথা কি আমার থেকে বড়?,positive
+../dataset/Dataset\Memes\bangla-gag (11).jpg,bangla-gag (11).jpg,সেহেরি ৩ঃ৩০ !        কিন্তু ১২ টায় পুরা ইন্ডিয়া টিমরে খাইয়া শেষ করে দিসি !,negative
+../dataset/Dataset\Memes\KAM (27).jpg,KAM (27).jpg,"বাবু, ভাত খাও খামু না! হাহাহহা না খাইলে নারায়নগঞ্জের মেয়ের সাথে বিয়া দিব তাইলেতো গুম হইয়া যাব খাইতেছি আম্মা",positive
+../dataset/Dataset\Memes\tangaila (115).jpg,tangaila (115).jpg,When you Want to show Your Acting Skills ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (76).jpg,bamboo-vaiya (76).jpg,"এত বার নিষেধ করার পরেও কেন তুই প্রেমে পরলি ?   আরে বাবু, মনের মিলনে কি আর condom লাগানো যায় ? ",negative
+../dataset/Dataset\Memes\ovodro_img (806).jpg,ovodro_img (806).jpg,"পানুর আওয়াজঃ    আহ আহ আহ , অহ ইয়া, ও মাই গড      রানুদির গলার আওয়াজঃ     আ  আ  আ আ আ  আ   আ   আ   আ",negative
+../dataset/Dataset\Memes\tangaila (184).jpg,tangaila (184).jpg,ও করেছে টা কি ?    নেইমারকে মেসি/ রন থেকে সেরা বলেছে !   তাইলে ও এ পৃথিবীতে কি করতেছে ?  ওর গলা কাটা চাই ! ,negative
+../dataset/Dataset\Memes\KAM (783).jpg,KAM (783).jpg,জীবনটা দিন দিন বাপ্পারাজের সিনেমার মত হয়ে যাচ্ছে কোনো নাইকা নাই কপালে পাইছি শুধু ছ্যাঁকা আর ছ্যাঁকা ,positive
+../dataset/Dataset\Memes\nurani-memes (10).jpg,nurani-memes (10).jpg,John Wicks Love For His puppy is Unexplainable ,negative
+../dataset/Dataset\Memes\nurani-memes (210).jpg,nurani-memes (210).jpg,Me trying to explain paragraph isn't something you copy    My Dumbass Friend,positive
+../dataset/Dataset\Memes\Halal Memes (79).jpg,Halal Memes (79).jpg,"বাবাঃ স্যার- মেডামরা যেই যায়গায় মারে, ওই যায়গা বেহেস্তে যায়।      Me: thinking ",neutral
+../dataset/Dataset\Memes\KAM (100).jpg,KAM (100).jpg,"পরীক্ষার আগের রাতে বারোটার সময় ঘুমে চোখ বন্ধ হয়ে আসে অন্যান্য রাতে ৩টা বাজলেও চোখ খোলা, পুরাই উলালা মুড",positive
+../dataset/Dataset\Memes\KAM (37).png,KAM (37).png,"জি আপা, বলেন জিয়ারে কি দলে নেয়ার ব্যবস্থা করা যায় না?",positive
+../dataset/Dataset\Memes\KAM (131).png,KAM (131).png,আমার মনের মাঝে তুমি হারামি তাইলে কোণায় কাকে লুকাইয়া রাখছো??,positive
+../dataset/Dataset\Memes\nurani-memes (202).jpg,nurani-memes (202).jpg,*সারাদেশে কোথাও চাঁদ দেখা যায়নি *   পাপি বান্দা' s in paradise : ,negative
+../dataset/Dataset\Memes\KAM (75).jpg,KAM (75).jpg,"আমাদের জন্য তালি বাজিয়ে কষ্ট করার দরকার নেই! পরে অনেক ভালো গান হবে, সেগুলোর জন্য তালি বাঁচিয়ে রাখুন! বাচ্চু ভাই এক হাত পকেটে রাখসি, আর তালি দিমু না!",positive
+../dataset/Dataset\Memes\chosha (70).jpg,chosha (70).jpg,ফেয়ার  লাভলি দিয়ে গিটার মারুন আপনার কালা নুনুকে সাদা করুন ,negative
+../dataset/Dataset\Memes\bangla-gag (69).jpg,bangla-gag (69).jpg,একমাত্র সরকার    যাকে দেশের সব নেতা-নেত্রীরা সমর্থন করে ,positive
+../dataset/Dataset\Memes\Halal Memes (39).jpg,Halal Memes (39).jpg,"যখন মোবাইলে এমবি থাকার পরেও মেসেঞ্জার বলে ""Use Data to Continue ""   Me to Messenger :  তুই কি আমারে ফুতপাতের ফকির পাইচত ? @নাম কি DITEI HOBE?",negative
+../dataset/Dataset\Memes\KAM (168).jpg,KAM (168).jpg,জীবনে বেঁচে থাকার জন্য আমাদের কি কি করা দরকার?সবার আগে পড়াশোনা বাদ দেয়া দরকার,positive
+../dataset/Dataset\Memes\ovodro_img (281).jpg,ovodro_img (281).jpg,"ভাই বার্থডেতে কোনো গিফট দিবি না ?   ওকে KFC-তে পার্টি দেবো... চলো,    Emotion নিয়ে খেলিস বা**",negative
+../dataset/Dataset\Memes\bangla-gag (145).jpg,bangla-gag (145).jpg,WHEN YOUR ABBU HEARS YOUR BOYFRIEND IS FROM NOAKHALI ,negative
+../dataset/Dataset\Memes\ovodro_img (490).jpg,ovodro_img (490).jpg,বাপুজি যারা ধিরে চলো বিজলি খাড়ি ইহা বিজলি খাড়ি    ওসব ধিরে চলাচলি বুঝি না... বিজলি থেকে বিড়ি জ্বালানো ছাড়া কিছু ভাবি না ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (21).jpg,Bangla Thug Life (21).jpg,*মুষল্ধারে বৃষ্টি হচ্ছে  My time has come ,negative
+../dataset/Dataset\Memes\ovodro_img (299).jpg,ovodro_img (299).jpg,কলেজে গিয়ে দেখি 75% attendece হয়নি    ইউনিয়ন এ নাম লিখিয়ে দিয়েছি  ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (213).jpg,bamboo-vaiya (213).jpg,"He:- তুমি জানো আমি মুসলমানি কেন করছি ?  She:- কেন?    He:- তোমাকে সুখ দেওয়ার জন্য, আর তোমার জন্য আমার নুনুটা যেন পরিষ্কার থাকে   14 y/o Nibbi:- ",negative
+../dataset/Dataset\Memes\KAM (770).jpg,KAM (770).jpg,ভাইয়া..!! আপনি আজও সিঙ্গেল কেন? তোমার প্রশ্নের প্রথম শব্দ টার জন্য,positive
+../dataset/Dataset\Memes\bamboo-vaiya (350).jpg,bamboo-vaiya (350).jpg,   নিউ মার্কেটের ফুটপাতে হাটা বিদ্যমান   লে হকারস-    তোর কি ব্রা লাগবো ? ,negative
+../dataset/Dataset\Memes\tangaila (167).jpg,tangaila (167).jpg,নাম নাকি তার নিরালা মোড়   একদম নিরব ,positive
+../dataset/Dataset\Memes\ovodro_img (699).jpg,ovodro_img (699).jpg,India vs England match exists     sarfaraz be like  আমরা ভারতকে বাবা ভাবলেও ভারত আমাদের ছেলে ভাবে না ,negative
+../dataset/Dataset\Memes\tangaila (229).jpg,tangaila (229).jpg,"ঐ দেখা যায় কলেজ গেট, ঐ আমাদের গাঁ ঐ খানেতে বাস করে নাগিনের ছা...",negative
+../dataset/Dataset\Memes\bangla-memes (91).jpg,bangla-memes (91).jpg,যখন  তুমি বিএনপির জন্য প্রচার প্রচারনা চালিয়ে আওয়ামী লীগকে ভোট দেওঃ     এই শহরে আমার মতো ক্রিমিনাল  আর একটাও নেই ।,negative
+../dataset/Dataset\Memes\KAM (201).png,KAM (201).png,যেই দেশের নামের শেসে থাকবে 'LAND' সেই দেশকে রেপ করবে রুবেল! বাইছা গেসি! আমার দেশের নামের শেষে নাই!,positive
+../dataset/Dataset\Memes\KAM (93).jpg,KAM (93).jpg,আসলে কলকাতায় অনেক গরম তাই ম্যাচ টা তাড়াতাড়ি শেষ করলাম,positive
+../dataset/Dataset\Memes\chosha (32).jpg,chosha (32).jpg,তুমি আমাকে কখনো সম্মান দাওনা   আর কতো সম্মান দিবো ?  রোজ রাতে দুই ঠ্যাং কান্দে তুলি ,negative
+../dataset/Dataset\Memes\Halal Memes (286).jpg,Halal Memes (286).jpg,ফ্রান্সের ঘটনায় বাংলাদেশ মিডিয়া*    i sleep    কোনো এক হুজুর নারীদের পর্দা করতে বলছে ! real shit,negative
+../dataset/Dataset\Memes\Halal Memes (194).jpg,Halal Memes (194).jpg,"যখন আমি রাত ১২ টার পর Tv খুলি*     *আগে আমার স্বামী আমাকে সুখ দিতে পারতোনা* MISSED CALL 927878 0555, 927878 0666  Rs- 2100/-   www.khajagold.com",negative
+../dataset/Dataset\Memes\KAM (649).jpg,KAM (649).jpg,"১টা মেয়ে ঘন্টায় পঞ্চাশটি রুটি বানায় বানালে ৩টি মেয়ে ঘন্টায় কতটি রুটি বানাবে? একটাও না, কারণ সবাই একসাথে গল্প করবে!",positive
+../dataset/Dataset\Memes\bamboo-vaiya (154).jpg,bamboo-vaiya (154).jpg,ব্রাজিল ও আর্জেন্টিনা উভয় দল ড্র করার পর    ভাই ভাইয়ের সম্প্রীতিতে পৃথিবীর বুকে বিরাজ করা শান্তি !,negative
+../dataset/Dataset\Memes\Halal Memes (270).jpg,Halal Memes (270).jpg,ছাত্রলীগ নিয়ে কোন মিম বানানো বিদ্যমান*    ছাত্রলীগ নেতাঃ    তুই কারে লিয়া ছিনিমিনি খেলতাসস বুঝোস নাই !,negative
+../dataset/Dataset\Memes\KAM (200).png,KAM (200).png,টানা ৪ ম্যাচে ৪ টা সেঞ্চুরি! এইডা মানুষ না এলিয়েন! ক্রিকেট খেলে না ভিডিও গেম?,positive
+../dataset/Dataset\Memes\chosha (87).jpg,chosha (87).jpg,জানু কবিতা শুনবে ?   বলে ফেলো    দেখলে তোমার ওঁই গুদ মনে যে লাগে কত সুখ    তোমার ওই বাঁড়া সহজে হয় না খাঁড়া  ,negative
+../dataset/Dataset\Memes\tangaila (288).jpg,tangaila (288).jpg, হ্যাপি নিউ ইয়ার    জুমা মোবারক ,positive
+../dataset/Dataset\Memes\KAM (352).jpg,KAM (352).jpg,"শাকিব জানস, আমি আমাদের ক্লাস এর OUTSTANDING ছাত্র ছিলাম! তাই নাকি, সত্যি? হ্যাঁ, সবসময় স্যার আমাকে বাইরে দাঁড়া করায়ে রাখত!",positive
+../dataset/Dataset\Memes\Bangla Thug Life (116).jpg,Bangla Thug Life (116).jpg,বয়ফ্রেন্ড যখন রিক্সার একপাশেই বসে :,negative
+../dataset/Dataset\Memes\bangla-memes (41).jpg,bangla-memes (41).jpg,When you're happy cuz exam is over and then realize the real exam will be at হাশরের ময়দান  ,positive
+../dataset/Dataset\Memes\tangaila (64).jpg,tangaila (64).jpg,পাছা চাটার জন্যই আমার জন্ম ,negative
+../dataset/Dataset\Memes\KAM (395).jpg,KAM (395).jpg,সবই আটা ময়দার কামাল!,negative
+../dataset/Dataset\Memes\ovodro_img (362).jpg,ovodro_img (362).jpg,"যখন কাছে ব্লাউজ থাকে না আর ক্রাশ পাস দিয়ে যায়, তাই রোমাল দিয়ে ব্লাউজ বানিয়ে নেয় !!",negative
+../dataset/Dataset\Memes\ovodro_img (244).jpg,ovodro_img (244).jpg,"টেস্ট ক্রিকেটে 73 ম্যাচে 6331 রান করেন , এভারেজ 54.57  সেঞ্চুরী - 24 টা ",positive
+../dataset/Dataset\Memes\bangla-memes (213).jpg,bangla-memes (213).jpg,বাসা থেকে মেহমান যাওয়ার পরঃ       *noodles   *alur chop/kabab    *halim    *me,negative
+../dataset/Dataset\Memes\Bangla Thug Life (238).jpg,Bangla Thug Life (238).jpg,*shaitan  *my dick   *horny me,negative
+../dataset/Dataset\Memes\ovodro_img (689).jpg,ovodro_img (689).jpg,No Caption,negative
+../dataset/Dataset\Memes\KAM (668).jpg,KAM (668).jpg,"হ্যালো, বন্ধু তোর গার্লফ্রেন্ডরে বলনা... আমার জন্য একটা গার্লফ্রেন্ড খুইজা দিতে! ফইন্নি!",positive
+../dataset/Dataset\Memes\bamboo-vaiya (303).jpg,bamboo-vaiya (303).jpg,বিভিন্ন দেশের পারমাণবিক বোমা   ... আমেরিকা  রাশিয়া  ইন্ডিয়া   বাংলাদেশ ,neutral
+../dataset/Dataset\Memes\Halal Memes (187).jpg,Halal Memes (187).jpg,গরুর বাজারে লাল রঙের গেঞ্জি পড়ে যাওয়া Exist আশ্চর্য গরুগুলো রেগে গেলো কেনো   ,positive
+../dataset/Dataset\Memes\direct-offense (50).jpg,direct-offense (50).jpg,বারোভাতারি !  সীমিত আকারে বারোভাতারি !,negative
+../dataset/Dataset\Memes\bamboo-vaiya (307).jpg,bamboo-vaiya (307).jpg,That one friend in school: একদম লেটেস্ট মাল ,negative
+../dataset/Dataset\Memes\chosha (45).jpg,chosha (45).jpg,দোস্ত তোকে দেখতে একদম আমার বাড়ার মতন লাগছে    তাই তো বলি তোর বউ বারবার আমার কাছে কেনো আসে   ,negative
+../dataset/Dataset\Memes\chosha (13).jpg,chosha (13).jpg, তুমি কনডম পরো না কেন ?   বাঘকে খাচায় মানায় না !,negative
+../dataset/Dataset\Memes\ovodro_img (17).jpg,ovodro_img (17).jpg,Need no caption  ভাবার কিছু নেই  এটাই উন্নয়ন ,negative
+../dataset/Dataset\Memes\bangla-memes (99).jpg,bangla-memes (99).jpg,Her: I love animals.     Him:  [Thinking of something to impress her ]   আম্মু আমাকে মাঝে মাঝে কুত্তার বাচ্চা বলে ডাকে । ,negative
+../dataset/Dataset\Memes\bangla-memes (30).jpg,bangla-memes (30).jpg,নরমাল পোলাপান     পোলাপান যারা  রেসাল্ট খারাপ করবে জেনেও বুয়েটের প্রস্তুতি নেয় ,negative
+../dataset/Dataset\Memes\nurani-memes (156).jpg,nurani-memes (156).jpg,Fuckboys in their 1st date   একটু খাই খিদা লাগছে ,negative
+../dataset/Dataset\Memes\KAM (693).jpg,KAM (693).jpg,সরকার যদি ফেসবুক ব্যবহারে ভ্যাট বসাতো তাহলে সরকারের‌ও ইনকাম হতো পোলাপাইনে পড়ালেখায় মনোযোগী হতো!,positive
+../dataset/Dataset\Memes\bangla-gag (43).jpg,bangla-gag (43).jpg,আগে     শুধু আমরা মানুষের হৃদয় জয় করতাম !    আর এখন     হৃদয় এর সাথে সাথে সিরিজও জয় করি ! ,positive
+../dataset/Dataset\Memes\chosha (36).jpg,chosha (36).jpg,জানু কথা দিলাম আর যাবো না ইমনের কাছে   গিয়ে আর কি লাভ খাওয়া তো শেষই ,negative
+../dataset/Dataset\Memes\KAM (73).png,KAM (73).png,বাংলাদেশ টিম পুরাই এরশাদের মত পল্টি মারলো এইডা কিছু হইলো? ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (408).jpg,Bangla Thug Life (408).jpg,বাবু আমি প্রেগনেন্ট...    কেমনে ! খুশির ঠেলায় ?  তোর ঠেলায় মাদারচোদ...,negative
+../dataset/Dataset\Memes\Bangla Thug Life (334).jpg,Bangla Thug Life (334).jpg,প্রেম করার আগে    প্রেম করার পর    প্রেম করার এক মাস পর     দুইমাস পর  ,negative
+../dataset/Dataset\Memes\direct-offense (9).jpg,direct-offense (9).jpg,সেই মুহুর্ত যখন পরিবারের সবাই ফর্সা কিন্তু আপনি কালো 😂,negative
+../dataset/Dataset\Memes\ovodro_img (230).jpg,ovodro_img (230).jpg," 2015  সাল বাদ,  2010 সাল থেকে 2018 সাল পর্যন্ত ইন্ডিয়ার হয়ে সবচেয়ে বেশি রান করেন । ",positive
+../dataset/Dataset\Memes\nurani-memes (95).jpg,nurani-memes (95).jpg,"When you realize even reciting "" Rabbi Zidni ilma ""  isn't helping you cover the syllabus for HSC",positive
+../dataset/Dataset\Memes\chosha (21).jpg,chosha (21).jpg,"জানু তোমার নুনুটা পৃথিবীর সবচেয়ে বড় নুনু   অহ মাই গড, তাই নাকি ?   হ্যাঁ, এর চেয়ে বড়গুলোকে বাড়া বলে ",negative
+../dataset/Dataset\Memes\ovodro_img (622).jpg,ovodro_img (622).jpg,আচ্ছা দেব তোমার গালফ্রেন্ড আছে ?    লা আমাল তোন দালফ্রেন্ড লাই কোল মেয়ে পাট্টা দেয় লা      এরম কথা বললে তো কেও পাত্তা দেবেই না ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (75).jpg,bamboo-vaiya (75).jpg,চৌধুরি    চোদ ধরি ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (390).jpg,Bangla Thug Life (390).jpg,প্রথমবার রুমডেটে যাবার পর Nibba to his Nibbi :     এ সুখের নেই কোনো সীমানা ,negative
+../dataset/Dataset\Memes\tangaila (181).jpg,tangaila (181).jpg,যখন কুমুদিনী কলেজ ছুটি দেয় তখনঃ-   কুমুদিনীর মেয়েরা*   আমি   ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (403).jpg,Bangla Thug Life (403).jpg,প্রেম মানে... চুমু দিয়ে শুরু   চোদন দিয়ে শেষ       ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (480).jpg,bamboo-vaiya (480).jpg,CAPTAIN CHUTMARANI,negative
+../dataset/Dataset\Memes\ovodro_img (336).jpg,ovodro_img (336).jpg,"তাহলে ওই কথাই রইল  আমার BIRTHDAY উপলক্ষে   এই সপ্তাহ সকাল , দুপুর ও বিকাল তিনবার চপ খাওয়া বাধ্যতামুলক",neutral
+../dataset/Dataset\Memes\KAM (81).png,KAM (81).png,সারাজীবন ফ্রিতে কত বাশ খাইলাম মাগার পতাকা উড়ানোর জন্য বাশই খুইজা পাইনা!,positive
+../dataset/Dataset\Memes\bamboo-vaiya (118).jpg,bamboo-vaiya (118).jpg,when a girl keeps starting at you and you try to act smart ,negative
+../dataset/Dataset\Memes\tangaila (328).jpg,tangaila (328).jpg,তোমরা গালি দাও    তাতে আমার বাল ছেড়া গেলো ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (345).jpg,bamboo-vaiya (345).jpg,বিয়ে করবে আমাকে ?    আমার সাথে বিয়ের পিড়িতে বসবে?   আমার বাচ্চাকে তোমার পায়ের নিচের জান্নাত দিবে ?   আমার ফরজ গোসলের কারণ হবে ?    নিকা করবি মাগি ? ,negative
+../dataset/Dataset\Memes\Halal Memes (255).jpg,Halal Memes (255).jpg,সাইন্স নিয়ে হোগামারা খাওয়া আমি*      আর্টস নিয়ে জীবনের সবচেয়ে বড় ভুল করেছি বলা আমার বন্ধু* ,negative
+../dataset/Dataset\Memes\ovodro_img (690).jpg,ovodro_img (690).jpg,"কন্যাশ্রী, ধর্নাশ্রী , রুপোশ্রী   সব দেব কিন্তু ......   কাট মানি চাইলে আবার ধর্না দেব ",negative
+../dataset/Dataset\Memes\Halal Memes (328).jpg,Halal Memes (328).jpg,চুরি করে গুড়া দুধ না খাওয়ার জন্য আমাকে ধন্যবাদ জানানো আমার-মা    এদিকে তাড়াহুড়োয় ভুলে আটা খেয়ে ফেলা বলদ-আমি,neutral
+../dataset/Dataset\Memes\ovodro_img (67).jpg,ovodro_img (67).jpg,ও নিশ্চয় অন্য মেয়েদের কথা ভাবছে !   asia cup এ বিরাট কোহলি খেলবে না ।   আমরা কী খেলতে পারব ফাইনাল ম্যাচ ?  ফাইনাল খেললেও কী জিততে পারব ?   ,neutral
+../dataset/Dataset\Memes\KAM (614).jpg,KAM (614).jpg,আমাদের তো বিয়ে হল তুমি কবে বিয়া করবা? পৃথিবীতে কিছু মানুষের জন্মই হয় শুধু বিয়ের দাওয়াত খাওয়া আর সেলফি তুলে ফেসবুকে পোস্ট করার জন্য!,positive
+../dataset/Dataset\Memes\KAM (365).jpg,KAM (365).jpg,আমার সারাদিন দাঁড়িয়ে থাকতেও কোন সমস্যা হয়না! মাগার পড়তে বসলে ১০ মিনিট স্থির থাকতে পারিনা!,positive
+../dataset/Dataset\Memes\bangla-memes (27).jpg,bangla-memes (27).jpg,খালেদা জিয়া জেলে যাওয়ার পরে মির্জা ফখরুল ইসলাম যেভাবে বিএনপিকে এগিয়ে নিচ্ছেন  ,positive
+../dataset/Dataset\Memes\ovodro_img (518).jpg,ovodro_img (518).jpg,"ভোটের দিন রমজানের উপোস করব , মিমির ঘোষণায় তুমুল হাততালি    আর তোরা বলিস ধর্ম নিয়ে রাজনীতি করে শুধু মোদি ",negative
+../dataset/Dataset\Memes\bangla-troll (70).jpg,bangla-troll (70).jpg,HAPPY FATHER'S DAY  TO THE NEW DADDY OF INDIAN CRICKET TEAM,negative
+../dataset/Dataset\Memes\bamboo-vaiya (510).jpg,bamboo-vaiya (510).jpg,যখন তুমি নতুন ১৪ লক্ষ ভোটার পাওয়ার জন্য এইচ এস সি বাতিল করো কিন্তু মানুষ ভাবে করোনা প্রতিরোধের জন্য পরীক্ষা বাতিল হয়েছে ,negative
+../dataset/Dataset\Memes\nurani-memes (94).jpg,nurani-memes (94).jpg,"When you see a  ""1 like = 1 prayer "" post and give a like instantly হ্যাশট্যাগ সমাজসেবা ",positive
+../dataset/Dataset\Memes\bangla-gag (68).jpg,bangla-gag (68).jpg,দুইবার ভুমিকম্প হইসে !   একবার ও টের পাই নাই !,positive
+../dataset/Dataset\Memes\bangla-gag (81).jpg,bangla-gag (81).jpg,প্রিয়তমা পরী ছিল ডানা কাটা ছিল না !   তাই উড়ে চলে গেল পাত্তাই দিল না !!,positive
+../dataset/Dataset\Memes\tangaila (3).jpg,tangaila (3).jpg,WHEN HE SAID 10 MINUTES BUT IT WAS ONLY 2 MINUTES,negative
+../dataset/Dataset\Memes\tangaila (219).jpg,tangaila (219).jpg,নাগরপুরের মেয়ে বিয়ে করলে যা হয়  ,negative
+../dataset/Dataset\Memes\ovodro_img (119).jpg,ovodro_img (119).jpg,যখন সিরিয়ালের এই হিরো টা একটার পর একটা বিয়ে করতে থাকে এবং প্রশ্ন ওঠে এটা সে কী ভাবে পারে ?    সিরিয়াল হিরোঃ-    ধোকা স্বভাব হ্যায় মেরা ,negative
+../dataset/Dataset\Memes\KAM (177).png,KAM (177).png,সৃষ্টিকর্তা নাকি সব ছেলের জন্য একটি করে মেয়ে বানিয়েছেন আমারটা মনে হয় গুম হইয়া গেছে শালার খুইজাই পাই না,positive
+../dataset/Dataset\Memes\KAM (545).jpg,KAM (545).jpg,BREAK UP এরপর মেয়েরা যে গান গায় এনালগ যুগঃ যেও না সাথী...চলেছো একেলা কোথায়? ডিজিটাল যুগঃ চলে গেছো তাতে কি নতুন একটা পেয়েছি তোমার চেয়ে আরও ধনী (#),negative
+../dataset/Dataset\Memes\ovodro_img (706).jpg,ovodro_img (706).jpg,বৌদি ছাদে উঠল   বৌদি ভিজে গায়ে রয়েছে    শাড়ি খুলছে    ভেজা ব্লাউজ আর সায়া পড়ে চুল ঝারছে ,negative
+../dataset/Dataset\Memes\KAM (508).jpg,KAM (508).jpg,"কসকি! তোরা ২৪ ভাইবোন!  তোদের বাড়িতে আদমশুমারির লোক আসে নাই? আসছিল, তখন সবাই পড়তেছিলাম! কোচিং ভাইবা চইলা গেছে!",positive
+../dataset/Dataset\Memes\bangla-memes (157).jpg,bangla-memes (157).jpg,যখন কেউ কুত্তার মতো সিগারেট খায় কিন্তু ধুলা দেখলে মাস্ক পড়েঃ,negative
+../dataset/Dataset\Memes\Halal Memes (216).jpg,Halal Memes (216).jpg,"প্রত্যেকটা বাসায় মাংস ডিলেভারি করার জন্য আমাকে ধন্যবাদ দেয়া আব্বু      মাংসগুলো কেজিদরে বিক্রি করে, বন্ধুদের সাথে চিল করে আসা আমি ",negative
+../dataset/Dataset\Memes\Bangla Thug Life (346).jpg,Bangla Thug Life (346).jpg,"তুই ফাকবয়     তুই বারোবাতারি     *নিষ্পাপ আমি    ফাকবয়, বারোভাতারি এগুলা কি বাংলা একাডেমির নতুন আবিষ্কার নাকি ",negative
+../dataset/Dataset\Memes\KAM (557).jpg,KAM (557).jpg,"আজ আমার এক বান্ধবি আসছে, রাতে থাকবে, তুমি আজ ডাইনিং রুমে শোবে ঠিক আছে, কিন্তু একটা শর্ত!! আমার বান্ধবি আসলে তুমিও ডাইনিং রুমে শোবে, কেমন?",positive
+../dataset/Dataset\Memes\KAM (701).jpg,KAM (701).jpg,দোস্ত আমি কি দেখতে খুব খারাপ? আল্লাহ কাউকে খারাপ করে বানায় না! থ্যাংক ইউ দোস্ত! কিন্তু তোকে যে কেন এত খারাপ করে বানিয়েছেন! আমি ঠিক বুঝতেছি না!,positive
+../dataset/Dataset\Memes\KAM (474).jpg,KAM (474).jpg,বাংলাদেশে আসছেন কিছু না খেলে কি হয় দাদা? তাহলে আমাকে এক প্লেট পুরান ঢাকার বিরিয়ানি খাওয়াও। এহ! শখ কতো! আগে তিস্তা চুক্তি.. তারপর খাওয়া!,positive
+../dataset/Dataset\Memes\tangaila (81).jpg,tangaila (81).jpg,NOBODY: গেরাইম্মা ফেইসবুক ইউজারঃ     কত বড় মাদারচোদ না হইলে বাংলাদেশের পতাকাকে ছোট করতে জুতা বানায় ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (165).jpg,bamboo-vaiya (165).jpg,When you're single but horny of at night  করতে হবে কোলবালিশের সাথে  ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (231).jpg,bamboo-vaiya (231).jpg, গ্রামের চাচাতো ভাইদের নিয়ে মিম বানিয়ে গ্রামে যাওয়ার পরঃ-,negative
+../dataset/Dataset\Memes\KAM (59).png,KAM (59).png,"আজ আমার এক বান্ধবী আসছে, রাতে থাকবে, তুমি আজ ডাইনিং রুমে শোবে।ঠিক আছে,কিন্ত একটা শর্ত!!  আমার বান্ধবী আসলে তুমিও ডাইনিং রুমে শোবে,কেমন? ",positive
+../dataset/Dataset\Memes\KAM (477).jpg,KAM (477).jpg,আমার বন্ধুরা সবাই হয় বিয়ে করছে নাহয় প্রেম করে বেড়াচ্ছে আর আমি? ফেসবুকে তাদের ছবিতে লাইক দিচ্ছি..,positive
+../dataset/Dataset\Memes\KAM (794).jpg,KAM (794).jpg,ইতিহাস সাক্ষী যে স্বামী যত বেশি চুপচাপ এবং মিতভাষী সেই স্বামীর বিবাহিত জীবন এবং ব্যক্তিগত জীবন ততটুকু সুখী,positive
+../dataset/Dataset\Memes\KAM (89).png,KAM (89).png,আমি এই দুইটাকে ঘৃনা করি না! কারন আম্মু প্রতিবন্দিদের ঘৃনা করতে মানা করেছে!,positive
+../dataset/Dataset\Memes\KAM (223).png,KAM (223).png,পাকিস্তানের সাথে খেলে মজা নাই সবাই ব্যাটিং পাই না ,positive
+../dataset/Dataset\Memes\Bangla Thug Life (407).jpg,Bangla Thug Life (407).jpg,february 14    february 15,negative
+../dataset/Dataset\Memes\nurani-memes (190).jpg,nurani-memes (190).jpg, ঘূর্ণিঝড়* ফনি      *ছাত্রলীগ ,negative
+../dataset/Dataset\Memes\KAM (161).jpg,KAM (161).jpg,"সবচেয়ে বোকা প্রাণী কোনটা? গরু, নিজেরা পানি খায় আর মানুষকে দেয় দুধ",positive
+../dataset/Dataset\Memes\ovodro_img (377).jpg,ovodro_img (377).jpg,কিচ্ছু চাই আমাই আজীবন ভালবাসা ছাড়া   আমিও তাদেরই দলে বারে বারে মরে যায় যারা ।।,negative
+../dataset/Dataset\Memes\tangaila (123).jpg,tangaila (123).jpg,ভার্সিটির বড় ভাই    আমি*    কুমুদিনীর মেয়ে ,negative
+../dataset/Dataset\Memes\ovodro_img (550).jpg,ovodro_img (550).jpg,যে কারনে মেয়েদের অসাধারন গুনের অধিকারি বলা হয় ,negative
+../dataset/Dataset\Memes\KAM (715).jpg,KAM (715).jpg,"এই রিক্সা, যাবা? কই যাবেন? বাসায় বাসার ঠিকানা বলেন! আমার বাসার ঠিকানা আপনাকে ক্যানো বলব #&$%#**",positive
+../dataset/Dataset\Memes\tangaila (264).jpg,tangaila (264).jpg,চলে এলাম ,neutral
+../dataset/Dataset\Memes\ovodro_img (651).jpg,ovodro_img (651).jpg,K   F    C      গোলবাড়ির কসামাংস ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (145).jpg,bamboo-vaiya (145).jpg,"HOME, HOME করতে করতে, সুস্থ ছেলে গুলো আজ HOMO হয়ে গেল  ",negative
+../dataset/Dataset\Memes\bamboo-vaiya (122).jpg,bamboo-vaiya (122).jpg,When you wear formal outfit     How you actually look like    How your sister sees you ,positive
+../dataset/Dataset\Memes\tangaila (156).jpg,tangaila (156).jpg,সৃষ্টির সুন্দরী মেয়ের কাছে প্রপজাল রিজেক্ট হওয়ার পর     লে আমিঃ-   আমি তো জাস্ট  মজা করছিলাম ...,negative
+../dataset/Dataset\Memes\ovodro_img (476).jpg,ovodro_img (476).jpg,আমাদের কোন দোষ নেই দিদি জোর করে দাঁড় করিয়ে দিল ভোটে !   আরে ঢ্যামনিগুলো আগামি মহানায়িকা তোরাই হবি !   ,negative
+../dataset/Dataset\Memes\direct-offense (67).jpg,direct-offense (67).jpg,140p  360p  1080p,negative
+../dataset/Dataset\Memes\Bangla Thug Life (204).jpg,Bangla Thug Life (204).jpg,"when a Asian girl first time watching BBC porn  ওমারে মা , এ দেহি বিরাট সাইজ  ",negative
+../dataset/Dataset\Memes\Bangla Thug Life (133).jpg,Bangla Thug Life (133).jpg,syllabus left    Days left for exam,positive
+../dataset/Dataset\Memes\Halal Memes (202).jpg,Halal Memes (202).jpg,"আমার পোস্টগুলি দেখার পরে,      রিলেটিভঃ-",negative
+../dataset/Dataset\Memes\bamboo-vaiya (214).jpg,bamboo-vaiya (214).jpg,Nobody - শহরের চাচাতো বোন  with her boyfriend,negative
+../dataset/Dataset\Memes\KAM (680).jpg,KAM (680).jpg,"বলতো মাথার চুল, দাড়ি-গোফের চেয়ে আগে পাকে কেন? স্যার, মাথার চুল দাড়ি-গোফের চেয়ে ২০ বছরের বড় বলে!",positive
+../dataset/Dataset\Memes\KAM (536).jpg,KAM (536).jpg,সারা বছর যা করি আর Exam আসলে যা করি,neutral
+../dataset/Dataset\Memes\ovodro_img (314).jpg,ovodro_img (314).jpg,সবথেকে বেশি কষ্টকর কী ?   দুবার না খেয়ে থাকা    আমি বলেছি  সবথেকে বেশি কষ্টের কথা ?    ব্রেক আপ   একদম । ।  ।   এটাই পারফেক্ট    মোবাইলের চার্য শেষ হয়ে যাওয়া ,neutral
+../dataset/Dataset\Memes\ovodro_img (187).jpg,ovodro_img (187).jpg,দুধ না খেলে... হবে না ভালো ছেলে ,negative
+../dataset/Dataset\Memes\bangla-memes (134).jpg,bangla-memes (134).jpg,"-আলুর চপ আর বেগুনি যে আমি রাখসিলাম ঐগুলো কই?       -ভাবলাম তুই খাবিনা, তাই বুয়াকে দিয়া দিসি  ",positive
+../dataset/Dataset\Memes\bamboo-vaiya (262).jpg,bamboo-vaiya (262).jpg,যখন আমার হাত সিগারেট থাকা সত্ত্বেও সেটা না জালিয়ে আমি আমার অধিকতর গুরুত্বপূর্ণ কথা বলতে থাকি     *আমার শ্রোতা বন্ধুঃ     কথা না বারিয়ে জলদি শুরু করো   ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (12).jpg,bamboo-vaiya (12).jpg,বউ যৌতুক দিসে এসব কি করছিস !   -তোমার বউমা শেভ করে নাই ,negative
+../dataset/Dataset\Memes\ovodro_img (170).jpg,ovodro_img (170).jpg,"তোমার টা কী কোন সাগর ?     না, তো । কেন ?    তাহলে, আমার টা ঠাই পায় না কেন !",negative
+../dataset/Dataset\Memes\KAM (442).jpg,KAM (442).jpg,BNP'র ভোট বর্জন ছিল পূর্বপরিকল্পিত! যেমন ভোট কারচুপি ছিল আপনাদের পূর্বপরিকল্পিত!,negative
+../dataset/Dataset\Memes\KAM (748).jpg,KAM (748).jpg,"ডিয়ার জুকারবার্গ ভাইয়া, তুমি আমার একটা ফেসবুক আইডি বন্ধ করে আমাকে বাশ দিবা, তো আমি নতুন দশটা ফেসবুক আইডি খুলে তোমাকে বাশ দিবো...",positive
+../dataset/Dataset\Memes\KAM (63).png,KAM (63).png,তিনজনকেই দাওয়াত দিসি এবার জমবে খেলা!,negative
+../dataset/Dataset\Memes\KAM (38).jpg,KAM (38).jpg,"আম্মু, বাইরর খেলতে যাই? যাও, কিন্তু ৩টা সুইটার আর ২টা টুপি পরে যাবা কারণ বাইরে অনেক শীত ৩টা সুইটার?",positive
+../dataset/Dataset\Memes\bamboo-vaiya (369).jpg,bamboo-vaiya (369).jpg,খানকির পোলা ভার্সিটির স্যারের সাথে কেমনে কথা কয় জানস না ? ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (165).jpg,Bangla Thug Life (165).jpg,এমন মাথায় বেধে দিবো লাল গেন্দা ফুল জ্যাকলিন    সারাজীবন হলুদ এবং কমলা গেন্দাফুল দেখে আসা আমি ,neutral
+../dataset/Dataset\Memes\ovodro_img (348).jpg,ovodro_img (348).jpg,ফুডের SI পদের প্রশ্ন  লিক হয়েছে !  এ ব্যাপারে তুমি কী জানো শ্যামা ?   আমি কিছুই জানি না সুমন দা ।। সবই আমার কৃষ্ণ জানে !!   ক্ষমা কর শ্যামা  আমি কিছুই জানি না...,neutral
+../dataset/Dataset\Memes\KAM (79).png,KAM (79).png,নাচানাচি কইরাও হাইরা গেলাম! কেদো না সোনা! আবার সামনের বছর চেষ্টা কইরো,positive
+../dataset/Dataset\Memes\KAM (744).jpg,KAM (744).jpg,"জীবনে যতবড় বিপদেই পরেন না কেন বৌয়ের কাছে টাকা ধার করবেন না একদা আমি বৌয়ের কাছে ২০০০ টাকা ধার করেছিলাম, ৩ বার ২০০০ টাকা ফেরত দিছি, এখনো ২৫০০ টাকা পায়! ",positive
+../dataset/Dataset\Memes\KAM (551).jpg,KAM (551).jpg,"কিরে ফইন্নি আজকে তোর বউ তোর উপর এতো ক্ষেপলো কেন? আর কইসনা বন্ধু, অর ছবি ফেসবুকে না দিয়া অয়েলেক্স ডট কমে দিয়া দিসিলাম",positive
+../dataset/Dataset\Memes\Halal Memes (128).jpg,Halal Memes (128).jpg,"প্রথমবার বফের চুমু খাবার কিছুদিন পর যখন 16 Year Old নিব্বির গ্যাস্ট্রিকের ব্যাথা উঠে -    ওহ, সে কি লাথি মারছে !  ",negative
+../dataset/Dataset\Memes\nurani-memes (56).jpg,nurani-memes (56).jpg,When you touch your phone for 0.0001s after hours of studying And your Mom Starts চিল্লাচিল্লি    আল্লাহ ! তোমার কাছে বিচার দিলাম । ,positive
+../dataset/Dataset\Memes\bangla-troll (63).jpg,bangla-troll (63).jpg,কিছু দিন সিগারেট খাও ... নেশা হয়ে যাবে   কিছু দিন মদ খাও... নেশা হয়ে যাবে  কিন্তু সারাজীবন লেখাপড়া করেও নেশা ধরাইতে পারবেনা,negative
+../dataset/Dataset\Memes\bangla-memes (28).jpg,bangla-memes (28).jpg,ঝোল*     তরকারি*     *আমার নতুন শার্ট   ,positive
+../dataset/Dataset\Memes\ovodro_img (762).jpg,ovodro_img (762).jpg,"আমি মনে করি রবীন্দ্রনাথ ঠাকুরের লেখা জাতীয় সঙ্গীত টি বাংলাদেশের ঐতিহ্যকে তুলে ধরে না     আহারে আমার হারিয়ে যাওয়া নোবেল    "" চার আনার পুইশাখ তার আবার ক্যাশমেমো "" ",negative
+../dataset/Dataset\Memes\bangla-troll (55).jpg,bangla-troll (55).jpg,সৃষ্টিকর্তা নাকি সব ছেলের জন্য একটি করে মেয়ে বানিয়েছেন  কিন্তু শালার আমার টা খুজে পাচ্ছিন মনে হয় বালুর ট্রাকের নিচে চাপা পইরা মইরা গেছে ! ,positive
+../dataset/Dataset\Memes\bangla-gag (42).jpg,bangla-gag (42).jpg,AND THEY SAID THEY HAVE ONE OF THE BEST BOWLING LINEUPS !,negative
+../dataset/Dataset\Memes\KAM (13).png,KAM (13).png,ওমা...ইলিশ খাওনের সময় গলায় কাট,positive
+../dataset/Dataset\Memes\Bangla Thug Life (321).jpg,Bangla Thug Life (321).jpg,চাদর/কাতা    রাতে ঘুমানোর সময় আমি    ফুল স্পিডে দেওয়া ফ্যান,negative
+../dataset/Dataset\Memes\Halal Memes (238).jpg,Halal Memes (238).jpg,সারাদিন রসায়ন বই পড়তে দেখে খুশি হওয়া আমার বাবা ।       এদিকে জৈব যৌগ অধ্যায় পড়ে মদ বানানোর আপ্রাণ চেষ্টা করা আমি ।,negative
+../dataset/Dataset\Memes\KAM (36).png,KAM (36).png,টি20 দলে ফিরলেন জিয়া জিয়া রে... জিয়া রে...,positive
+../dataset/Dataset\Memes\Bangla Thug Life (280).jpg,Bangla Thug Life (280).jpg,ক্রাশ যখন শাড়ি পড়ে ফেসবুকে ছবি আপলোড দেয়  আমিঃ  Unfortunately. চোখের পলক has stopped.  Ok ,negative
+../dataset/Dataset\Memes\KAM (541).jpg,KAM (541).jpg,"আপনার ছেলের বউ কেমন আছে? বউ টা এতো খারাপ যে বলার মত না! প্রতিদিন সকালে দেরি করে উঠে আর আমার ছেলে ওর জন্য চা বানিয়ে দেয়! ঘরের কোনো কাজ তো করেই না আর যখন তখন আমার ছেলেকে নিয়ে বাইরে খেতে চলে যায়! আর আপনার মেয়ের জামাই? জামাইটা একেবারে ফেরেশতা প্রতিদিন সকালে আমার মেয়েকে চা বানিয়ে দেয়, ওকে ঘরের কোনো কাজই করতে দেয় না আর প্রায়ই মেয়েকে নিয়ে বাহিরে খেতে যায়। সবাই যেন এমন জামাই পায়!",positive
+../dataset/Dataset\Memes\ovodro_img (593).jpg,ovodro_img (593).jpg,জয় শ্রী রাম  ,negative
+../dataset/Dataset\Memes\tangaila (180).jpg,tangaila (180).jpg,তো ছেলে কি করে   ছেলে Tangaila Sarcasm পেজের এডমিন   লে মাইয়াঃ বাবা আমি রাজি ,positive
+../dataset/Dataset\Memes\bamboo-vaiya (153).jpg,bamboo-vaiya (153).jpg,"এখনকার টিনএইজ এর পোলাপাইন গুলা ফেইসবুকে-    Bro, depression's a bitch !",negative
+../dataset/Dataset\Memes\Halal Memes (153).jpg,Halal Memes (153).jpg,*backbencher এর দোষের কারণে যখন first bencher ফেঁসে যায়*       *backbencher to Firstbencher: মাইর দেওয়নের সময় শরীর ঢীলা রাখবি মাইর কম লাগবো        ,neutral
+../dataset/Dataset\Memes\chosha (24).jpg,chosha (24).jpg,আজকে নাকি হাগ ডে    আমার কি আমি তো প্রতিদিন হাগি ,negative
+../dataset/Dataset\Memes\Halal Memes (77).jpg,Halal Memes (77).jpg,এবার তারাবীর নামাজে বাচ্চাদের শাসন করতে না পারায় এলাকার মুরুব্বীসমাজঃ ,neutral
+../dataset/Dataset\Memes\Halal Memes (109).jpg,Halal Memes (109).jpg,*এক বিষয় বাদে সব বিষয়ে পাশ করেও রেজাল্ট F *    Back Benchers: আই পাক ইওর ছিস্টেম ,negative
+../dataset/Dataset\Memes\nurani-memes (89).jpg,nurani-memes (89).jpg,When it's midnight and you are walking on the Mohammadpur streets  এই পথ শেষ হয় না ক্যান ?,positive
+../dataset/Dataset\Memes\bangla-memes (92).jpg,bangla-memes (92).jpg,Gonna prank mom when she returns home        Day : 1     Day : 3     Day : 322,negative
+../dataset/Dataset\Memes\ovodro_img (285).jpg,ovodro_img (285).jpg,Ware helmet at night ,negative
+../dataset/Dataset\Memes\bangla-troll (3).jpg,bangla-troll (3).jpg,খাইরুন লো তোর লম্বা মাথার কেশ  NOT SURE IF মাথা লম্বা OR কেশ লম্বা !,neutral
+../dataset/Dataset\Memes\ovodro_img (748).jpg,ovodro_img (748).jpg,বৌ এর স্যাম্পু করার পর চুলের গন্ধ শুকছেন এক দাদা ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (128).jpg,Bangla Thug Life (128).jpg,Feb 13   Feb14    Feb15,negative
+../dataset/Dataset\Memes\KAM (478).jpg,KAM (478).jpg,জান তুমি সবসময় শাক-সবজি খাও কেন? কারণ আমি পশু-পাখিকে বাঁচাতে চাই পশু-পাখিকে বাঁচাতে চাইলে ওদের খাবার খাও কেন?  ,negative
+../dataset/Dataset\Memes\bangla-memes (1).jpg,bangla-memes (1).jpg,when you did one math right without knowing the answer   বিজ্ঞানের সুত্র আমি সুদি না  ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (241).jpg,bamboo-vaiya (241).jpg,How toppers cover their Syllabus    How i cover my syllabus ,negative
+../dataset/Dataset\Memes\ovodro_img (605).jpg,ovodro_img (605).jpg,যতই নতুন ধরনের গান করিস না কেন ?    ক্যারিয়ারের ১২ টা বেজে গেলে আমার লেখা গানই তোদের একমাত্র ভরষা রে ,positive
+../dataset/Dataset\Memes\bangla-gag (125).jpg,bangla-gag (125).jpg,WHEN YOU LOVE A GIRL ....  HER ABBU     HER BHAI     HER CRUSH     YOU,negative
+../dataset/Dataset\Memes\Halal Memes (152).jpg,Halal Memes (152).jpg,চায়ের দোকানে WWE দেখারত এলাকার মুরুব্বিগণ কে যখন কোনো ছেলে বলে যে চাচা WWE তো ভুয়া। সত্যিকারের মারামারি হয়না এখানে    WWE  তে আসক্ত মুরুব্বিগণ*      এই পোলা  কথা কম  ,neutral
+../dataset/Dataset\Memes\KAM (297).jpg,KAM (297).jpg,মন বসে না পড়ার টেবিলে তাইলে খাটে বইসা পড়,positive
+../dataset/Dataset\Memes\bamboo-vaiya (388).jpg,bamboo-vaiya (388).jpg,ফজরের আজান দেওয়ার পরঃ   *আমি    *শয়তান ,neutral
+../dataset/Dataset\Memes\bangla-gag (35).jpg,bangla-gag (35).jpg,কি ভাবসিলা ?     আমি শুধু ওয়ানডেতে ই সেঞ্চুরি করতে পারি ? ,positive
+../dataset/Dataset\Memes\bamboo-vaiya (519).jpg,bamboo-vaiya (519).jpg,When Ahem ji inserts pen drive  in the wrong port,negative
+../dataset/Dataset\Memes\bamboo-vaiya (91).jpg,bamboo-vaiya (91).jpg,Some say she's the most beautiful lady    Some say she is    But deep down we all know that  আমি বড় বড় পাহাড় পর্বতকে উইশ করতে চাই ,negative
+../dataset/Dataset\Memes\ovodro_img (200).jpg,ovodro_img (200).jpg,"কখনও কখনও মনে হয় বিরাট কোহলি মানুষ নয় ,    ভগবান । ",positive
+../dataset/Dataset\Memes\ovodro_img (448).jpg,ovodro_img (448).jpg,DP তে লাইক আসছে না !    একটু খুলে পোষ্ট করি ,negative
+../dataset/Dataset\Memes\ovodro_img (730).jpg,ovodro_img (730).jpg,তুই সব সময় পিছন দিক থেকে শুরু করিস কেনো ?    back banchers তাই ,negative
+../dataset/Dataset\Memes\KAM (568).jpg,KAM (568).jpg,বাংলাদেশের বাবা-মায়েরা কি অদ্ভুত মেয়েকে অপরিচিত ছেলেদের থেকে দূরে থাকতে বলে অথচ অপরিচিত ছেলের সাথে বিয়ের জন্য চাপাচাপি করে,positive
+../dataset/Dataset\Memes\bangla-memes (4).jpg,bangla-memes (4).jpg,after returning home wearing a new 'গেঞ্জি'      *তরকারীর ঝোল    *মাংসের ঝোল       নতুন গেঞ্জি     ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (55).jpg,Bangla Thug Life (55).jpg,যখন আপনি কালকে ঈদ ভেবে বন্ধুদের সাথে চিয়ার করতে থাকেন কিন্তু পরে জানতে পারেন কালকে নয় পরশু ঈদ ;,positive
+../dataset/Dataset\Memes\ovodro_img (304).jpg,ovodro_img (304).jpg,সাফল্য পাওয়ার জন্য কষ্ট করতে হয় না !!  SC/ST হও সাফল্য তোমার পিছনে ছুটে আসবে ,neutral
+../dataset/Dataset\Memes\KAM (85).png,KAM (85).png,মেসি অন্যান্য মানুষ যা দেখে আর্জেন্টিনা সাপোর্টাররা যা দেখে আর্জেন্টিনা হেটাররা যা দেখে,positive
+../dataset/Dataset\Memes\bamboo-vaiya (401).jpg,bamboo-vaiya (401).jpg,MATH QUESTION WITHOUT NO REASONS  প্রমাণ দাও ,neutral
+../dataset/Dataset\Memes\KAM (185).png,KAM (185).png,আরে তুমি দেখি নতুন DSLR কিনসো!  তো কালকে ফ্রি আসো? ,positive
+../dataset/Dataset\Memes\ovodro_img (495).jpg,ovodro_img (495).jpg,যখন আমার বান্ধবীর সাথে তার BF এর ঝগড়া হয়    তখন আমি মনে মনে যতটা খুশি হই   ,negative
+../dataset/Dataset\Memes\KAM (780).jpg,KAM (780).jpg,বলোতো ধৈর্যবান কারা? যারা ২জি দিয়ে ২ জিবির মুভি ডাউনলোড করে,positive
+../dataset/Dataset\Memes\KAM (381).jpg,KAM (381).jpg,"সেক্সপিয়ার বলেছিলেনঃ দুঃখ কখনো একা আসে না, সে দল বেধে আসে। পরীক্ষাও এক বিষয়ের উপর হয় না সব বিষয়ের উপর দল বেধে নেয়া হয়!",positive
+../dataset/Dataset\Memes\bamboo-vaiya (229).jpg,bamboo-vaiya (229).jpg,When she accidently kiss me after blowjob,negative
+../dataset/Dataset\Memes\KAM (585).jpg,KAM (585).jpg,ইন্ডিয়া ভালো ফুটবল খেললে কি হইত জানোস??? হাহা আর কি! আমাদের দোড়ানোর অ্যাকশন নিয়ে সন্দেহ প্রকাশ করতো! (#),negative
+../dataset/Dataset\Memes\KAM (514).jpg,KAM (514).jpg,"ছেলেদের সৎ ও ভালো মানসিকতার হওয়া উচিত স্মার্ট তো মোবাইল ও হয় আর মেয়েদের নেক্কার এবং পর্দাশীল হওয়া উচিত, হট তো রুটি ও হয়!",positive
+../dataset/Dataset\Memes\Bangla Thug Life (265).jpg,Bangla Thug Life (265).jpg,আমি যখন পাশের বাসার ভাবিকে শাড়িতে ছাদে দেখি      নিয়ন্ত্রণে কাজ করছে ফায়ার সার্ভিসের ৭টি ইউনিট ,negative
+../dataset/Dataset\Memes\ovodro_img (577).jpg,ovodro_img (577).jpg,বিন্দু মাসী then   বিন্দু মাসি Now,neutral
+../dataset/Dataset\Memes\KAM (145).jpg,KAM (145).jpg,"কলকাতার প্রতি ম্যাচে সাকিবকে নেওয়ার নির্দেশ দিলেন শাহরুখ খান শিশিরঃ আসলে আমি শাহরুখক হুমকি দিছি আনি নারায়ণগঞ্জের মেয়ে, আমার জামাইকে না নিলে গুম কইরা দিমু",negative
+../dataset/Dataset\Memes\Bangla Thug Life (241).jpg,Bangla Thug Life (241).jpg,রুম ডেটে নিয়ে যাওয়ার পূর্বে   Fuckboy to his nibbi :  কথা দিলাম পলিথিনে মাংস রাখবো   ,negative
+../dataset/Dataset\Memes\KAM (167).png,KAM (167).png,"দেশে এতো দুর্নীতি,এতো অশান্তি মাগার বিটিভি দেখলে মনে হয় আমাদের দেশে কোন সমস্যাই নাই",negative
+../dataset/Dataset\Memes\Bangla Thug Life (130).jpg,Bangla Thug Life (130).jpg,বন্ধুকে ডিএসএলআর দিয়ে ছবি তুলে দেওয়ার পর    Photographer,neutral
+../dataset/Dataset\Memes\Bangla Thug Life (78).jpg,Bangla Thug Life (78).jpg,No one Literally no one  Nibba to his nibbi:  স্বামী বলে ডাকো,negative
+../dataset/Dataset\Memes\KAM (740).jpg,KAM (740).jpg,কিরে তোর মন খারাপ কেন?  না ভাই এমনি আরে লজ্জা পাবার কিছু নাই বন্ধু ভেবে বল আপনার বোন আমাকে আর ভালবাসে না,positive
+../dataset/Dataset\Memes\bangla-memes (29).jpg,bangla-memes (29).jpg,SO GLAD I GREW UP     WATCHING THIS    NOT THIS,negative
+../dataset/Dataset\Memes\ovodro_img (637).jpg,ovodro_img (637).jpg,"মাধ্যমকি তো বেশ ভালো রেজাল্ট করেছো !   সামনে SCIENCE AND ARTS  দেখতে পেয়েছো ?     হ্যাঁ, science নিয়ে নিয়েছি    ভুল করেছো !    এবার তোমার পোঙ্গা মারা যাবে  ",negative
+../dataset/Dataset\Memes\bangla-gag (141).jpg,bangla-gag (141).jpg,BOYS SWING   BEYBLADE    MEN SWING   FIDGET SPINNER  LEGENDS SWING   LATIM  ULTRA LEGENDS SWING GIRLS,negative
+../dataset/Dataset\Memes\Bangla Thug Life (339).jpg,Bangla Thug Life (339).jpg,Nibba : বলো তো আট দশে কত হয় ?    Nibbi : আশি ।   Nibba : আমি তোমায় ভালবাসি ।    Nibbi*    Nibba*,positive
+../dataset/Dataset\Memes\bamboo-vaiya (134).jpg,bamboo-vaiya (134).jpg,"-ভাই !  নির্বাচনের আগে আওয়ামিলীগ কত মিছিল করতেসে ।    আমরা কেনো ধানের শীষের মিছিলে যাচ্ছি না ?   বিএনপি নেতাঃ-    যাওয়া ঠিক হবে না, মাইরধর করতে পারে   ",negative
+../dataset/Dataset\Memes\chosha (114).jpg,chosha (114).jpg,ওরা কারা ?  যারা রাতে আমাকে স্বপ্নে দেখে । ,negative
+../dataset/Dataset\Memes\KAM (266).jpg,KAM (266).jpg,"স্যার, আমার ছেলেকে আপনার স্কুলে স্পোর্টস কোটায় ভর্তি করাতে চাই ওহ, আচ্ছা! কোন খেলায় দক্ষ আপনার ছেলে? Clash of clans",positive
+../dataset/Dataset\Memes\ovodro_img (613).jpg,ovodro_img (613).jpg,আচ্ছা আপনার ছেলে এত বড় হয়েছে তারপরও আপনি প্রেম বিয়ে করেই চলেছেন ।  কারন টা কী ?    কেন ? এ বিষয়ে আমাদের মাননীয়া তো খুবই ফ্লেক্সিবাল ,negative
+../dataset/Dataset\Memes\chosha (74).jpg,chosha (74).jpg,That Moment ফাস্ট টাইম যখন গালফ্রেন্ডকে জড়িয়ে ধরি ,negative
+../dataset/Dataset\Memes\nurani-memes (188).jpg,nurani-memes (188).jpg,বাদাম   সিঙ্গারা   Me,positive
+../dataset/Dataset\Memes\tangaila (78).jpg,tangaila (78).jpg,*হালকা বজ্রপাত বিদ্যমান*  আপনার  DSLR ওয়ালা বন্ধুঃ ,positive
+../dataset/Dataset\Memes\ovodro_img (226).jpg,ovodro_img (226).jpg,Dalmatlan Puppy  এর কিছু বিরল ছবি ,negative
+../dataset/Dataset\Memes\Halal Memes (86).jpg,Halal Memes (86).jpg,"স্যারঃ আজকেও ক্লাসে দেরি, আজকে কি বাহানা দিবি? আমিঃ স্যার গালফ্রেন্ড নিয়ে অনেক যন্ত্রণার মধ্যে আছি, তাই বাহানা বানানোর সময় পাইনি ।   লেঃ স্যার     লেঃ আমি ",negative
+../dataset/Dataset\Memes\direct-offense (8).jpg,direct-offense (8).jpg,Real Beuties don't need any makeup or DSLR:,negative
+../dataset/Dataset\Memes\KAM (209).jpg,KAM (209).jpg,আই লাভ ইউ অসভ্য... আয়নাতে নিজের চেহারা দেখছিস কখনো... দেখছি বইলাই তোর মত আটা ময়দা ওয়ালি পেত্নির কাছে আসছি... নাইলে তো ক্যাটরিনার কাছেই যাইতাম।,negative
+../dataset/Dataset\Memes\KAM (437).jpg,KAM (437).jpg,যারা সারাদিন সেলফি উঠায় নিজেরে সেলফি কিং/কুঈন ভাবে তারা আসলে কিং/কুঈন না মানুষিক রোগী,positive
+../dataset/Dataset\Memes\nurani-memes (130).jpg,nurani-memes (130).jpg,Umpire : ভাই বিকাশ এর দোকান টা কোন দিকে ?  সাকিব আল হাসানঃ ,negative
+../dataset/Dataset\Memes\KAM (151).jpg,KAM (151).jpg,তোর রেজাল্ট কি? আম্মু এ+ গোল্ডেন তোর বাপ আনবে? আজকে আসুক তোর বাপ খাইছেরে!!! এ+ পাইয়াও এই অবস্থা,positive
+../dataset/Dataset\Memes\KAM (600).jpg,KAM (600).jpg,দর্শনায় রডের পরিবর্তে বাঁশ দিয়ে বানানো হচ্ছে সরকারী ভবন বাঁশ যে দিছে তাই তো বেশী। (#),negative
+../dataset/Dataset\Memes\ovodro_img (636).jpg,ovodro_img (636).jpg,ছেলেঃ ও মনে হয় এখনও ওই ছেলেটার ব্যাপারে ভাবছে !     মেয়েঃ মদন দা তো হেরে গেল আর কী লাইভে আসবে ! ,neutral
+../dataset/Dataset\Memes\ovodro_img (731).jpg,ovodro_img (731).jpg,কী হলো ? থেমে গেলে কেনো ?     জল পড়ে গেছে গো ! ,negative
+../dataset/Dataset\Memes\nurani-memes (87).jpg,nurani-memes (87).jpg,Literally Every  ছোট ভাই !    আম্মুউউ ভাইয়া কি করসে জানো ? ,positive
+../dataset/Dataset\Memes\bamboo-vaiya (329).jpg,bamboo-vaiya (329).jpg,শাসন করা তারই সাঁজে সোহাগ করে যে ! ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (178).jpg,bamboo-vaiya (178).jpg,সারাদিন পর college শেষে বাসায় এসে যখন দেখো current নেই চার ঘন্টা ধরে ,negative
+../dataset/Dataset\Memes\KAM (475).jpg,KAM (475).jpg,আমাদের মনে হয় বিয়ে হবে না আমার বাড়িতে সবাই এই সম্পর্ক মেনে নেবেনা? ক্যানো তোমার বাড়িতে কে কে আছে! আমার বউ আর দুই সন্তান,positive
+../dataset/Dataset\Memes\KAM (607).jpg,KAM (607).jpg,তোমার কাছে I LOVE U এর চেয়ে প্রিয় কোন শব্দ আছে? ATM বুথের টাকা বের হওয়ার ক্যার ক্যার শব্দ দুনিয়ায় আমার সবচেয়ে প্রিয় শব্দ,positive
+../dataset/Dataset\Memes\Bangla Thug Life (15).jpg,Bangla Thug Life (15).jpg,"যখন কোনো ছাত্র সারাবছর না পড়ে পরীক্ষায় A+  পায় :   যদি কোনো আন্তর্জাতিক সম্প্রদায় জানতে পারে, তবে এটি গিনেজ বুকে রেকর্ড হবে ",negative
+../dataset/Dataset\Memes\KAM (611).jpg,KAM (611).jpg,"I LOVE YOU JACK ROSE আমাকে একটা PROMISE করো, বলো JACK তুমি আজই তোমার নিকটস্ত কেন্দ্রে বায়োমেট্রিক পদ্ধতিতে সিম রি-রেজিস্ট্রেশন করাবে...মইরা গেল!?",positive
+../dataset/Dataset\Memes\Halal Memes (81).jpg,Halal Memes (81).jpg,When the quarantine ends       Divorce Lawyers   Barbers,negative
+../dataset/Dataset\Memes\KAM (501).jpg,KAM (501).jpg,"জান, মদ/সিগারেট থেকে দূরে থাকবা। কারণ এগুলো তোমার শত্রু! আরে, শত্রুকে যে ভয় পায়! সে তো পুরুষই না!!",positive
+../dataset/Dataset\Memes\Halal Memes (218).jpg,Halal Memes (218).jpg,কি Meme বানাবে তা নিয়ে সারাদিন চিন্তা করা Memer       এদিকে কোনো meme না বানিয়ে সারাদিন মজা নেওয়া সাধারণ পাবলিক ,neutral
+../dataset/Dataset\Memes\bamboo-vaiya (302).jpg,bamboo-vaiya (302).jpg, নুনু     বাড়া  ,negative
+../dataset/Dataset\Memes\ovodro_img (111).jpg,ovodro_img (111).jpg,"সুপ্রিমকোর্টঃ-  আজ থেকে পরকীয়া অপরাধ নয় ।    বিবাহিত পুরুষঃ-   আমরা আজাধি চাই,  আমাদের আজাধি ফিরিয়ে দিন ",negative
+../dataset/Dataset\Memes\Bangla Thug Life (336).jpg,Bangla Thug Life (336).jpg,*আমি     প্রেম-ভালবাসা,negative
+../dataset/Dataset\Memes\KAM (417).jpg,KAM (417).jpg,"ছোট কাপড় পইরা ঘুমানো বাদ দিতে হইব বুঝতাছি, কি একদিন আইলো আৎকা উইঠা দৌড়ান লাগে",positive
+../dataset/Dataset\Memes\KAM (544).jpg,KAM (544).jpg,এই ফহিন্নী ডা কেডা? অহ এইডা তো আমি (#),negative
+../dataset/Dataset\Memes\Bangla Thug Life (186).jpg,Bangla Thug Life (186).jpg,"After sex nibbi to her nibba : বাবু আমরা কবে বিয়ে করবো  Fuckboy mind: তুমি যা ভাবছো, তা কোনদিনই হবে না ",negative
+../dataset/Dataset\Memes\bamboo-vaiya (104).jpg,bamboo-vaiya (104).jpg,*Bathing in winter be like*   বাবা গো  ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (366).jpg,bamboo-vaiya (366).jpg,তেমন কিছু না just my mom making me talk to my relatives over the phone ,negative
+../dataset/Dataset\Memes\bangla-memes (136).jpg,bangla-memes (136).jpg,Famous ডাকাত's then    Famous ডাকাত's now,negative
+../dataset/Dataset\Memes\nurani-memes (92).jpg,nurani-memes (92).jpg,Things that never Stop   TIME   TIDE    My friend asking back his money I borrowed   NATURE,positive
+../dataset/Dataset\Memes\KAM (669).jpg,KAM (669).jpg,আজকে আপনাদের দেখাবো ৮মি.১৭সে. মধ্যে কিভাবে ডাল আর লেবু দিয়ে কিভাবে পায়েস রান্না করবেন (#),negative
+../dataset/Dataset\Memes\ovodro_img (536).jpg,ovodro_img (536).jpg,"যখন প্রেয়ার লাইনে হেড স্যার এসে বলেন, ""আজ সবার দাঁত দেখা হবে ""    5 years old me and my friends...",positive
+../dataset/Dataset\Memes\KAM (80).png,KAM (80).png,রুবেল দেখো আমি ভালো হয়ে গেছি আমি এখন হিজাব পড়ি কয়লা কখনো ময়লা মুক্ত হয় না,negative
+../dataset/Dataset\Memes\KAM (380).jpg,KAM (380).jpg,আগে জানতাম শীতকালে কারেন্ট যায় না...এখিন দেখি ফহিন্নি কারেন্ট শীতকালেও যায়!,positive
+../dataset/Dataset\Memes\direct-offense (59).jpg,direct-offense (59).jpg,"অল্প চোদনে কাতর , অধিক চোদনে পাথর !",negative
+../dataset/Dataset\Memes\bamboo-vaiya (199).jpg,bamboo-vaiya (199).jpg,সেহেরীতে বেশী পানি পান করার পর     Abba i don't feel so good,positive
+../dataset/Dataset\Memes\bamboo-vaiya (378).jpg,bamboo-vaiya (378).jpg,"কল করে প্রতিবার করোনার সতর্কবার্তা শোনার পর-   আল্লাহ, কি বলার জন্য ফোন দিসিলাম ",neutral
+../dataset/Dataset\Memes\KAM (643).jpg,KAM (643).jpg,"জানিস, আজকে বিমানের সাথে দৌড় প্রতিযোগিতা করছি! ফইন্নির পুত কস কি! তারপর কি হইলো!! হালার বিমান,  দৌড়াইয়া না পাইড়া উড়াল দিছে!!",positive
+../dataset/Dataset\Memes\Halal Memes (47).jpg,Halal Memes (47).jpg,বাবাঃ A+ পাবি তো ?     আমিঃ- বেঁচে থাকা যেখানে অনিশ্চিত  A+  সেখানে বিলাশিতা     *বাবা     আমি*,neutral
+../dataset/Dataset\Memes\KAM (769).jpg,KAM (769).jpg,এখন সারাদিন না খেয়ে থেকে মাত্র একটা রোযা রাখি!  কিন্ত ছোটবেলায় সবাই তিনবেলা খেয়ে তিনটা রোযা রাখতাম,positive
+../dataset/Dataset\Memes\Halal Memes (33).jpg,Halal Memes (33).jpg,unknown request accept korar 1sec er moddhe...... তোর কি হাই লাগবো ? ,neutral
+../dataset/Dataset\Memes\bamboo-vaiya (130).jpg,bamboo-vaiya (130).jpg,"কোথায় যাচ্ছি আমরা ?     নির্জন কোথাও ঘুরতে যাচ্ছি, বেবি     ঢং না করে বলো কার বাসা খালি পাইসো  ",negative
+../dataset/Dataset\Memes\bamboo-vaiya (368).jpg,bamboo-vaiya (368).jpg,"When your noakhailla wife says ""aajke goru fuck korsi"" but you can't find any gorur mangsho on the table ",negative
+../dataset/Dataset\Memes\KAM (493).jpg,KAM (493).jpg,"বন্ধু যখন বউ লইয়া আমার বাড়ির সামনে দিয়া রঙ্গ কইরা হাইট্টা যায় বুকটা ফাইট্টা যায় রবীন্দ্রনাথ ভার্সনঃ সখা যবে বঁধু নিয়া মম বাটীর দ্বার দিয়া হাঁটিয়া যায় মম বক্ষ ফাটিয়া যায়, মম বক্ষ ফাটিয়া যায়!  ",negative
+../dataset/Dataset\Memes\KAM (138).jpg,KAM (138).jpg,কিরে চোখ লাল কেন? গাঞ্জা খাইছি ভাইয়া মিথ্যে বলিস কেন? তুই বরিশালের সাপোর্টার!!,positive
+../dataset/Dataset\Memes\KAM (388).jpg,KAM (388).jpg,জেনারেটর দিয়ে ছবি তোলা  আর ক্যামেরা দিয়ে প্রিন্ট করা হয় ঠিকনা!,positive
+../dataset/Dataset\Memes\bamboo-vaiya (328).jpg,bamboo-vaiya (328).jpg,বয়ফ্রেন্ড যখন ভুলে একটা ভুল কাজ করে গালফ্রেন্ডঃ   আজ ভুলে যাচ্ছি কিন্তু যাচ্ছি না   ৬৯ মাস ৩৩ ঘন্টা ৬৫ মিনিট পর আবার মনে পড়বে  ,negative
+../dataset/Dataset\Memes\Halal Memes (151).jpg,Halal Memes (151).jpg,বন্ধু কে টাকা দার দেওয়ার পর যখন সময় মত টাকা না দিয়ে ভং চং করে ।    *আমি     তুই শালা জাতীয় বেইমান     ,negative
+../dataset/Dataset\Memes\bangla-memes (102).jpg,bangla-memes (102).jpg,When you're happy cuz results came out positive and then realize that the real result will be given at হাশরের ময়দান ,positive
+../dataset/Dataset\Memes\bamboo-vaiya (275).jpg,bamboo-vaiya (275).jpg,*১০০০ টাকা দাম বলা দোকানদার    *৩০০ টাকা দাম বলা আমি*     *৩০০ টাকায় রাজি হয়ে যাওয়া দোকানদার*      *মজা করতে গিয়ে মাইনকা চিপায় পরা   আমি* ,negative
+../dataset/Dataset\Memes\KAM (782).jpg,KAM (782).jpg,"বাংলাদেশের সাথে সেমিফাইনাল আবারো অনেক টাকা দরকার... আম্পায়ার কিনতে হইবো, ICC রে ঘুষ দিতে হইবো.. না হলে তো জীবনেও জিতবো না..",positive
+../dataset/Dataset\Memes\Halal Memes (126).jpg,Halal Memes (126).jpg,যখন তোমার রুমে শুধুমাত্র একটা চেয়ার থাকে !! লে তোমার অবস্থাঃ- ,positive
+../dataset/Dataset\Memes\bangla-memes (200).jpg,bangla-memes (200).jpg,Daya Daya Pata Daya Daya,negative
+../dataset/Dataset\Memes\ovodro_img (160).jpg,ovodro_img (160).jpg,আপনি তো সব সিনেমা কপি করে বানান ! একটা xerox মেসিন এর দোকান দিলেই পারেন   JHONNY SINS কে কখনও Condoms এর  Add দিতে দেখেছেন ? ,negative
+../dataset/Dataset\Memes\bangla-gag (106).jpg,bangla-gag (106).jpg,জিম করিতে লাগে না ডাম্বেল   পরিচালনা রজনিকান্ত     MY WHOLE LIFE WAS A LIE ,negative
+../dataset/Dataset\Memes\tangaila (290).jpg,tangaila (290).jpg,সারাবছর স্কুল খোলা রাখার পর    সৃষ্টি    সরকার   ভাল রেজাল্ট    বিন্দুবাসিনী ,neutral
+../dataset/Dataset\Memes\Bangla Thug Life (245).jpg,Bangla Thug Life (245).jpg,"When you visit porn website and see the category Bangladeshi  উই আর প্রাউড, ভেরি ভেরি প্রাউড ",negative
+../dataset/Dataset\Memes\bamboo-vaiya (526).jpg,bamboo-vaiya (526).jpg,"বিয়েতে ১ লক্ষ টাকা যৌতুকে রাজি হবার পরে যখন শালী জুতা চুরি ৫০ হাজার টাকা আবদার করে ,  ",positive
+../dataset/Dataset\Memes\bangla-memes (109).jpg,bangla-memes (109).jpg,11 y/o me reading the বিনোদন page the of newspaper daily ,negative
+../dataset/Dataset\Memes\bangla-troll (64).jpg,bangla-troll (64).jpg,কিছু  কিছু মেয়েরা Airtel এর মত হটাত পাশে আসে ! রবির মত জ্বলে উঠে ! বাংলালিঙ্কের মত বদলে যায় ! আর জিপির মত বহুদূর চলে যায় !,negative
+../dataset/Dataset\Memes\Bangla Thug Life (16).jpg,Bangla Thug Life (16).jpg,"Couples on Valentines's day be like: "" চুপিচুপি করো কেউ জেনে যাবে "" ",negative
+../dataset/Dataset\Memes\nurani-memes (214).jpg,nurani-memes (214).jpg,"Wifi* Drops down by 1 bar   YouTube video quality  Yeah, science   এটাই সাইন্স ",positive
+../dataset/Dataset\Memes\KAM (406).jpg,KAM (406).jpg,"একজন নামবে না, আরেক জন থামবে না! এই ২জনের জ্বালায় মানুষ বাঁচবো না!",negative
+../dataset/Dataset\Memes\ovodro_img (713).jpg,ovodro_img (713).jpg,আপনি কী মহানায়ক হওয়ার যোগ্য ?     এটা নির্ভর করে দর্ষকদের উপর... সবার মতামতের ভিত্তিতে !     আমার ফ্যানদের কাছে -- yes. আমি ভগবান    বুদ্ধিমান লোকেদের কাছে - আমি ঘাটালের ছাগল ,negative
+../dataset/Dataset\Memes\Halal Memes (84).jpg,Halal Memes (84).jpg,কোভিড-১৯   সকাল ৮ টা থেকে  বিকাল ৪ টা পর্যন্ত      বিকাল ৪ টার পর ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (360).jpg,Bangla Thug Life (360).jpg,রুমডেট থেকে প্রথমবার Anal করে ফিরে আসা বিদ্যমান  নিব্বিঃ ,negative
+../dataset/Dataset\Memes\bangla-gag (37).jpg,bangla-gag (37).jpg,একা একা খেতে চাও ?     দরজা বন্ধ করে খাও !   CHILDHOOD ADVERT MAKES LOTS OF SENSE !   ,positive
+../dataset/Dataset\Memes\bamboo-vaiya (168).jpg,bamboo-vaiya (168).jpg,"যখন অপরচিতদের বাসায় যাই  এবং আম্মু বলে, "" চুপ করে বসে থাক"" । 10 years old me: ",neutral
+../dataset/Dataset\Memes\Bangla Thug Life (123).jpg,Bangla Thug Life (123).jpg,Election  এ যেহেতু দাড়িয়েছি  মাইর তো একটু খাবোই ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (244).jpg,bamboo-vaiya (244).jpg,মাস্টারমশায়    -রবীন্দ্রনাথ ঠাকুর ,negative
+../dataset/Dataset\Memes\Halal Memes (35).jpg,Halal Memes (35).jpg,আম্মুঃ- কিরে দোকানে কত খরচ হইছে ?     শয়তানঃ- বল ১০০০ টাকা      আমিঃ-  ৩০০০ টাকা       শয়তানঃ-,negative
+../dataset/Dataset\Memes\ovodro_img (266).jpg,ovodro_img (266).jpg,বেষ্ট ফটোগ্রাফার এ্যাওয়ার্ড টা ছুড়ে মার কেউ এর মুখে ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (493).jpg,bamboo-vaiya (493).jpg,ঢাকা অ্যাটাক    খোলা অ্যাটাক,negative
+../dataset/Dataset\Memes\Bangla Thug Life (395).jpg,Bangla Thug Life (395).jpg,One Mistake    Result     Post ignore karne wala,negative
+../dataset/Dataset\Memes\Halal Memes (297).jpg,Halal Memes (297).jpg,A playboy have only 4 moods   1) Horny     2) Horny     3) Party time with boys     4)    And also horny ,negative
+../dataset/Dataset\Memes\ovodro_img (29).jpg,ovodro_img (29).jpg,আমি সেরা ধুর বাল তুই সামনে বাঁধলে লোকের যাত্রা খারাপ হয়    তোকে তো লোকে হোয়াইট পুসি বলে    শালা তুচিয়া ,negative
+../dataset/Dataset\Memes\KAM (129).jpg,KAM (129).jpg,"চার মারবি, ছক্কা মারবি, সেঞ্চুরি করবি? সাকিব আল হাসান হবি! আংকেল দুইহাতেই মারুন কারন সাকিব হমুনা তো কি পাপন হমু নাকি!",positive
+../dataset/Dataset\Memes\tangaila (99).jpg,tangaila (99).jpg,   বিসিএস ক্যাডার পোলা    কুমুদিনীর মেয়ে  ,negative
+../dataset/Dataset\Memes\KAM (35).png,KAM (35).png,"দোস্ত, আমি তমার গায়ে আগুন লাগায়া দিসি কস কি!! এখন তো তমা তোর নামে নারী নির্যাতন মামলা করবো আরে বেটা!! তমা মানে তমা ট্যাক্সি!!",positive
+../dataset/Dataset\Memes\Bangla Thug Life (304).jpg,Bangla Thug Life (304).jpg,বাথরুমে এতো সময় লাগে কেন বলায় বাপকের আপনি যখন বিয়ে করার কথা বলেন   বাপজানঃ  আপনার কথাবার্তা তো বাবা আমি কিছু বুঝতে পারতেছি না  ,positive
+../dataset/Dataset\Memes\ovodro_img (369).jpg,ovodro_img (369).jpg,"ছেলেদের বিয়ে করার জন্য রুপ , গুন লাগেনা লাগে একটা সরকারী চাকরী   -- রবীন্দ্রনাথ ঠাকুর ",positive
+../dataset/Dataset\Memes\KAM (103).jpg,KAM (103).jpg,কিরে জলিল কাল নাকি পাবলিক তোকে গন ধোলাই দিছে হুম...কি অপরাধ করলি আবার আর বলিসনা এক মহিলার পায়ের নিছে আমার একটা ফটো পরছিল তো...মাইর দিল কেন? আমি শুধু কইছি আফা শাড়ীটা উপরে তুলেন ফটো তোলব,positive
+../dataset/Dataset\Memes\ovodro_img (232).jpg,ovodro_img (232).jpg,2008 সালে অনুর্ধ  19 বিশ্বকাপে ইন্ডিয়াকে নেতৃত্ব দেন ও ইন্ডিয়াকে চ্যাম্পিয়ন করেন । ,positive
+../dataset/Dataset\Memes\ovodro_img (349).jpg,ovodro_img (349).jpg,তোরা যে যা বলিস ভাই আমার মাছের পেটি চাই  ।।  চলবে ...? খেতে পারবি তো ?    একেই বলে ... মেঘ না চাইতেই জ্বল ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (194).jpg,Bangla Thug Life (194).jpg,ন্যুড'টা কি এখন দিবা ? বিয়ে করুণ তারপর সামনাসামনি দেখতে পারবেন ,negative
+../dataset/Dataset\Memes\tangaila (164).jpg,tangaila (164).jpg,হাসানিয়ানদের বউ   সৃষ্টিয়ানদের বউ ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (190).jpg,Bangla Thug Life (190).jpg,বউমা একটু সকালে ঘুম থেকে উঠতে পারোনা   কথাটা আমাকে না বলে আপনার ছেলেকে বলুন   কেন ?    গোটাবছর আমি জোর করতাম এজন্যই লকডাউন পেয়ে আপনার ছেলে আমার কোমরটা শেষ করে দিচ্ছে ,negative
+../dataset/Dataset\Memes\tangaila (319).jpg,tangaila (319).jpg,ইন্ডিয়ান কোবরা    আফ্রিকান কোবরা   টাংগাইলের কোবরা  ,negative
+../dataset/Dataset\Memes\ovodro_img (732).jpg,ovodro_img (732).jpg,আহা !   এত বছর পর নিজেকে জীবিত দেখে গর্ব বোধ হচ্ছে ,negative
+../dataset/Dataset\Memes\chosha (123).jpg,chosha (123).jpg,তোমার বোরিং লাগছে ? আমি ন্যুড পাঠাবো ?    তোমারটা অনেক দেখছি । তোমার বান্ধবীদেরটা পাঠাও । ,negative
+../dataset/Dataset\Memes\KAM (529).jpg,KAM (529).jpg,"আমার নেইমার আর সুয়ারেজ আছে, তোর কে আছে? আমার পেপে আর বেল আছে তুই খেলবি নাকি রাস্তার ধারে শরবত বেচবি?  ",negative
+../dataset/Dataset\Memes\Halal Memes (131).jpg,Halal Memes (131).jpg,দিনে দুই কাপের বেশি চা খেয়ে ফেলা Exist   *রাতের ঘুম     আমায় ডেকো না ফেরানো যাবে না  ,positive
+../dataset/Dataset\Memes\KAM (38).png,KAM (38).png,ব্রেকিং নিউজ আন্ডার মেট্রিক লোকজনদের ডাকা হরতালে...মেট্রিক পরীক্ষা বিঘ্নিত,positive
+../dataset/Dataset\Memes\Bangla Thug Life (126).jpg,Bangla Thug Life (126).jpg,*wife- I'm sure he is thinking about other girls  *husband : আচ্ছা ২৯ ফেব্রুয়ারীতে পোস্ট দিলে সামনের বছর মেমোরিতে আসবে কিভাবে ? ,negative
+../dataset/Dataset\Memes\tangaila (335).jpg,tangaila (335).jpg,উদ্যানের চা     আড্ডাবাজ পোলাপান ,negative
+../dataset/Dataset\Memes\KAM (173).png,KAM (173).png,জলিল তুমি ক্লাসে দেরি করে আসো কেন? আসলে স্যার আমি দেরি করে আসিনা...  আমি আসার আগেই ক্লাস শুরু হয়ে যায়!,positive
+../dataset/Dataset\Memes\chosha (49).jpg,chosha (49).jpg,"Don't cry baby  কাদেনা বাবু   নুনু কান্দিস না, তোকে বেলুন কিনে দিবো ",negative
+../dataset/Dataset\Memes\KAM (795).jpg,KAM (795).jpg,বিউটি পার্লারে যাওয়ার আগে: বিউটি পার্লার থেকে বের হওয়ার পর,positive
+../dataset/Dataset\Memes\Halal Memes (188).jpg,Halal Memes (188).jpg,"১ মিনিট ধরে করোনা সতর্কতা বার্তা শোনার পর যখন দেখি যাকে কল দিয়েছি তার ফোন বন্ধ     চুদে চাটনি, বেকার খাটনি   ।",negative
+../dataset/Dataset\Memes\tangaila (209).jpg,tangaila (209).jpg,জোসেফ মারিয়া বার্তামিউ    গরিবের বার্তামিউ  লাইট ,negative
+../dataset/Dataset\Memes\ovodro_img (733).jpg,ovodro_img (733).jpg,BREAK UP  সবথেকে বেশি কষ্ট দেয়...    আমিঃ কখনও হয়েছে এরম   ,negative
+../dataset/Dataset\Memes\KAM (17).jpg,KAM (17).jpg,স্যার আমার ছাগল ডিম পাড়ছে থাপ্পড় দিয়া দাত ফালায় দেবো ছাগল ডিম পাড়ে না। রাগ করছেন কেন স্যার! আমার মুরগির নাম ছাগল!,positive
+../dataset/Dataset\Memes\bamboo-vaiya (147).jpg,bamboo-vaiya (147).jpg,দাদা যাবি না ?    তোরা যা...,negative
+../dataset/Dataset\Memes\KAM (40).jpg,KAM (40).jpg,যখন আশে পাশে কোথাও ককটেল বিস্ফোরণ অথবা পুলিশের ধাওয়া!,positive
+../dataset/Dataset\Memes\Bangla Thug Life (359).jpg,Bangla Thug Life (359).jpg,বাবু খাইছো**  Bangladeshi   Avatar,negative
+../dataset/Dataset\Memes\KAM (646).jpg,KAM (646).jpg,জঙ্গী জীবন থেকে ফিরে আসলে 10 লক্ষ টাকা পুরস্কার দেওয়া হবে! টাকা কি ক্রসফায়ার করার আগে দিবেন নাকি পরে? (#),negative
+../dataset/Dataset\Memes\bamboo-vaiya (282).jpg,bamboo-vaiya (282).jpg,সদ্য এসএসসি পাশ করা ছাত্র যখন কক্সবাজারে ট্যুর দেয় ,negative
+../dataset/Dataset\Memes\nurani-memes (86).jpg,nurani-memes (86).jpg,"Left -  দোস্ত ,২ নম্বর এর উত্তর ৩০ হইসিলো তর টা দেইখা ৬৯ দিসি ।     Right -  উত্তর ৩০ ই হইবো স্যার এ কইলো মাত্র । ",positive
+../dataset/Dataset\Memes\KAM (637).jpg,KAM (637).jpg,"দোস্ত, রেজাল্ট দিছে! চল দেখতে যাই আমি এখন বাবার সাথে আছি, তুই আমারে দেখে জানা যদি ১টা সাবজেক্টে ফেল করি, তাইলে বলবি ""GOOD MORNING TO YOU"" যদি ২টাতে করি,তাইলে বলবি ""GOOD MORNING TO YOU & YOUR FATHER "" দোস্ত...GOOD MORNING TO YOU,YOUR FAMILY & NEIGHBOURS ALSO",positive
+../dataset/Dataset\Memes\Bangla Thug Life (33).jpg,Bangla Thug Life (33).jpg,নিজেকে আয়নায় যেমন দেখায়  নিজেকে মোবাইলের ক্যামেরায় যেমন দেখায়  ,negative
+../dataset/Dataset\Memes\Halal Memes (121).jpg,Halal Memes (121).jpg,মাঃ ছাদ থেকে সব কাপড় নিয়ে আয়      আমিঃ     ,positive
+../dataset/Dataset\Memes\ovodro_img (734).jpg,ovodro_img (734).jpg,সরু আঙ্গুলে কিছু হয় না    চরম সুখের জন্য বাঁশ দরকার হয় বাঁশ ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (246).jpg,bamboo-vaiya (246).jpg,"season 1  আমি তোমাকে খুব পছন্দ করি  না   season 2-3 ""পছন্দ না , অন্য একটা শব্দ হবে লজ্জা লাগছে বলে বলছি না"" ",negative
+../dataset/Dataset\Memes\bamboo-vaiya (100).jpg,bamboo-vaiya (100).jpg,"Some celebrities with ""Lee"" in their name   Christopher Lee   Stan Lee   Bruce Lee   Boob Lee",negative
+../dataset/Dataset\Memes\Bangla Thug Life (5).jpg,Bangla Thug Life (5).jpg,Charlie puth   Khankir Puth,negative
+../dataset/Dataset\Memes\bangla-memes (159).jpg,bangla-memes (159).jpg,When you realise your parents won't live forever and you have to live a long life without them ,positive
+../dataset/Dataset\Memes\tangaila (268).jpg,tangaila (268).jpg,No Caption,negative
+../dataset/Dataset\Memes\ovodro_img (435).jpg,ovodro_img (435).jpg, কিছু বিখ্যাত ধর্ম গুরুর দ্বারা প্রচারিত ধর্ম    হিন্দু ধর্ম   মুসলিম ধর্ম  বৌদ্ধ ধর্ম খ্রীষ্ট ধর্ম   যৌন ধর্ম ,negative
+../dataset/Dataset\Memes\tangaila (95).jpg,tangaila (95).jpg,যখন হাসানের ছেলে রাস্তায় বের হয়... তখন কুমুদিনীর মেয়েদের অবস্থা !,negative
+../dataset/Dataset\Memes\tangaila (41).jpg,tangaila (41).jpg,If you don't love me at my    You won't love me any way  ,negative
+../dataset/Dataset\Memes\Halal Memes (237).jpg,Halal Memes (237).jpg,মাটির ব্যাংকে প্রতিদিন ১০ টাকা রেখে ২ বছর পর ব্যাংক ভেঙ্গে যখন ৫০ টাকা পাওয়া যায়    আম্মুঃ    আমি কিতার মধ্যে টাকা ঢালতাছি  ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (440).jpg,bamboo-vaiya (440).jpg,IFTER WITHOUT আলুরচপ     IFTER WITH আলুরচপ ,neutral
+../dataset/Dataset\Memes\Halal Memes (241).jpg,Halal Memes (241).jpg,Teacher :  বেঞ্চে কেউ লেখালেখি করবা না ।         Le Backbencher :,negative
+../dataset/Dataset\Memes\KAM (302).jpg,KAM (302).jpg,আমায় একটা পাখি ড্রেস কিনে দিবা? পাখিরা আবার ড্রেস পড়লো কবে যে তুমি পাখির ড্রেস পড়বা!,positive
+../dataset/Dataset\Memes\bangla-memes (88).jpg,bangla-memes (88).jpg,* ভাইয়াঃ কারও কোনো প্রশ্ন থাকলে করতে পারো ।    -ভাইয়া    -বলো     -এসি টা একটু কমাইয়া দেন   ,positive
+../dataset/Dataset\Memes\KAM (753).jpg,KAM (753).jpg,"বাইরে থেকে কিছু ফকির নিয়ে আয় তো, খাওয়াবো দোস্ত তোরা তাড়াতাড়ি আমার বাসায় আয় আম্মা তোদের খেতে ডাকছে ",positive
+../dataset/Dataset\Memes\Bangla Thug Life (363).jpg,Bangla Thug Life (363).jpg,বয়ফ্রেন্ড থাকা সত্ত্বেও যখন মেয়েটি তার বেষ্টফ্রেন্ড কে বেশি পাত্তা দিয়ে ফেলে     বিধি তুমি বলে দাও আমি কার,negative
+../dataset/Dataset\Memes\bamboo-vaiya (257).jpg,bamboo-vaiya (257).jpg,*when 14 y/o nibbi first time see her 15 y/o nibba dick & saying what is it ? *15 y/o nibba     এটাই নুনু ,negative
+../dataset/Dataset\Memes\KAM (692).jpg,KAM (692).jpg,আমি তোর ক্রেডিট কার্ডের পাসওয়ার্ড দেখে ফেলছি! তোর পাসওয়ার্ড হল চারটা স্টার! আরে বলদ ওটা চারটা স্টার না ওটা হল 1234,positive
+../dataset/Dataset\Memes\Bangla Thug Life (375).jpg,Bangla Thug Life (375).jpg,I can see your bra    একহাজার টাকা দিয়ে কিনছি কি ঢেকে রাখার জন্য   ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (219).jpg,Bangla Thug Life (219).jpg,সেহেরির পূর্বে আমি গোসল করতে যাওয়া বিদ্যমান   আমার বড়ভাইঃ এত অল্প বয়সে এতো মজা ভালো না ,negative
+../dataset/Dataset\Memes\chosha (26).jpg,chosha (26).jpg, কুত্তার প্রেম ভাদ্র মাসে    আর মানুষের প্রেম ফেব্রুয়ারী মাসে ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (243).jpg,Bangla Thug Life (243).jpg,*Me trying to hold on my sperm while masterbating for a long time ;  My Dick : আমার ধর্যের বাঁধ ভেঙ্গে যাচ্ছে  ,negative
+../dataset/Dataset\Memes\bangla-gag (30).jpg,bangla-gag (30).jpg,খালি কি একদিনে শবে বরাতের নামাজ পড়লেই হবে ?    প্রতিদিনের ফরয পাঁচ ওয়াক্ত নামাজের কি হবে ? ,positive
+../dataset/Dataset\Memes\nurani-memes (118).jpg,nurani-memes (118).jpg,পরিক্ষার হলেঃ   *স্যার    *আমার খাতা ,positive
+../dataset/Dataset\Memes\Bangla Thug Life (405).jpg,Bangla Thug Life (405).jpg,"ওরা বড়লোক- খায় তন্দুরি, চোদে সুন্দরী     তারা মধ্যবিত্ত- খায় ভেন্ডি, চোদে রেন্ডি   আমি গরিব- পরি স্যান্ডেল, মারি হ্যান্ডেল ",negative
+../dataset/Dataset\Memes\nurani-memes (85).jpg,nurani-memes (85).jpg,Left - দোস্ত চল বই মেলা যাই  ।  Right - কিন্তু আমি তো বই পড়িনা ।   Left -  সুন্দর সুন্দর মাইয়া আইবো ।    Right - চল ।   Left - চল  ,negative
+../dataset/Dataset\Memes\ovodro_img (166).jpg,ovodro_img (166).jpg,কী ছিল    কী হয়ে গেল     মার্ক করা বল টা কেমন ? ,negative
+../dataset/Dataset\Memes\bangla-gag (87).jpg,bangla-gag (87).jpg,লাক্স কোটি টাকা খরচ করে দীপিকাকে বাংলাদেশে আনসে       আর বিসিবি ইন্ডিয়ান টিমকে খেলতে ডাকসে সেখানে ইন্ডিয়ান টিম সাথে আনুসকা ফ্রি আসতেসে ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (42).jpg,bamboo-vaiya (42).jpg,বাংলাদেশ এমন একটা দেশ ।    যে দেশে এক মগ খিচুড়ি দিতে সাত জন নেতা লাগে...।,negative
+../dataset/Dataset\Memes\bangla-gag (109).jpg,bangla-gag (109).jpg,জাতি জানতে চায়  why wasn't he taken to কলকাতা কাচ্চি ঘর ??  ,neutral
+../dataset/Dataset\Memes\KAM (670).jpg,KAM (670).jpg,"বুঝলা আব্বা বিল গেটসের মাইয়ার সাথে আমার বিয়ে ৫০% কনফার্ম কি কস ফুডার ঘরের ফুডা, এইটা ক্যামনে করলি? আরে আমি রাজি এখন তারা রাজি হলে হয়",positive
+../dataset/Dataset\Memes\KAM (226).png,KAM (226).png,শুনলাম তুই নাকি আমেরিকা যাবি? হা উচ্চতর শিক্ষার জন্য যাবো উচ্চতর শিক্ষার জন্য আমেরিকা যাওয়ার কি দরকার বাড়ির ছাদে যাইয়া পড়,positive
+../dataset/Dataset\Memes\bamboo-vaiya (294).jpg,bamboo-vaiya (294).jpg,*For just friend*    *For boyfriend* ,negative
+../dataset/Dataset\Memes\KAM (671).jpg,KAM (671).jpg,তোমার নাম কি? আমার নাম cook যাও একটা ডিম ভাইজা নিয়া আসো (#),negative
+../dataset/Dataset\Memes\Halal Memes (259).jpg,Halal Memes (259).jpg,নাসার দাবি চাঁদে সবচেয়ে বড় বড় গর্ত আছে      লেঃ বাংলাদেশের রাস্তা ঘাট,negative
+../dataset/Dataset\Memes\ovodro_img (668).jpg,ovodro_img (668).jpg,যারা এখন ডাক্তারদের সাথে প্রতিবাদ করছে ।   ওরা কারা ?    ওরা সাধারন মানুষ     আর যারা ডাক্তারদের বিরুদ্ধে যেয়ে উঠতি ডাক্তারদের রেপ করতে চাইছে !   ওরা কারা ?     ওরা বুদ্ধিজীবী ।    যাদের কেও বাল বলেও পাত্তা দেয় না ,negative
+../dataset/Dataset\Memes\bangla-memes (14).jpg,bangla-memes (14).jpg,SOME COMPLEX EQUATIONS OF THIS WORLD   ঈদের নামাজের নিয়ম  ,positive
+../dataset/Dataset\Memes\bamboo-vaiya (2).jpg,bamboo-vaiya (2).jpg,"""ফেইসবুকে যেমন""    ""বাস্তবে যেমন""",negative
+../dataset/Dataset\Memes\Halal Memes (51).jpg,Halal Memes (51).jpg,"""Location ""ব্রাক্ষণবাড়িয়া""  Covid19  মাফ কইরা দেন ভাই ",negative
+../dataset/Dataset\Memes\tangaila (258).jpg,tangaila (258).jpg,Bangladeshe   Nepal    Bd Football Fans:  স্বর্গ সুখ অনুভব করছি......,positive
+../dataset/Dataset\Memes\ovodro_img (178).jpg,ovodro_img (178).jpg,সপ্তাহে একদিন     সপ্তাহে সাত দিন ,negative
+../dataset/Dataset\Memes\KAM (50).jpg,KAM (50).jpg,"I LOVE YOU তর ঘরে কি মা-বোন নাই? হু, তোমার শাশুড়ী-ননদ আছে",positive
+../dataset/Dataset\Memes\Bangla Thug Life (50).jpg,Bangla Thug Life (50).jpg,Probably No one:   Fakibuz  students :  পরীক্ষার ১ মাস আগে    পরীক্ষার আগের দিন  যখন দেখে সিলেবাসের কিছুই শেষ হয় নাই ,positive
+../dataset/Dataset\Memes\ovodro_img (397).jpg,ovodro_img (397).jpg,এখনকার সময়ে কলেজের থার্ড ইয়ারের মেয়েরা যেমন দেখতে     আমাদের সময়ে আমাদের বান্ধবীরা যেমন দেখতে ছিল...,negative
+../dataset/Dataset\Memes\tangaila (133).jpg,tangaila (133).jpg,*হোম কোয়ারেন্টাইনে থাকা    *বাইরে ঘোরাফেরা    *বাংলাদেশে আসা প্রবাসী ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (290).jpg,bamboo-vaiya (290).jpg,Short girls love tall boys    Tall girls love tall boys    Short boys: ,neutral
+../dataset/Dataset\Memes\bamboo-vaiya (340).jpg,bamboo-vaiya (340).jpg,Ma'am:- এই তোমরা Class এ একদম disturb করবা না... আমি এমনি অনেক নরম কিন্তু রেগে গেলে অনেক শক্ত   Backbenchers:- Ma'am আপনি একদম আমার নুনুর মত    *Le Ma'am:-    Ma'am,negative
+../dataset/Dataset\Memes\ovodro_img (277).jpg,ovodro_img (277).jpg,বাবা আমাগো সবাই জমিদার কয় ক্যান ?  একবার গল্প দিছিলাম ওপারে আমাগো দেশে আমাগো বিশ বিঘা জমি আছে তারপর থেকেই আমাদের জমিদার বইলা অপমান করে ,negative
+../dataset/Dataset\Memes\ovodro_img (221).jpg,ovodro_img (221).jpg,তোর ঘরের দেওয়ালে আমি   অন্য কারও ফটো দেখতে পারব না ,negative
+../dataset/Dataset\Memes\tangaila (287).jpg,tangaila (287).jpg,আমি  skip Youtube    আমি*    ফুডপান্ডার Add    আমি* ,neutral
+../dataset/Dataset\Memes\KAM (444).jpg,KAM (444).jpg,উফ!! এতো গরম কেরে এটা হচ্ছে সরকারের চক্রান্ত এই গরম বিএনপির সাজানো নাটক,negative
+../dataset/Dataset\Memes\nurani-memes (170).jpg,nurani-memes (170).jpg,Someone : তোমাকে কে বেশি আদর কর ?  আব্বু নাকি আম্মু ?   6 yr old me : ,positive
+../dataset/Dataset\Memes\bangla-memes (103).jpg,bangla-memes (103).jpg,Bengali *students      any other subject      CSE/BBA,negative
+../dataset/Dataset\Memes\KAM (104).jpg,KAM (104).jpg,দেশের শিক্ষামন্ত্রী যদি দেয় এইরকম পেরা কেমনে করি এ+ এর আশা,positive
+../dataset/Dataset\Memes\Bangla Thug Life (75).jpg,Bangla Thug Life (75).jpg,বিচিতে যখন চেইন আটকে যায়  যন্ত্রনার অন্ত নেই  ,negative
+../dataset/Dataset\Memes\ovodro_img (558).jpg,ovodro_img (558).jpg,Disha patani looks gorgeous in short dress,negative
+../dataset/Dataset\Memes\ovodro_img (491).jpg,ovodro_img (491).jpg,"একটা বাচ্চা মেয়ে রেপ হয়েছে    ধ্যাত এসব কোন খবর নাকি আবার    আজ ২১ তম দিন SSC চাকরী প্রার্থীদের অনশন চলছে এবং এক মায়ের বাচ্চা মারা গেল অনশনরত থাকায়   এসব খবর পাবলিক কে দেখিয়ে কী লাভ , মরছে মরুক    দিদি ও দেব ভোট প্রচার করতে করতে রাস্তায় নেমেছেন খুব কষ্ট করেছেন ভোটের আগে   এই তো খবর পেয়েগেছি চলো  এটা নিয়ে ঘন্টাখানেক গড়ি মারাই ",negative
+../dataset/Dataset\Memes\direct-offense (53).jpg,direct-offense (53).jpg,Stay Home  Stay Safe ,negative
+../dataset/Dataset\Memes\ovodro_img (554).jpg,ovodro_img (554).jpg,বাঙালি বিয়ে বাড়ি যেয়ে রসগোল্লা খাওয়ার আগে   রসগোল্লা ,negative
+../dataset/Dataset\Memes\ovodro_img (391).jpg,ovodro_img (391).jpg,সাধারন দিনে couple  kiss day  তে couple,negative
+../dataset/Dataset\Memes\Halal Memes (16).jpg,Halal Memes (16).jpg,আম্মু- কিরে তোরে এত্তো বকি তাও তোর মোবাইল টিপা কমে না কেন ?   *আমি     মানুষের গালি খাওয়াটা is very normal !,negative
+../dataset/Dataset\Memes\bamboo-vaiya (44).jpg,bamboo-vaiya (44).jpg,SOME RARE Photos of priya varrier   ,negative
+../dataset/Dataset\Memes\chosha (125).jpg,chosha (125).jpg,How to Touch A Man's Heart ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (477).jpg,bamboo-vaiya (477).jpg,Parrents leave home for 0.000069 seconds   USA stepsis   Bangladeshi Stepsis  বিষ আনসি... আইজ তোরে খাওয়ামু   ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (218).jpg,bamboo-vaiya (218).jpg,-এই তু্মি খালি অন্য মেয়েদের দিকে তাকাই থাকো কেন ?!    -আমি অন্যদের দেখি আর ভাবি আমার বাবুটা সবার থেকে এত্তো কিউট হলো কি করে !    ১৫ বসন্ত পার করা নিব্বিঃ,negative
+../dataset/Dataset\Memes\nurani-memes (46).jpg,nurani-memes (46).jpg,রাজাকার    পাকিস্তানি হানাদার বাহিনি ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (541).jpg,bamboo-vaiya (541).jpg,ক্লান্ত শরীরে তারাতারি ঘুমাতে চাওয়া আমি*    বাপজি আজকে বিদেশ যাইবেন না ? ,negative
+../dataset/Dataset\Memes\KAM (424).jpg,KAM (424).jpg,বাংলাদেশের খেলা যখন শুরু হয় বাংলাদেশের খেলা চলার সময় বাংলাদেশের খেলা যখন শেষ হয়,positive
+../dataset/Dataset\Memes\ovodro_img (293).jpg,ovodro_img (293).jpg,ভাই বোনের পবিত্র সম্পর্ক   kabhi khushi   kabhi gam ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (101).jpg,Bangla Thug Life (101).jpg,When you hug your gf for the first tym*  GF: কলাটা সরানো যাবে ? ,negative
+../dataset/Dataset\Memes\KAM (632).jpg,KAM (632).jpg,"তোমার দাঁত গুলা না আকাশের তারার মত আকাশের তারার মত সুন্দর? না না, অনেক দূরে দূরে",positive
+../dataset/Dataset\Memes\bamboo-vaiya (261).jpg,bamboo-vaiya (261).jpg,Teacher: show me a difference between big and bigger    Backbencher:,negative
+../dataset/Dataset\Memes\KAM (51).png,KAM (51).png,নাম কি তোমার? ডিম বাবা এইডা আবার কিসের বাবা?,positive
+../dataset/Dataset\Memes\direct-offense (66).jpg,direct-offense (66).jpg,বিয়ে বাড়িতে জামাইয়ের জুতা চুরি করছে কে বলে চিল্লাতে থাকা জামাইয়ের বন্ধুরা   এদিকে জুতা চুরি করে কোথায় লুকিয়ে রাখছি ভুলে গিয়ে গিয়ে বসে থাকা আমি ,positive
+../dataset/Dataset\Memes\bamboo-vaiya (393).jpg,bamboo-vaiya (393).jpg,কষ্ট অনেকটা নুনুর মত সবাই মনে করে নিজের টা বড় ,negative
+../dataset/Dataset\Memes\ovodro_img (538).jpg,ovodro_img (538).jpg,এটা black hole    আর আমাদের টা red hole,negative
+../dataset/Dataset\Memes\bamboo-vaiya (210).jpg,bamboo-vaiya (210).jpg,বফঃ জান জানো আমি সবসময় কেন জাইংগা পরে থাকি    গফঃ কেন ? বফঃ তোমার জন্য আমার নুনুটা যেন পরিষ্কার থাকে আর কেউ যেন না দেখে তাই ।  *14 years old girls  ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (267).jpg,Bangla Thug Life (267).jpg,"কারাগারে জায়নামাজ চেয়েছেন, নামাজ পড়ে দেশবাসীর জন্য দোয়া করবেন- সাবরিনা      সম্প্রতি বিশ্বব্যাপী মহামারী করোনা পরিস্থিতিতে বিনা পারিশ্রমে দুর্নাম কামিয়েছে ডাঃ সাবরিনা । দেশের মানুষকে বিন",negative
+../dataset/Dataset\Memes\direct-offense (47).jpg,direct-offense (47).jpg,"কি করছো জানু ? তোমাকে খুব মিস করছি  আমি বান্ধবীর বাড়িতে আসছি বাবু, নোট লিখছি পরে কথা বলবো ",negative
+../dataset/Dataset\Memes\ovodro_img (445).jpg,ovodro_img (445).jpg,"যখন ক্লাশ চলার সময় অন্য কেও কথা বলে ,  কিন্তু স্যার তোমাকে দাঁড় করায় তখন তোমার দাঁড় করায় তখন তোমার বিচি কোথায় উঠে যায় ? ",negative
+../dataset/Dataset\Memes\bamboo-vaiya (5).jpg,bamboo-vaiya (5).jpg,when teacher takes aways your খাতা in the exam hall:  Me outside: স্যার    খাতাটা দিয়ে দেন আর হবে না  Deep inside:    inhales*    ওই শুয়োরের বাচ্চা খাতা দে বাইনচদ ,negative
+../dataset/Dataset\Memes\KAM (71).jpg,KAM (71).jpg,নায়লা একটু খুলো তো আরো খুলো আরেকটু খুলো! আয়ায়ার একটু! একি! লাইট অফ করলে কেন?!,negative
+../dataset/Dataset\Memes\bamboo-vaiya (74).jpg,bamboo-vaiya (74).jpg,Suhana Khan    At the Age of 20    At the Age of 40 ,negative
+../dataset/Dataset\Memes\nurani-memes (189).jpg,nurani-memes (189).jpg,Afran Nisho Natok  *kamlachodas     Avengers : Endgame ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (215).jpg,bamboo-vaiya (215).jpg,-এই তুমি আর PUBG খেলবানা   -কেন   -কারন গেমের ভিতরেও তুমি মারা গেলে আমি সহ্য করতে পারিনা   ১৪ বসন্ত পার করা নিব্বিঃ ,positive
+../dataset/Dataset\Memes\bangla-memes (35).jpg,bangla-memes (35).jpg,ঐ দেখ মেসি যাচ্ছে*      পারবা তো খালি ক্লাবের হইয়া গোল দিতে ,negative
+../dataset/Dataset\Memes\bamboo-vaiya (334).jpg,bamboo-vaiya (334).jpg,*৯ বছরের আমি    *বিস্কুটের ক্রিম,negative
+../dataset/Dataset\Memes\tangaila (80).jpg,tangaila (80).jpg,যখন বাসায় আসা মেহমানের বাচ্চাকে আপনার খাটে শোয়ানো হয় আর সে হিশু করে দেয় ,positive
+../dataset/Dataset\Memes\tangaila (318).jpg,tangaila (318).jpg,শোন কথা আছে    কি কথা    ১৪-ই ফেব্রুয়ারির প্ল্যান কি তোর ? ,neutral
+../dataset/Dataset\Memes\KAM (2).jpg,KAM (2).jpg,"একজন বিশ্ববিদ্যালয় পড়ুয়ার জীবনের লক্ষ্যের ক্রমপরিবর্তন ভার্সিটি ভর্তির আগে ধুর এগুলা আর কি এমন কঠিন পড়া? এই লাইনে আমি বিশ্বসেরা হমু!  ১ম বর্ষ একটু কষ্ট করা লাগবে দেখতেসি তয় ব্যাপার না,এই লাইনে আমি বাংলাদেশের সেরা হমুই হমু ২য় বর্ষ পড়া তো দেখি মোটামুটি কঠিন আছে, যে লাইনে পড়তেসি ঐ লাইনে বাংলাদেশের ১ নম্বর কোম্পানিতে জব পাইলেই হইবো ৩য় বর্ষ পড়া এগুলা এত্তো কঠিন ক্যারে?  যে লাইনে পড়তেসি ঐ লাইনের মোটামোটি ভাল জব পাইলেই চলবো ৪র্থ বর্ষ খোদা,ভালো রেজাল্টের খ্যাতা পুড়ি,শুধু পাস করাই দিও। আর লাইন বেলাইন বুঝি না,কোনরকম একটা জব পাইলেই চলবো পাশ করার পর ভাই ভাল লেভেলের জব লাগবো না,পিয়ন নাইলে ঝাড়ুদারের চাকরি হইলেও দেন! ",positive
+../dataset/Dataset\Memes\Bangla Thug Life (53).jpg,Bangla Thug Life (53).jpg,*স্টুডেন্টস  এইচএসসি শেষ   *স্টুডেন্টস  অ্যাডমিশন টেস্ট  ,negative
+../dataset/Dataset\Memes\Halal Memes (80).jpg,Halal Memes (80).jpg,আমার ফ্রেন্ডলিস্ট এর কিছু মেয়ের    ভাব    চেহেরা    ,negative
+../dataset/Dataset\Memes\KAM (4).png,KAM (4).png,"DETTOL ৯৯.৯% জীবাণু ধ্বংস করে, ০.১% জীবাণু কে ছেরে দেয় বংশবৃদ্ধি করার জন্য নাহলে ওদের ব্যবসা বন্ধ হয়ে যাবে",negative
+../dataset/Dataset\Memes\Halal Memes (192).jpg,Halal Memes (192).jpg,ভেনিস     ভিনিস প্রো ম্যাক্স  লাইট ইত্যাদি ,negative
+../dataset/Dataset\Memes\KAM (221).png,KAM (221).png,"আগে প্রতি ম্যাচে ১,৩,২ রান করতাম কিন্ত আজকে একসাথে ১৩২ রান করে ফেললাম ",positive
+../dataset/Dataset\Memes\KAM (183).jpg,KAM (183).jpg,"#ছাত্রী স্যার আপনি কি আমার চোখের দিকে তাকিয়ে একবারও বুঝতে পারেননা, ঐ চোখ দুটোতে কি লেখা আছে?  #স্যার ৫ বছর হয়ে গেল, এখনো তোর হাতের লেখাই ঠিকমত বুঝতে পারলাম না,আর চোখ",positive
+../dataset/Dataset\Memes\KAM (95).jpg,KAM (95).jpg,"কিছু মানুষ কেন ঝগড়া করার পর রিলেশনশিপ স্ট্যাটাস Single দিয়ে রাখে? কই আমি তো বাবা-মার সাথে, ঝগড়া করার পর এতিম লিখে রাখি না!",positive
+../dataset/Dataset\Memes\bamboo-vaiya (505).jpg,bamboo-vaiya (505).jpg,Watching porn for two hours without touching my dick,negative
+../dataset/Dataset\Memes\Bangla Thug Life (192).jpg,Bangla Thug Life (192).jpg,"সবজি খেয়ে বন্ধু যখন হাই হয়ে বলে "" দোস্ত থাক অনেক হইছে আজকে আর না""  আমিঃ  চলো আরেকবার উড়ি তুমি আর আমি ",negative
+../dataset/Dataset\Memes\tangaila (111).jpg,tangaila (111).jpg,"যখন আপনি একইসাথে ফুটবলে বার্সোলোনা, আর্জেন্টিনা আর ক্রিকেটে বাংলাদেশ, নিউজিল্যান্ড সাপোর্টার এবং কম জিপি এ পাওয়া হসচ পরীক্ষার্থী ",negative
+../dataset/Dataset\Memes\Bangla Thug Life (324).jpg,Bangla Thug Life (324).jpg,দোস্ত পাঁচশো টাকা হবে খোদার কসম কালকে ফেরত দিয়ে দিমু  বইলা যখন একমাস হবার পর বন্ধুর সাথে দেখা হয়      খানকির পোলা তোরেই তো আমি খুঁজতাছি ,negative
+../dataset/Dataset\Memes\Halal Memes (56).jpg,Halal Memes (56).jpg,*দোকানের বেগুনি       *বাসার বেগুনি,positive
+../dataset/Dataset\Memes\KAM (20).jpg,KAM (20).jpg,সুয়ারেজ তুমি ট্রেনের মধ্যে মহিলাদের কামড় দিয়েছিলে কেন? কি করবো বলেন... ওখানেতো লেখা ছিল মহিলাদের কামড়া!,positive
+../dataset/Dataset\Memes\ovodro_img (289).jpg,ovodro_img (289).jpg,"মিথ্যা বললি ক্যানো আমায়? বাথরুমে ওটা স্যাম্পু ছিল না ।।   আপনি কী করে বুঝলেন যে , ওটা স্যাম্পু ছিল না ? ?    মাথায় মেখেছিলাম কোন ফ্যানা হয়নি রে ঢ্যামনা । ",negative
+../dataset/Dataset\Memes\Halal Memes (4).jpg,Halal Memes (4).jpg,জীবনে বহু পাপ করেছি কিন্তু এরকম bakchodi কখনো করিনি ,negative
+../dataset/Dataset\Memes\KAM (534).jpg,KAM (534).jpg,আপনি সর্বশেষ কবে বিটিভি দেখেছেন? লাস্ট যেদিন ইত্যাদি হইছিলো!,positive
+../dataset/Dataset\Memes\ovodro_img (148).jpg,ovodro_img (148).jpg,বৌদি   gf  section 497 এর পরে যারা gf ছেড়ে    বৌদিদের দিকে নজর দেয় তারাই বুদ্ধিমান ,negative
+../dataset/Dataset\Memes\ovodro_img (98).jpg,ovodro_img (98).jpg,"যখন কেউ Ex এর ব্যাপারে অনেক ভালো কথা বলতে আসে    আমিঃ   আরে বাল, তুমি জান না, ওটা কত বড় আবাল ছিল ",negative
+../dataset/Dataset\Memes\bamboo-vaiya (248).jpg,bamboo-vaiya (248).jpg,Boy : I wanna FUCK you    Girl: What ??  Boy:  Fight for u    Understand u   Care for u    Kinda really wanna fuck u too     Girl,negative
+../dataset/Dataset\Memes\KAM (70).png,KAM (70).png,"ব্রাজিলের  জার্সি হলুদ, তাই তরকারিতে হলুদ খাওয়া ছাইড়া দিসি! বিয়া বাড়ির প্যান্ডেল নীল সাদা হইলে ওই বাড়িতে দাওয়াত খামু না!",positive
+../dataset/Dataset\Memes\KAM (69).jpg,KAM (69).jpg,I LOVE YOU! কিন্ত আমি লেসবিয়ান লেসবিয়ান মানে? মানে যে মেয়েদের ভালবাসে। লে হালুয়া!  তাহলে তো আমিও লেসবিয়ান! ,negative
+../dataset/Dataset\Memes\Bangla Thug Life (222).jpg,Bangla Thug Life (222).jpg,যখন বাপের কাছে বিড়ি খাইতে গিয়া ধইরা খাইছিলাম ,negative
+../dataset/Dataset\Memes\KAM (30).png,KAM (30).png,এই ১ হালি বড় ইলিশের দাম কত? ২৪০০০ টাকা ফইন্নির ঘরের ফইন্নি তুই মাছ বেচতে আইছস না জুয়েলারি?,positive
+../dataset/Dataset\Memes\ovodro_img (543).jpg,ovodro_img (543).jpg,বিভিন্ন রং এর কিছু ঘোড়া ,negative
+../dataset/Dataset\Memes\tangaila (277).jpg,tangaila (277).jpg,JUST CHILL   ঘাটাইলকে ট্রল করে অনেক গালি খাওয়ার পর    আমিঃ- ,negative
+../dataset/Dataset\Memes\nurani-memes (127).jpg,nurani-memes (127).jpg,"When tou go to your relatives house on ""Eid Day"" and ask for Salami ! Relatives :  We don't do that here ",positive
+../dataset/Dataset\Memes\KAM (476).jpg,KAM (476).jpg,বাস মনে করে উঠছিলাম! পরে বুঝলাম! এইটা তো বাস না! বড়সর একটা ওভেন আছিলো!,positive
+../dataset/Dataset\Memes\nurani-memes (34).jpg,nurani-memes (34).jpg,মীনা বাবা মার কত আদরের মেয়ে ?   কঃ ১০০   খঃ ২০০  গঃ ৫০০  ঘঃ ১০০০    ১০০০* ,positive
+../dataset/Dataset\Memes\ovodro_img (340).jpg,ovodro_img (340).jpg,যে ব্যাক্তি ব্রিগেড যেয়ে ডিমভাত পায়নি   পুরো দিন টা কোন টাকা ইনকাম করি নি    শুধুমাত্র ডিমভাত খাব বলে তাও পেলাম না ...    আজ তো বৌ খেতে দেবে না   যাই হোক ভুল টা বুঝলাম... আর কোনদিনও যাব না ,negative
+../dataset/Dataset\Memes\Halal Memes (251).jpg,Halal Memes (251).jpg,খেতে বসে আমি যখন এক পিসের জায়গায় দুই পিস মাছ নেই'  বড় ভাই TO ME :    Oye !!   Wapas Rakh Use   ,positive
+../dataset/Dataset\Memes\Bangla Thug Life (221).jpg,Bangla Thug Life (221).jpg,এতো মেকাপ করার পেছনে রহস্য কি জানতে চাইলে   বালিকাঃ একটু আক্টু মেকাপ না করলে ছেলেরা তো আর আমার পিছন পিছন ঘুরবো না ,negative
+../dataset/Dataset\Memes\ovodro_img (305).jpg,ovodro_img (305).jpg,আমাদের কোম্পানিতে একজন মহান পুরুষ দরকার ।   স্যার আমি প্রতিদিন স্নান করি ।   ওকে কোম্পানির CEO করে দাও ।  দুপুরে মাংস-ভাত খেয়ে যেতে বলি ।   আমার মেয়ের সাথে বিয়ে দেবো ভাবছি । ,neutral
+../dataset/Dataset\Memes\nurani-memes (180).jpg,nurani-memes (180).jpg,BracU nibbas celebrating Pahela Boishakh on 7th April     সম্রাট আকবরঃ   ????     ???? ,neutral
+../dataset/Dataset\Memes\Halal Memes (25).jpg,Halal Memes (25).jpg,যখন কারো বাসায় দাওয়াত খেতে যাই কিন্তু তাদের কাউকে চিনিনা ।   Me :,positive
+../dataset/Dataset\Memes\KAM (354).jpg,KAM (354).jpg,"পোশাক যার যার... কিন্তু পানি, সবার...!!",positive
+../dataset/Dataset\Memes\KAM (1).jpg,KAM (1).jpg,দিন দিন গার্লফ্রেন্ডদের যা ডিমান্ড বাড়ছে এবার থেকে প্রেম করতে গেলে ও ব্যাংক থেকে লোন নিতে হবে,negative
+../dataset/Dataset\Memes\bangla-memes (212).jpg,bangla-memes (212).jpg,NEW 40% THICKER ! Bullshits 2X BETTER'''',negative
+../dataset/Dataset\Memes\bangla-gag (92).jpg,bangla-gag (92).jpg, কিছু দিন আগে বৃষ্টি হয় না ক্যান ?!!   এখন বৃষ্টি থামে না ক্যান ? !!,positive
+../dataset/Dataset\Memes\Halal Memes (303).jpg,Halal Memes (303).jpg,জন্মদিনে ট্রিট নেওয়া বন্ধু যখন তার জন্মদিনে ট্রিট দিতে অস্বীকৃতি  জানায়*   আমিঃ    Ae madarchod majak nahi ho raha idhar   ,negative
+../dataset/Dataset\Memes\KAM (502).jpg,KAM (502).jpg,রাতে আপনার বাসায় চোঁর ঢুকে সব নিয়ে গেল কিন্তু টিভিটা নিল না কেন? আরে আমি তখন স্টার জলসায় সিরিয়াল দেখসিলাম তাই ওইটা নিতে দেইনি!,positive
+../dataset/Dataset\Memes\bangla-memes (100).jpg,bangla-memes (100).jpg,Me : *tries to unlock phone  with a wet finger*     My Fingerprint Sensor : হা-হা-হা পায় যে হাসি ,positive
+../dataset/Dataset\Memes\ovodro_img (327).jpg,ovodro_img (327).jpg,বছরের পর বছর বেকার থাকার পর ২৫০০ টাকা বেতনের সিভিক টিচার নিয়োগ হওয়ার পরে    বাবাগো বাচলুম ,negative
+../dataset/Dataset\Memes\KAM (702).jpg,KAM (702).jpg,মামা বাসস্টেশন যাবা? যামু 100 টাকা 100 টাকা এতো কেন? বাস স্টেশন দেখা যাচ্ছে আকাশের চাঁদ দেখা যাচ্ছে যাবেন নাকি?,positive
+../dataset/Dataset\Memes\tangaila (154).jpg,tangaila (154).jpg,আমি   ভালবাসা   মিম ,negative
+../dataset/Dataset\Memes\KAM (413).jpg,KAM (413).jpg,মাহমুদুল্লাহ তুমি পরপর ২ ম্যাচে সেঞ্চুরি করলা কেমনে? কারন আমি ডানো না ডিপ্লোমা খাই!,positive
+../dataset/Dataset\Memes\KAM (140).jpg,KAM (140).jpg,আজকের দিন স্মরণীয় করে রাখতে কিছু করবেনা! চলো জান ব্রেক-আপ করি! স্মরণীয় থাকবে!,positive
